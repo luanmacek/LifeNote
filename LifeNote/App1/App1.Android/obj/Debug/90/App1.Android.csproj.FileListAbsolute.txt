@@ -1,0 +1,1106 @@
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\bin\Debug\App1.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\bin\Debug\App1.Android.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\bin\Debug\com.companyname.app1.apk
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\bin\Debug\App1.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\bin\Debug\App1.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\build.props
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\adb.props
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\App1.Android.csprojAssemblyReference.cache
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\resourcepaths.cache
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res.flag
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\96d9094d4ae22fdb094bfbde4e5151578f216c39.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\bf970bb05a2298fe8707cc5013893ebb50ddcde0.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\d369295c4f8acd58b4db01232a34d28be60538bb.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\96d9094d4ae22fdb094bfbde4e5151578f216c39.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\bf970bb05a2298fe8707cc5013893ebb50ddcde0.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\d369295c4f8acd58b4db01232a34d28be60538bb.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\compiled.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\R.txt
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\R.cs.flag
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\XamlC.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\App1.Android.csproj.CopyComplete
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\App1.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\App1.Android.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.apk
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\layout\tabbar.xml
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\layout\toolbar.xml
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\values\styles.xml
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\values\colors.xml
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\uploadflags.txt
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\resolvedassemblies.hash
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\App1.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\App1.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\FormsViewGroup.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Java.Interop.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Mono.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\mscorlib.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Core.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Numerics.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Numerics.Vectors.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Runtime.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Xml.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Xml.Linq.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Collections.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomView.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Loader.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Media.Compat.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Print.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v4.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Essentials.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\netstandard.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Data.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Transactions.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Drawing.Common.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.IO.Compression.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Net.Http.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Web.Services.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Mono.Security.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\App1.Android.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\App1.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\FormsViewGroup.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Mono.Android.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Essentials.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\link.flag
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\App1.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\App1.Android.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\App1.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\App1.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Java.Interop.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Mono.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Mono.Security.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\mscorlib.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\netstandard.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Core.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Data.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Transactions.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.x86.s
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.x86.s
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\machine.config
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\mono.android.jar
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\static.flag
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\buildid.txt
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a445f6db5abf8b5b69aa92721cad9446\MainActivity.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsViewPager.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FragmentContainer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FrameRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailContainer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailPageRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_ClickListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_Container.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRendererBase_1.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\Platform_ModalContainer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ShellFragmentContainer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5423e3a95c357eb7d6aad61b4f54abbd4\RecyclerViewScrollListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AndroidActivity.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BaseCellView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BorderDrawable.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BoxRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonClickListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonTouchListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageAdapter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellAdapter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellRenderer_RendererHolder.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CenterSnapHelper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxDesignerRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRendererBase.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CircularProgress.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CollectionViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ColorChangeRevealDrawable.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ConditionalFocusLayout.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ContainerView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CustomFrameLayout.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DataChangeObserver.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRendererBase_1.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EdgeSnapHelper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorEditText.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRendererBase_1.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSingleSnapHelper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSnapHelper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryAccessibilityDelegate.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellEditText.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryEditText.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRendererBase_1.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_FontSpan.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_LineHeightSpan.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_TextDecorationSpan.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsAppCompatActivity.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsApplicationActivity.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditText.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditTextBase.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsImageView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsSeekBar.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsTextView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebChromeClient.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebViewClient.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer_FrameDrawable.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericAnimatorListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericMenuClickListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GestureManager_TapAndPanGestureDetector.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GridLayoutSpanSizeLookup.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupedListViewAdapter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageButtonRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_CacheEntry.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_FormsLruCache.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerGestureListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerScaleListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemContentView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewAdapter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LabelRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewAdapter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_Container.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LocalizedDigitsKeyListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailContainer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NativeViewWrapperRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NongreedySnapHelper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ObjectJavaBox_1.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer_Renderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageContainer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedFragment.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedSupportFragment.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerEditText.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerManager_PickerListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PlatformRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\Platform_DefaultRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PositionalSmoothScroller.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PowerSaveModeBroadcastReceiver.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ProgressBarRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollHelper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewContainer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SearchBarRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewAdapter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableViewHolder.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellContentFragment.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFragmentPagerAdapter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRendererBase.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellPageContainer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellRenderer_SplitDrawable.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_CustomFilter.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_ObjectWrapper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView_ClipDrawableWrapper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSectionRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SimpleViewHolder.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SingleSnapHelper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SizedItemContentView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SliderRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SpacingItemDecoration.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSingleSnapHelper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSnapHelper.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRendererManager_StepperListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchCellView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TabbedRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewModelRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TemplatedItemViewHolder.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextCellRenderer_TextCellView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextViewHolder.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRendererBase_1.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer_2.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementRenderer_1.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\transition\R.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\design\R.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\compat\R.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\packaged_resources
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\com\companyname\app1\R.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\classes.dex
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\90935a754d9a50f34f69d3dc9f2e261849adf1a1.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\10a87413142ae088041090affbaccf5a70a4a925.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\deac6f5a8056b9fe89696105e35638a40af05358.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\45f64ea15931ce3ce713928d17c5d51ad9689c32.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\1966f17597aeb0b35e4c2e756c2244f0981b88b6.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\20aa2645c8743eeb34b71eb98413e724dc618ef0.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\493cd7df44db3288af355d1cbd47f17fbb85299d.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\4cc304a1ad9081d99b4c67fc47cbc8e219ee7ac4.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\e26c7456441941cd20dc61c06c4bae7f40b69354.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\ce47288315d9dd4036550bed80f49f54a65a4af4.stamp
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\90935a754d9a50f34f69d3dc9f2e261849adf1a1.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\10a87413142ae088041090affbaccf5a70a4a925.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\deac6f5a8056b9fe89696105e35638a40af05358.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\45f64ea15931ce3ce713928d17c5d51ad9689c32.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\1966f17597aeb0b35e4c2e756c2244f0981b88b6.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\20aa2645c8743eeb34b71eb98413e724dc618ef0.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\493cd7df44db3288af355d1cbd47f17fbb85299d.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\4cc304a1ad9081d99b4c67fc47cbc8e219ee7ac4.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\e26c7456441941cd20dc61c06c4bae7f40b69354.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\flata\ce47288315d9dd4036550bed80f49f54a65a4af4.flata
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Syncfusion.Core.XForms.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Syncfusion.Core.XForms.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Syncfusion.Licensing.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Syncfusion.SfCalendar.XForms.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\Syncfusion.SfCalendar.XForms.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Resources.ResourceManager.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Reflection.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Collections.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Text.RegularExpressions.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Runtime.Extensions.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Linq.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Reflection.Extensions.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\linksrc\System.Text.Encoding.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.Core.XForms.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.Core.XForms.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.Licensing.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.SfCalendar.XForms.Android.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.SfCalendar.XForms.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Collections.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Linq.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Reflection.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Text.Encoding.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Text.RegularExpressions.dll
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5037fcd973d9535e70a1630896b137ccb\SfShimmerRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md533c0a8921e4153237a3ffec26b3759de\SfBorderRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md525515aaea8e1e7b653700744ebd40935\InputLayoutBorder.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md525515aaea8e1e7b653700744ebd40935\InputLayoutBorderRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md525515aaea8e1e7b653700744ebd40935\InputLayoutToggleViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md525515aaea8e1e7b653700744ebd40935\InputLayoutToggleViewRenderer_GestureListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md525515aaea8e1e7b653700744ebd40935\SfTextInputLayoutRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md502be9c66b0fa458cda86488a47aefb89\GestureListener.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md502be9c66b0fa458cda86488a47aefb89\SfEffectsViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5cc7ee65a25332fd36b10cc55814247de\SfGradientViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\AppoinmentViewLayout.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\CalendarArrow.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\CalendarHeader.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\CellTextView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\CustomHeaderTextView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\CustomTextView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\CustomView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\DayHeader.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\GridLineView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\InlineAppointmentView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\InlineLayout.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\MonthRowLayout.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\MonthText.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\MonthView.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\MonthViewItem.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\SfCalendar.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\SwipePanel.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\TextPanel.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5a5ef2baa6ee16f32e6a8325e10f58559\ViewRenderer.java
+D:\fmace\Desktop\IT maturita\LifeNote\LifeNote\LifeNote\App1\App1.Android\obj\Debug\90\android\src\md5877d2b522760721cf425177c94f60fb0\SfCalendarRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\build.props
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\adb.props
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\App1.Android.csprojAssemblyReference.cache
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\bin\Debug\App1.Android.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\bin\Debug\App1.Android.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\bin\Debug\com.companyname.app1.apk
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.aab
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\bin\Debug\App1.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\bin\Debug\App1.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\resourcepaths.cache
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\resourcecache.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res.flag
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\57AFCFB915FA73D9.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\A7F3E2E698426E7C.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\703D360CD6AADEEC.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\F8B5E89EFDAAE49C.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\57AFCFB915FA73D9.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\A7F3E2E698426E7C.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\703D360CD6AADEEC.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\F8B5E89EFDAAE49C.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\compiled.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\R.txt
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\R.cs.flag
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\XamlC.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\App1.Android.csproj.CopyComplete
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\App1.Android.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\App1.Android.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.apk
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\base.zip
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.aab
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.apks
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\layout\tabbar.xml
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\layout\toolbar.xml
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\values\styles.xml
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\values\colors.xml
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\sidenote_icon.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\calendar_icon.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\settings_icon.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\graph_icon.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\uploadflags.txt
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\resolvedassemblies.hash
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\App1.Android.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\App1.Android.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\App1.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\App1.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Java.Interop.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Mono.Android.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Mono.Security.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\mscorlib.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\mscorlib.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\netstandard.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\SQLite-net.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.Buttons.XForms.Android.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.Buttons.XForms.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.Core.XForms.Android.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.Core.XForms.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.Licensing.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.SfCalendar.XForms.Android.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Syncfusion.SfCalendar.XForms.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Collections.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Core.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Core.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Data.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Data.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Globalization.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Linq.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Reflection.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Text.Encoding.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Text.RegularExpressions.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Threading.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Transactions.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.x86.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.x86.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\__environment__.txt
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\machine.config
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\mono.android.jar
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\static.flag
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\buildid.txt
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\environment.arm64-v8a.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\environment.x86.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\environment.x86_64.s
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6494963511c3079d02\SfCheckBoxMaterialDesignRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6494963511c3079d02\SfCheckBoxRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6494963511c3079d02\SfRadioButtonMaterialDesignRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6494963511c3079d02\SfRadioButtonRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6476a6038b5d62edaf\Border.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6476a6038b5d62edaf\ContainerLayout.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6476a6038b5d62edaf\CustomHorizontalScrollView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6476a6038b5d62edaf\SegmentView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6476a6038b5d62edaf\SelectionStrip.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6476a6038b5d62edaf\SfCheckBox.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6476a6038b5d62edaf\SfCheckBox_SfSavedState.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6476a6038b5d62edaf\SfCheckBox_SfSavedState_SavedStateCreator.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6476a6038b5d62edaf\SfSegmentedControl.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6476a6038b5d62edaf\ViewLayout.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc644103bb497e895a1b\InputLayoutBorder.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc644103bb497e895a1b\InputLayoutBorderRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer_GestureListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc644103bb497e895a1b\SfTextInputLayoutRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc643ddf594df781e5ec\SfBorderRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64256bdbc174c459bf\SfCalendarRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\AppoinmentViewLayout.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\CalendarArrow.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\CalendarHeader.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\CellTextView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\CustomHeaderTextView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\CustomTextView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\CustomView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\DayHeader.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\GridLineView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\InlineAppointmentView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\InlineLayout.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\MonthRowLayout.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\MonthText.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\MonthView.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\MonthViewItem.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\SfCalendar.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\SwipePanel.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\TextPanel.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6423633d566e126249\ViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc640879981a986d658b\SfGradientViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64f606ab658bf2774f\SfShimmerRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64f606ab658bf2774f\ShimmerViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64eeb36180fe6023e2\GestureListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64eeb36180fe6023e2\SfEffectsViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64dcfb2fe544294a8b\SfSegmentedControlRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64dcfb2fe544294a8b\SfSwitchElementViewRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64dcfb2fe544294a8b\SfTouchEffectMaterialDesignRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64dcfb2fe544294a8b\TouchEffectRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\transition\R.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64ad68f59cd763e462\MainActivity.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\design\R.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\android\support\compat\R.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64951dfa51216f9180\ViewContainer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\packaged_resources
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\com\companyname\app1\R.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.x86.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.x86.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\environment.arm64-v8a.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\environment.x86.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\environment.x86_64.o
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\bin\classes.dex
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\8487411D94DC8CA2.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\13EBA07000FA6EE1.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\A806603C7064C2AF.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\64CAD1674E64E5E7.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\74DB6C4219649107.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\1CE33BEEE946CC50.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\47436BD84360095B.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\BCF18757E8AAF9A4.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\E8A455BBAAAA907C.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\7FC8B4D63E8C723F.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\8487411D94DC8CA2.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\13EBA07000FA6EE1.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\A806603C7064C2AF.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\64CAD1674E64E5E7.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\74DB6C4219649107.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\1CE33BEEE946CC50.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\47436BD84360095B.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\BCF18757E8AAF9A4.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\E8A455BBAAAA907C.flata
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\flata\7FC8B4D63E8C723F.flata

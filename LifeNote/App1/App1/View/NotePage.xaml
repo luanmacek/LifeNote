@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+xmlns:button="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App1.NotePage" BackgroundColor="LightYellow" NavigationPage.HasBackButton="False" > 
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Grid.Row="0">
+                <Label x:Name="date_label" FontSize="20" HorizontalTextAlignment="End"></Label>
+                <Editor Placeholder="Title" HorizontalOptions="Center" AutoSize="TextChanges" x:Name="title_editor"></Editor>
+            </StackLayout>
+            <Editor Keyboard="Chat" FontSize="20" Grid.Row="1" HeightRequest="380" WidthRequest="250" Placeholder="Dear diary..." x:Name="content_editor"></Editor>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <button:SfButton Clicked="SfButton_Clicked" Text="Save" CornerRadius="20"  ImageSource="save_icon.png" ShowIcon="True" HorizontalTextAlignment="Center" WidthRequest="100"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
