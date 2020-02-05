@@ -35,12 +35,12 @@ namespace App1.View
                 newnote.Title = "";
                 newnote.Date = date.ToString("MM/dd/yyyy");
                 newnote.Content = "";
-                MainPage.NewNote(newnote);
+                await Navigation.PushAsync(new NotePage(newnote));
 
             }
             else
             {
-                MainPage.OldNote(oldnote);
+                await Navigation.PushAsync(new NotePage(oldnote));
             }
         }
     }

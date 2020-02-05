@@ -12,7 +12,7 @@ using Xamarin.Forms.Xaml;
 namespace App1
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class NotePage : ContentPage
+    public partial class NotePage 
     {
         Note note;
         public NotePage(Note Note)

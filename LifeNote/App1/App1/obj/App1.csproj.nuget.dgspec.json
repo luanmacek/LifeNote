@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[17.4.0.44, )"
             },
+            "Syncfusion.Xamarin.SfListView": {
+              "target": "Package",
+              "version": "[17.4.0.46, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.2.0, )"

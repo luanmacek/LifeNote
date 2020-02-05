@@ -8,6 +8,7 @@ SQLitePCLRaw.provider.e_sqlite3
 Syncfusion.Buttons.XForms.Android
 Syncfusion.Core.XForms.Android
 Syncfusion.SfCalendar.XForms.Android
+Syncfusion.SfListView.XForms.Android
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Core.Runtime
 Xamarin.Android.Arch.Lifecycle.Common

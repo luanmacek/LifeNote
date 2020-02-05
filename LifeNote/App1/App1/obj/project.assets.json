@@ -101,6 +101,24 @@
           "lib/netstandard2.0/Syncfusion.Core.XForms.dll": {}
         }
       },
+      "Syncfusion.Xamarin.DataSource/17.4.0.46": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Syncfusion.DataSource.Portable.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.DataSource.Portable.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.GridCommon/17.4.0.46": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Syncfusion.GridCommon.Portable.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.GridCommon.Portable.dll": {}
+        }
+      },
       "Syncfusion.Xamarin.SfCalendar/17.4.0.44": {
         "type": "package",
         "dependencies": {
@@ -112,6 +130,21 @@
         },
         "runtime": {
           "lib/netstandard2.0/Syncfusion.SfCalendar.XForms.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.SfListView/17.4.0.46": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.4.0.46",
+          "Syncfusion.Xamarin.DataSource": "17.4.0.46",
+          "Syncfusion.Xamarin.GridCommon": "17.4.0.46",
+          "Xamarin.Forms": "3.6.0.344457"
+        },
+        "compile": {
+          "lib/netstandard2.0/Syncfusion.SfListView.XForms.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SfListView.XForms.dll": {}
         }
       },
       "System.Numerics.Vectors/4.5.0": {
@@ -477,6 +510,50 @@
         "syncfusion.xamarin.core.nuspec"
       ]
     },
+    "Syncfusion.Xamarin.DataSource/17.4.0.46": {
+      "sha512": "HMQqevnbmb8TM/kN8S889QkjDl/d+OAHmnbp7doZ/bajsplfeky/BtNGSL0MOhTeKHuXf9R8lOkI+6VfN0mOnw==",
+      "type": "package",
+      "path": "syncfusion.xamarin.datasource/17.4.0.46",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Syncfusion.DataSource.Portable.XML",
+        "lib/MonoAndroid10/Syncfusion.DataSource.Portable.dll",
+        "lib/Xamarin.iOS10/Syncfusion.DataSource.Portable.XML",
+        "lib/Xamarin.iOS10/Syncfusion.DataSource.Portable.dll",
+        "lib/netstandard2.0/Syncfusion.DataSource.Portable.XML",
+        "lib/netstandard2.0/Syncfusion.DataSource.Portable.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.DataSource.Portable.XML",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.DataSource.Portable.dll",
+        "lib/uap10.0/Syncfusion.DataSource.Portable.XML",
+        "lib/uap10.0/Syncfusion.DataSource.Portable.dll",
+        "syncfusion.xamarin.datasource.17.4.0.46.nupkg.sha512",
+        "syncfusion.xamarin.datasource.nuspec"
+      ]
+    },
+    "Syncfusion.Xamarin.GridCommon/17.4.0.46": {
+      "sha512": "OGC/QWhqCwjm5HZgSMbwMz80+Jmdop5g0hkehrKs8RWpTwtd2ABnfaudMScbz2C/1rkLslwB9hiIHmUVdKcxKQ==",
+      "type": "package",
+      "path": "syncfusion.xamarin.gridcommon/17.4.0.46",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Syncfusion.GridCommon.Portable.XML",
+        "lib/MonoAndroid10/Syncfusion.GridCommon.Portable.dll",
+        "lib/Xamarin.Mac/Syncfusion.GridCommon.Portable.XML",
+        "lib/Xamarin.Mac/Syncfusion.GridCommon.Portable.dll",
+        "lib/Xamarin.iOS10/Syncfusion.GridCommon.Portable.XML",
+        "lib/Xamarin.iOS10/Syncfusion.GridCommon.Portable.dll",
+        "lib/netstandard2.0/Syncfusion.GridCommon.Portable.XML",
+        "lib/netstandard2.0/Syncfusion.GridCommon.Portable.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.GridCommon.Portable.XML",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.GridCommon.Portable.dll",
+        "lib/uap10.0/Syncfusion.GridCommon.Portable.XML",
+        "lib/uap10.0/Syncfusion.GridCommon.Portable.dll",
+        "syncfusion.xamarin.gridcommon.17.4.0.46.nupkg.sha512",
+        "syncfusion.xamarin.gridcommon.nuspec"
+      ]
+    },
     "Syncfusion.Xamarin.SfCalendar/17.4.0.44": {
       "sha512": "GW/EQjM1cHJr3RdU2xwGlGBc82yOXzsr5hdG6iC3lwOIq/t9XZn0s33BDqPC3+gwlqwQW5PjsKt+JJ6aKX1fKg==",
       "type": "package",
@@ -500,6 +577,33 @@
         "lib/uap10.0/Syncfusion.SfCalendar.XForms.xml",
         "syncfusion.xamarin.sfcalendar.17.4.0.44.nupkg.sha512",
         "syncfusion.xamarin.sfcalendar.nuspec"
+      ]
+    },
+    "Syncfusion.Xamarin.SfListView/17.4.0.46": {
+      "sha512": "D4xoK7f94aCHELIsaZiU1I00V+b0qi5WFS0lMhAxIsEEVZ6yhWMXNi8crfPS0zrVp+Z5xzAPrm2eMrdWVDxTrw==",
+      "type": "package",
+      "path": "syncfusion.xamarin.sflistview/17.4.0.46",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Syncfusion.SfListView.XForms.Android.dll",
+        "lib/MonoAndroid10/Syncfusion.SfListView.XForms.dll",
+        "lib/MonoAndroid10/Syncfusion.SfListView.XForms.xml",
+        "lib/Xamarin.Mac/Syncfusion.SfListView.XForms.dll",
+        "lib/Xamarin.Mac/Syncfusion.SfListView.XForms.macOS.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfListView.XForms.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfListView.XForms.iOS.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfListView.XForms.xml",
+        "lib/netstandard2.0/Syncfusion.SfListView.XForms.dll",
+        "lib/netstandard2.0/Syncfusion.SfListView.XForms.xml",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.SfListView.XForms.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.SfListView.XForms.xml",
+        "lib/uap10.0/Syncfusion.SfListView.XForms.UWP.XML",
+        "lib/uap10.0/Syncfusion.SfListView.XForms.UWP.dll",
+        "lib/uap10.0/Syncfusion.SfListView.XForms.dll",
+        "lib/uap10.0/Syncfusion.SfListView.XForms.xml",
+        "syncfusion.xamarin.sflistview.17.4.0.46.nupkg.sha512",
+        "syncfusion.xamarin.sflistview.nuspec"
       ]
     },
     "System.Numerics.Vectors/4.5.0": {
@@ -844,6 +948,7 @@
       "NETStandard.Library >= 2.0.3",
       "Syncfusion.Xamarin.Buttons >= 17.4.0.46",
       "Syncfusion.Xamarin.SfCalendar >= 17.4.0.44",
+      "Syncfusion.Xamarin.SfListView >= 17.4.0.46",
       "Xamarin.Essentials >= 1.2.0",
       "Xamarin.Forms >= 4.2.0.709249",
       "sqlite-net-pcl >= 1.6.292"
@@ -904,6 +1009,10 @@
           "Syncfusion.Xamarin.SfCalendar": {
             "target": "Package",
             "version": "[17.4.0.44, )"
+          },
+          "Syncfusion.Xamarin.SfListView": {
+            "target": "Package",
+            "version": "[17.4.0.46, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",
