@@ -3,28 +3,27 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:App1.View"
              x:Class="App1.NotePage"
-             xmlns:button="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             xmlns:c="clr-namespace:App1.Controls"
+             xmlns:richtexteditor="clr-namespace:Syncfusion.XForms.RichTextEditor;assembly=Syncfusion.SfRichTextEditor.XForms"
              android:TabbedPage.ToolbarPlacement="Bottom"
              android:TabbedPage.BarSelectedItemColor="Blue"
              android:TabbedPage.BarItemColor="Gray"
-             NavigationPage.HasBackButton="False"
+             NavigationPage.HasBackButton="False"          
              Title="LifeNote">
     <ContentPage 
              BackgroundColor="LightYellow" Title="Note">
         <ContentPage.Content>
             <StackLayout>
-                <StackLayout Grid.Row="0">
-                    <Label x:Name="date_label" FontSize="20" HorizontalTextAlignment="End"></Label>
-                    <Editor Placeholder="Title" HorizontalOptions="Center" AutoSize="TextChanges" x:Name="title_editor"></Editor>
-                </StackLayout>
-                <Editor Keyboard="Chat" FontSize="20" Grid.Row="1" HeightRequest="380" WidthRequest="250" Placeholder="Dear diary..." x:Name="content_editor"></Editor>
-                <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-                    <button:SfButton Clicked="SfButton_Clicked" Text="Save" CornerRadius="20"  ImageSource="save_icon.png" ShowIcon="True" HorizontalTextAlignment="Center" WidthRequest="80"/>
-                </StackLayout>
+                <Label x:Name="date_label" FontSize="20" FontAttributes="Bold" HorizontalOptions="End"></Label>
+                <c:FloatingMenu BGColor="DarkCyan" OpenIcon="action_icon.png" CloseIcon="x_icon.png" HorizontalOptions="Start" >
+                    <c:FloatingButton x:Name="SaveB" BGColor="LightBlue" IconSrc="savenote_icon.png" />
+                    <c:FloatingButton x:Name="RateB" BGColor="PeachPuff" IconSrc="star_icon.png" />
+                </c:FloatingMenu>
+                <richtexteditor:SfRichTextEditor VerticalOptions="FillAndExpand" x:Name="content_editor" PlaceHolder="Type something"/>
             </StackLayout>
         </ContentPage.Content>
         <ContentPage.IconImageSource>

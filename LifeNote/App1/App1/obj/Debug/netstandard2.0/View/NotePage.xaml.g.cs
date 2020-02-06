@@ -20,17 +20,21 @@ namespace App1 {
         private global::Xamarin.Forms.Label date_label;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Editor title_editor;
+        private global::App1.Controls.FloatingButton SaveB;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Editor content_editor;
+        private global::App1.Controls.FloatingButton RateB;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Syncfusion.XForms.RichTextEditor.SfRichTextEditor content_editor;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(NotePage));
             date_label = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "date_label");
-            title_editor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Editor>(this, "title_editor");
-            content_editor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Editor>(this, "content_editor");
+            SaveB = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::App1.Controls.FloatingButton>(this, "SaveB");
+            RateB = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::App1.Controls.FloatingButton>(this, "RateB");
+            content_editor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Syncfusion.XForms.RichTextEditor.SfRichTextEditor>(this, "content_editor");
         }
     }
 }

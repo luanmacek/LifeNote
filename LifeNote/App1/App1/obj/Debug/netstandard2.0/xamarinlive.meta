@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\App.xaml</FilePath>
+      <Hash>3B-C3-E5-DE-F4-37-B1-B9-19-0F-29-C6-30-84-34-3B</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\Controls\FloatingButton.xaml</FilePath>
+      <Hash>56-79-DE-3D-AA-7F-1A-63-05-09-C8-49-F8-B2-DF-74</Hash>
+      <Properties>
+        <string>HeightRequest</string>
+        <string>WidthRequest</string>
+        <string>Padding</string>
+        <string>Margin</string>
+        <string>CornerRadius</string>
+        <string>HasShadow</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\Controls\FloatingMenu.xaml</FilePath>
+      <Hash>74-54-9B-30-01-CE-84-AA-C4-5A-55-69-43-1A-63-E4</Hash>
+      <Properties>
+        <string>Rotation</string>
+        <string>Margin</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\View\CalendarPage.xaml</FilePath>
+      <Hash>E6-99-2A-D3-0A-E0-68-9B-65-23-F8-0E-05-80-35-F8</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\View\MainPage.xaml</FilePath>
+      <Hash>A4-13-B2-D9-B7-2E-A6-82-B5-96-41-A3-42-86-8F-DD</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\View\NotePage.xaml</FilePath>
+      <Hash>A6-86-25-F6-DD-43-E5-2E-90-2E-B6-9D-05-2A-8D-8A</Hash>
+      <Properties>
+        <string>NavigationPage.HasBackButton</string>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\View\SettingsPage.xaml</FilePath>
+      <Hash>FB-20-4F-0F-28-80-A6-9E-B6-FA-BF-D0-59-92-44-4F</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\View\SideNotePage.xaml</FilePath>
+      <Hash>53-7B-5F-EA-68-7F-B2-75-F5-75-5B-7E-FC-C0-39-12</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\View\StatisticsPage.xaml</FilePath>
+      <Hash>D6-D6-7C-BB-E6-B8-A2-CE-61-61-B9-48-11-43-13-49</Hash>
+      <Properties />
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

@@ -21,7 +21,10 @@ namespace App1.Droid
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+
             LoadApplication(new App());
+
+            Window.SetSoftInputMode(Android.Views.SoftInput.AdjustResize);
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {

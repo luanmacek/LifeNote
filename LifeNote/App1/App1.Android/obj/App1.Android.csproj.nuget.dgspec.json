@@ -44,19 +44,27 @@
           "dependencies": {
             "Syncfusion.Xamarin.SfCalendar": {
               "target": "Package",
-              "version": "[17.3.0.29, )"
+              "version": "[17.4.0.47, )"
+            },
+            "Syncfusion.Xamarin.SfRichTextEditor": {
+              "target": "Package",
+              "version": "[17.4.0.47, )"
             },
             "Xamarin.Android.Support.Core.Utils": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[1.3.1, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.2.0.709249, )"
+              "version": "[4.4.0.991640, )"
             }
           }
         }
@@ -100,6 +108,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "LiveXAML": {
+              "target": "Package",
+              "version": "[2.1.73, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -108,23 +120,27 @@
             },
             "Syncfusion.Xamarin.Buttons": {
               "target": "Package",
-              "version": "[17.4.0.46, )"
+              "version": "[17.4.0.47, )"
             },
             "Syncfusion.Xamarin.SfCalendar": {
               "target": "Package",
-              "version": "[17.4.0.44, )"
+              "version": "[17.4.0.47, )"
             },
             "Syncfusion.Xamarin.SfListView": {
               "target": "Package",
-              "version": "[17.4.0.46, )"
+              "version": "[17.4.0.47, )"
+            },
+            "Syncfusion.Xamarin.SfRichTextEditor": {
+              "target": "Package",
+              "version": "[17.4.0.47, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[1.3.1, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.2.0.709249, )"
+              "version": "[4.4.0.991640, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",

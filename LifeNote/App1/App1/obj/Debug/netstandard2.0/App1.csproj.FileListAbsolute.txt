@@ -29,7 +29,8 @@ D:\fmace\Desktop\LifeNote\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.cspro
 D:\fmace\Desktop\LifeNote\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.dll
 D:\fmace\Desktop\LifeNote\LifeNote\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
 D:\fmace\Desktop\LifeNote\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.pdb
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\Controls\FloatingButton.xaml.g.cs
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\Controls\FloatingMenu.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\CalendarPage.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\NotePage.xaml.g.cs
@@ -38,10 +39,6 @@ D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\Vie
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\StatisticsPage.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.dll
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.pdb
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\bin\Debug\netstandard2.0\App1.dll
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
@@ -49,5 +46,10 @@ D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\bin\Debug\netstandard2.0\App
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\bin\Debug\netstandard2.0\Mono.Android.dll
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\bin\Debug\netstandard2.0\Mono.Android.pdb
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\bin\Debug\netstandard2.0\Mono.Android.xml
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CopyComplete
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp

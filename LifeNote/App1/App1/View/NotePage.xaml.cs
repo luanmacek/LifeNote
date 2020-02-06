@@ -20,17 +20,26 @@ namespace App1
             InitializeComponent();
             note = Note;
             date_label.Text = note.Date;
-            title_editor.Text = note.Title;
             content_editor.Text = note.Content;
+
+            SaveB.OnClickCommand = new Command(async () =>
+            {
+                await DisplayAlert("Share", "Shared on Facebook!", "OK!");
+            });
+            RateB.OnClickCommand = new Command(async () =>
+            {
+                await DisplayAlert("Share", "Shared on Twitter!", "OK!");
+            });
         }
 
-        private async void SfButton_Clicked(object sender, EventArgs e)
+
+        private async void FloatingActionButton_Clicked(object sender, EventArgs e)
         {
-            note.Date = date_label.Text ;
-            note.Title = title_editor.Text;
+            note.Date = date_label.Text;
             note.Content = content_editor.Text;
             await App.Database.SaveNoteAsync(note);
-            Toast.MakeText(Android.App.Application.Context, "Note " + note.Title + " has been succefuly saved.", ToastLength.Long).Show();
+            Toast.MakeText(Android.App.Application.Context, "Note has been succefuly saved.", ToastLength.Long).Show();
         }
+
     }
 }
