@@ -20,10 +20,10 @@ namespace App1 {
         private global::Xamarin.Forms.Label date_label;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::App1.Controls.FloatingButton SaveB;
+        private global::Xamarin.Forms.Image rateimage;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::App1.Controls.FloatingButton RateB;
+        private global::Xamarin.Forms.Slider points_slider;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Syncfusion.XForms.RichTextEditor.SfRichTextEditor content_editor;
@@ -32,8 +32,8 @@ namespace App1 {
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(NotePage));
             date_label = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "date_label");
-            SaveB = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::App1.Controls.FloatingButton>(this, "SaveB");
-            RateB = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::App1.Controls.FloatingButton>(this, "RateB");
+            rateimage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "rateimage");
+            points_slider = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Slider>(this, "points_slider");
             content_editor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Syncfusion.XForms.RichTextEditor.SfRichTextEditor>(this, "content_editor");
         }
     }

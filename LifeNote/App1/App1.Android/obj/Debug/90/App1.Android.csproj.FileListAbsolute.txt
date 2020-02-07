@@ -1192,3 +1192,9 @@ D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64d478ed32b2f14986\WebClientExtenstion.java
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64cad742debd39f951\MaterialSfPickerRenderer.java
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64cad742debd39f951\SfPickerRenderer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate1.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate2.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate3.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate4.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate5.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate0.png

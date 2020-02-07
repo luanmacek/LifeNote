@@ -11,6 +11,6 @@ namespace App1.Model
         public int Id { get; set; }
         public string Date { get; set; }
         public string Content { get; set; }
-        public int Points { get; set; }
+        public double Points { get; set; }
     }
 }

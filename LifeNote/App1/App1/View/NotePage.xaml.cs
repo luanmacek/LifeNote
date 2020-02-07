@@ -21,25 +21,46 @@ namespace App1
             note = Note;
             date_label.Text = note.Date;
             content_editor.Text = note.Content;
-
-            SaveB.OnClickCommand = new Command(async () =>
-            {
-                await DisplayAlert("Share", "Shared on Facebook!", "OK!");
-            });
-            RateB.OnClickCommand = new Command(async () =>
-            {
-                await DisplayAlert("Share", "Shared on Twitter!", "OK!");
-            });
         }
 
-
-        private async void FloatingActionButton_Clicked(object sender, EventArgs e)
+        private async void save_clicked(object sender, EventArgs e)
         {
             note.Date = date_label.Text;
             note.Content = content_editor.Text;
+            note.Points = points_slider.Value;
             await App.Database.SaveNoteAsync(note);
             Toast.MakeText(Android.App.Application.Context, "Note has been succefuly saved.", ToastLength.Long).Show();
         }
+        void OnSliderValueChanged(object sender, ValueChangedEventArgs e)
+        {
+            var newStep = Math.Round(e.NewValue / 1.0);
 
+            points_slider.Value = newStep * 1.0;
+
+            if (points_slider.Value == 0)
+            {
+                rateimage.Source = ImageSource.FromFile("rate0.png");
+            }
+            else if(points_slider.Value == 1)
+            {
+                rateimage.Source = ImageSource.FromFile("rate1.png");
+            }
+            else if(points_slider.Value == 2)
+            {
+                rateimage.Source = ImageSource.FromFile("rate2.png");
+            }
+            else if (points_slider.Value == 3)
+            {
+                rateimage.Source = ImageSource.FromFile("rate3.png");
+            }
+            else if (points_slider.Value == 4)
+            {
+                rateimage.Source = ImageSource.FromFile("rate4.png");
+            }
+            else if (points_slider.Value == 5)
+            {
+                rateimage.Source = ImageSource.FromFile("rate5.png");
+            }
+        }
     }
 }

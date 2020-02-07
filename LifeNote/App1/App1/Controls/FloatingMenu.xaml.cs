@@ -117,7 +117,7 @@ namespace App1.Controls
             for (int i = 1; i < Children.Count; i++)
             {
                 Children[i].Scale = 0.7;
-                AbsoluteLayout.SetLayoutBounds(Children[i], new Rectangle((-60 * i),0, 60, 60));
+                AbsoluteLayout.SetLayoutBounds(Children[i], new Rectangle((60 * i),0, 60, 60));
                 Children[i].Rotation = 180;
                 ((FloatingButton)Children[i]).ExtraCommand = new Command(() => { Collapse(AnimationTime); });
             }
@@ -131,7 +131,7 @@ namespace App1.Controls
             int raisInd = raised ? 1 : 0;
             for (int i = 1 - raisInd; i < Children.Count - raisInd; i++)
             {
-                Children[i].TranslateTo(60, 0 * (i + raisInd), (uint)time);
+                Children[i].TranslateTo(-60, 0 * (i + raisInd), (uint)time);
             }
             await Task.Delay(time);
             for (int i = 1 - raisInd; i < Children.Count - raisInd; i++)
@@ -148,7 +148,7 @@ namespace App1.Controls
             for (int i = 0; i < Children.Count - 1; i++)
             {
                 Children[i].IsVisible = true;
-                Children[i].TranslateTo(0, 0, (uint)time);
+                Children[i].TranslateTo(30, 0, (uint)time);
                 Children[i].InputTransparent = false;
             }
 
