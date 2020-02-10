@@ -5197,19 +5197,18 @@ public final class R {
     public static final int popup_forms_android_shadow=0x7f07016a;
     public static final int popup_forms_dark_theme_close_icon=0x7f07016b;
     public static final int popup_forms_light_theme_close_icon=0x7f07016c;
-    public static final int rate0=0x7f07016d;
-    public static final int rate1=0x7f07016e;
-    public static final int rate2=0x7f07016f;
-    public static final int rate3=0x7f070170;
-    public static final int rate4=0x7f070171;
-    public static final int rate5=0x7f070172;
-    public static final int savenote_icon=0x7f070173;
-    public static final int settings_icon=0x7f070174;
-    public static final int sidenote_icon=0x7f070175;
-    public static final int star_icon=0x7f070176;
-    public static final int tooltip_frame_dark=0x7f070177;
-    public static final int tooltip_frame_light=0x7f070178;
-    public static final int x_icon=0x7f070179;
+    public static final int rate1=0x7f07016d;
+    public static final int rate2=0x7f07016e;
+    public static final int rate3=0x7f07016f;
+    public static final int rate4=0x7f070170;
+    public static final int rate5=0x7f070171;
+    public static final int savenote_icon=0x7f070172;
+    public static final int settings_icon=0x7f070173;
+    public static final int sidenote_icon=0x7f070174;
+    public static final int star_icon=0x7f070175;
+    public static final int tooltip_frame_dark=0x7f070176;
+    public static final int tooltip_frame_light=0x7f070177;
+    public static final int x_icon=0x7f070178;
   }
   public static final class id {
     public static final int ALT=0x7f080000;

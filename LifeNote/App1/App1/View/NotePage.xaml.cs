@@ -21,12 +21,13 @@ namespace App1
             note = Note;
             date_label.Text = note.Date;
             content_editor.Text = note.Content;
+            points_slider.Value = note.Points;
         }
 
         private async void save_clicked(object sender, EventArgs e)
         {
             note.Date = date_label.Text;
-            note.Content = content_editor.Text;
+            note.Content = content_editor.GetHtmlString();
             note.Points = points_slider.Value;
             await App.Database.SaveNoteAsync(note);
             Toast.MakeText(Android.App.Application.Context, "Note has been succefuly saved.", ToastLength.Long).Show();
@@ -37,11 +38,8 @@ namespace App1
 
             points_slider.Value = newStep * 1.0;
 
-            if (points_slider.Value == 0)
-            {
-                rateimage.Source = ImageSource.FromFile("rate0.png");
-            }
-            else if(points_slider.Value == 1)
+
+           if(points_slider.Value == 1)
             {
                 rateimage.Source = ImageSource.FromFile("rate1.png");
             }

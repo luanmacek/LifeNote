@@ -1197,4 +1197,3 @@ D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\dra
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate3.png
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate4.png
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate5.png
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate0.png

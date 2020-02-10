@@ -9545,43 +9545,40 @@ namespace App1.Droid
 			public const int popup_forms_light_theme_close_icon = 2131165548;
 			
 			// aapt resource value: 0x7F07016D
-			public const int rate0 = 2131165549;
+			public const int rate1 = 2131165549;
 			
 			// aapt resource value: 0x7F07016E
-			public const int rate1 = 2131165550;
+			public const int rate2 = 2131165550;
 			
 			// aapt resource value: 0x7F07016F
-			public const int rate2 = 2131165551;
+			public const int rate3 = 2131165551;
 			
 			// aapt resource value: 0x7F070170
-			public const int rate3 = 2131165552;
+			public const int rate4 = 2131165552;
 			
 			// aapt resource value: 0x7F070171
-			public const int rate4 = 2131165553;
+			public const int rate5 = 2131165553;
 			
 			// aapt resource value: 0x7F070172
-			public const int rate5 = 2131165554;
+			public const int savenote_icon = 2131165554;
 			
 			// aapt resource value: 0x7F070173
-			public const int savenote_icon = 2131165555;
+			public const int settings_icon = 2131165555;
 			
 			// aapt resource value: 0x7F070174
-			public const int settings_icon = 2131165556;
+			public const int sidenote_icon = 2131165556;
 			
 			// aapt resource value: 0x7F070175
-			public const int sidenote_icon = 2131165557;
+			public const int star_icon = 2131165557;
 			
 			// aapt resource value: 0x7F070176
-			public const int star_icon = 2131165558;
+			public const int tooltip_frame_dark = 2131165558;
 			
 			// aapt resource value: 0x7F070177
-			public const int tooltip_frame_dark = 2131165559;
+			public const int tooltip_frame_light = 2131165559;
 			
 			// aapt resource value: 0x7F070178
-			public const int tooltip_frame_light = 2131165560;
-			
-			// aapt resource value: 0x7F070179
-			public const int x_icon = 2131165561;
+			public const int x_icon = 2131165560;
 			
 			static Drawable()
 			{

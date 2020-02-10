@@ -19,20 +19,10 @@
              BackgroundColor="LightYellow" Title="Note">
         <ContentPage.Content>
             <StackLayout>
-                <Grid>
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="*" />
-                        <ColumnDefinition Width="*" />
-                    </Grid.ColumnDefinitions>
-                    <StackLayout>
-                        <Label x:Name="date_label" FontSize="20" FontAttributes="Bold" HorizontalOptions="Start"></Label>
-                        <Image x:Name="rateimage" Source="rate0.png"></Image>
-                        <Slider Minimum="0" Maximum="5" x:Name="points_slider" ValueChanged="OnSliderValueChanged"></Slider>
-                    </StackLayout>
-                    <StackLayout Grid.Column="1">
-                        <buttons:SfButton Clicked="save_clicked" Text="Save" ShowIcon="True" ImageSource="savenote_icon.png" CornerRadius="20" WidthRequest="3" HeightRequest="50" Margin="10"/>
-                    </StackLayout>
-                </Grid>
+                <Label x:Name="date_label" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center"></Label>
+                <Image x:Name="rateimage" Source="rate1.png"  HorizontalOptions="Center" WidthRequest="300" ></Image>
+                <Slider Maximum="5" Minimum="1"  x:Name="points_slider" ValueChanged="OnSliderValueChanged" WidthRequest="280" HorizontalOptions="Center" Margin="10"></Slider>
+                <buttons:SfButton Clicked="save_clicked" Text="Save" ShowIcon="True" ImageSource="savenote_icon.png" CornerRadius="20" WidthRequest="100" HeightRequest="35" Margin="10" HorizontalOptions="Center"/>
                 <richtexteditor:SfRichTextEditor VerticalOptions="FillAndExpand" x:Name="content_editor" PlaceHolder="Type something"/>
             </StackLayout>
         </ContentPage.Content>
