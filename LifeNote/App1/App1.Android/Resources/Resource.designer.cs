@@ -9565,20 +9565,26 @@ namespace App1.Droid
 			// aapt resource value: 0x7F070173
 			public const int settings_icon = 2131165555;
 			
+			// aapt resource value: 0x7F070176
+			public const int sidenotemenu = 2131165558;
+			
 			// aapt resource value: 0x7F070174
 			public const int sidenote_icon = 2131165556;
 			
 			// aapt resource value: 0x7F070175
-			public const int star_icon = 2131165557;
-			
-			// aapt resource value: 0x7F070176
-			public const int tooltip_frame_dark = 2131165558;
+			public const int sidenote_plus = 2131165557;
 			
 			// aapt resource value: 0x7F070177
-			public const int tooltip_frame_light = 2131165559;
+			public const int star_icon = 2131165559;
 			
 			// aapt resource value: 0x7F070178
-			public const int x_icon = 2131165560;
+			public const int tooltip_frame_dark = 2131165560;
+			
+			// aapt resource value: 0x7F070179
+			public const int tooltip_frame_light = 2131165561;
+			
+			// aapt resource value: 0x7F07017A
+			public const int x_icon = 2131165562;
 			
 			static Drawable()
 			{

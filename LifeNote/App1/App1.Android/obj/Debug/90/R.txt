@@ -1322,10 +1322,12 @@ int drawable rate5 0x7f070171
 int drawable savenote_icon 0x7f070172
 int drawable settings_icon 0x7f070173
 int drawable sidenote_icon 0x7f070174
-int drawable star_icon 0x7f070175
-int drawable tooltip_frame_dark 0x7f070176
-int drawable tooltip_frame_light 0x7f070177
-int drawable x_icon 0x7f070178
+int drawable sidenote_plus 0x7f070175
+int drawable sidenotemenu 0x7f070176
+int drawable star_icon 0x7f070177
+int drawable tooltip_frame_dark 0x7f070178
+int drawable tooltip_frame_light 0x7f070179
+int drawable x_icon 0x7f07017a
 int id ALT 0x7f080000
 int id BorderView 0x7f080001
 int id CTRL 0x7f080002

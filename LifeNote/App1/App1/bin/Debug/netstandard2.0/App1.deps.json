@@ -9,6 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "App1/1.0.0": {
         "dependencies": {
+          "AiForms.Layouts": "1.1.0",
           "LiveXAML": "2.1.73",
           "NETStandard.Library": "2.0.3",
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
@@ -22,6 +23,17 @@
         },
         "runtime": {
           "App1.dll": {}
+        }
+      },
+      "AiForms.Layouts/1.1.0": {
+        "dependencies": {
+          "Xamarin.Forms": "4.4.0.991640"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AiForms.Layouts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "LiveXAML/2.1.73": {},
@@ -246,6 +258,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AiForms.Layouts/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Euzf/1QCH/muR9BBvmvsfy06ofyJjndGErAwwFgJJNDUMuZECPtiRUVniYjVmEqL9wvD8V8wBv+gEbhZoewGyw==",
+      "path": "aiforms.layouts/1.1.0",
+      "hashPath": "aiforms.layouts.1.1.0.nupkg.sha512"
     },
     "LiveXAML/2.1.73": {
       "type": "package",

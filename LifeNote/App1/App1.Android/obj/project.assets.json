@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v9.0": {
+      "AiForms.Layouts/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.482510"
+        },
+        "compile": {
+          "lib/netstandard2.0/AiForms.Layouts.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AiForms.Layouts.dll": {}
+        }
+      },
       "LiveXAML/2.1.73": {
         "type": "package",
         "build": {
@@ -1063,6 +1075,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AiForms.Layouts": "1.1.0",
           "LiveXAML": "2.1.73",
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
@@ -1082,6 +1095,19 @@
     }
   },
   "libraries": {
+    "AiForms.Layouts/1.1.0": {
+      "sha512": "Euzf/1QCH/muR9BBvmvsfy06ofyJjndGErAwwFgJJNDUMuZECPtiRUVniYjVmEqL9wvD8V8wBv+gEbhZoewGyw==",
+      "type": "package",
+      "path": "aiforms.layouts/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "aiforms.layouts.1.1.0.nupkg.sha512",
+        "aiforms.layouts.nuspec",
+        "lib/netstandard2.0/AiForms.Layouts.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/AiForms.Layouts.dll"
+      ]
+    },
     "LiveXAML/2.1.73": {
       "sha512": "WuyZAgaVvGIN4MoOR5VK3X8PFiCv3swffxzMd6Nf7cJIf32zCjbTgrkasY5K8NSNZ2U4y2nFgLAZ4oeqUvueEA==",
       "type": "package",
@@ -2676,6 +2702,7 @@
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v9.0": [
+      "AiForms.Layouts >= 1.1.0",
       "App1 >= 1.0.0",
       "Syncfusion.Xamarin.SfCalendar >= 17.4.0.47",
       "Syncfusion.Xamarin.SfRichTextEditor >= 17.4.0.47",
@@ -2727,6 +2754,10 @@
     "frameworks": {
       "monoandroid90": {
         "dependencies": {
+          "AiForms.Layouts": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          },
           "Syncfusion.Xamarin.SfCalendar": {
             "target": "Package",
             "version": "[17.4.0.47, )"

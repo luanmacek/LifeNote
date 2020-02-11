@@ -5205,10 +5205,12 @@ public final class R {
     public static final int savenote_icon=0x7f070172;
     public static final int settings_icon=0x7f070173;
     public static final int sidenote_icon=0x7f070174;
-    public static final int star_icon=0x7f070175;
-    public static final int tooltip_frame_dark=0x7f070176;
-    public static final int tooltip_frame_light=0x7f070177;
-    public static final int x_icon=0x7f070178;
+    public static final int sidenote_plus=0x7f070175;
+    public static final int sidenotemenu=0x7f070176;
+    public static final int star_icon=0x7f070177;
+    public static final int tooltip_frame_dark=0x7f070178;
+    public static final int tooltip_frame_light=0x7f070179;
+    public static final int x_icon=0x7f07017a;
   }
   public static final class id {
     public static final int ALT=0x7f080000;

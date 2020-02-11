@@ -8,21 +8,21 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App1.Controls.FloatingButton.xaml", "Controls/FloatingButton.xaml", typeof(global::App1.Controls.FloatingButton))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App1.View.SideNoteMenuPage.xaml", "View/SideNoteMenuPage.xaml", typeof(global::App1.View.SideNoteMenuPage))]
 
-namespace App1.Controls {
+namespace App1.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Controls\\FloatingButton.xaml")]
-    public partial class FloatingButton : global::Xamarin.Forms.Frame {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\SideNoteMenuPage.xaml")]
+    public partial class SideNoteMenuPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Image Icon;
+        private global::AiForms.Layouts.WrapLayout layout;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(FloatingButton));
-            Icon = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "Icon");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(SideNoteMenuPage));
+            layout = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::AiForms.Layouts.WrapLayout>(this, "layout");
         }
     }
 }

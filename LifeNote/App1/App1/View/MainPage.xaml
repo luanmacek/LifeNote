@@ -14,22 +14,19 @@
             <FileImageSource File="calendar_icon.png"></FileImageSource>
         </local:CalendarPage.IconImageSource>
     </local:CalendarPage>
-    <local:SideNotePage Title="Side note">
-        <local:SideNotePage.IconImageSource>
+    <local:SideNoteMenuPage Title="Side note">
+        <local:SideNoteMenuPage.IconImageSource>
             <FileImageSource File="sidenote_icon.png"></FileImageSource>
-        </local:SideNotePage.IconImageSource>
-        <Label Text="Side note"></Label>
-    </local:SideNotePage>
+        </local:SideNoteMenuPage.IconImageSource>
+    </local:SideNoteMenuPage>
     <local:StatisticsPage Title="Statistics">
         <local:StatisticsPage.IconImageSource>
             <FileImageSource File="graph_icon.png"></FileImageSource>
         </local:StatisticsPage.IconImageSource>
-        <Label Text="Statistics"></Label>
     </local:StatisticsPage>
     <local:SettingsPage Title="Settings">
         <local:SettingsPage.IconImageSource>
             <FileImageSource File="settings_icon.png"></FileImageSource>
         </local:SettingsPage.IconImageSource>
-        <Label Text="Settings"></Label>
     </local:SettingsPage>
 </TabbedPage>

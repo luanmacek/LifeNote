@@ -1197,3 +1197,7 @@ D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\dra
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate3.png
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate4.png
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\rate5.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\sidenote_plus.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\res\drawable\sidenotemenu.png
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\AiForms.Layouts.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\stamp\SetupDependenciesForDesigner.stamp

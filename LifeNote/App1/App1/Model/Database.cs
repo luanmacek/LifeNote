@@ -13,6 +13,7 @@ namespace App1.Model
         {
             _database = new SQLiteAsyncConnection(dbPath);
             _database.CreateTableAsync<Note>().Wait();
+            _database.CreateTableAsync<SideNote>().Wait();
         }
         public Task<int> SaveNoteAsync(Note note)
         {
@@ -33,5 +34,21 @@ namespace App1.Model
                             .FirstOrDefaultAsync();
         }
 
+        public Task<int> SaveSideNoteAsync(SideNote sidenote)
+        {
+            if (sidenote.Id != 0)
+            {
+                return _database.UpdateAsync(sidenote);
+            }
+            else
+            {
+                return _database.InsertAsync(sidenote);
+            }
+        }
+
+        public Task<List<SideNote>> GetSideNotesAsync()
+        {
+            return _database.Table<SideNote>().ToListAsync();
+        }
     }
 }
