@@ -17,7 +17,7 @@ namespace App1
             {
                 if (database == null)
                 {
-                    database = new Database(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "LifeNote.db3"));
+                    database = new Database(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "LifeNote.db"));
                 }
                 return database;
             }

@@ -5210,7 +5210,8 @@ public final class R {
     public static final int star_icon=0x7f070177;
     public static final int tooltip_frame_dark=0x7f070178;
     public static final int tooltip_frame_light=0x7f070179;
-    public static final int x_icon=0x7f07017a;
+    public static final int trash=0x7f07017a;
+    public static final int x_icon=0x7f07017b;
   }
   public static final class id {
     public static final int ALT=0x7f080000;

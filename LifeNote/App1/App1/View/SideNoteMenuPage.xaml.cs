@@ -18,44 +18,29 @@ namespace App1.View
         public SideNoteMenuPage()
         {
             InitializeComponent();
-            start();
+            start();     
         }
 
         async void start()
         {
             sidenotes_list = await App.Database.GetSideNotesAsync();
-            if(sidenotes_list.Count() != 0)
+            foreach(SideNote s in sidenotes_list)
             {
-                foreach (SideNote sn in sidenotes_list)
-                {
-                    Button btn = new Button();
-                    //btn.BackgroundColor = Color.Transparent;
-                    //btn.BorderColor = Color.Transparent;
-                    btn.Text = sn.Title;
-                    btn.HeightRequest = 100;
-                    btn.WidthRequest = 50;
-                    //btn.ImageSource = "sidenotemenu.png";
-                    btn.HorizontalOptions = LayoutOptions.Center;
-                    btn.VerticalOptions = LayoutOptions.Center;
-                    btn.Clicked += delegate (object sender, EventArgs e) { sidenote_Clicked(sender, e, sn); };
-                    layout.Children.Add(btn);
-                }
             }
-            SfButton addbtn = new SfButton();
-            addbtn.Clicked += sidenoteadd_Clicked;
-            addbtn.ImageSource = "sidenote_plus.png";
-            addbtn.ShowIcon = true;
-            addbtn.CornerRadius = 40;
-            addbtn.WidthRequest = 50;
-            addbtn.HeightRequest = 50;
-            addbtn.HorizontalOptions = LayoutOptions.Center;
-            addbtn.VerticalOptions = LayoutOptions.Center;
-            layout.Children.Add(addbtn);
         }
 
-        private async void sidenote_Clicked(object sender, EventArgs e, SideNote Sn)
+        private async void sidenote_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new SideNotePage(Sn));
+            Button button = (Button)sender;
+            string classid = button.ClassId;
+            foreach (SideNote sn in sidenotes_list)
+            {
+                if(sn.Id == int.Parse(classid))
+                {
+                    await Navigation.PushAsync(new SideNotePage(sn));
+                }
+            }
+            
         }
 
         private async void sidenoteadd_Clicked(object sender, EventArgs e)

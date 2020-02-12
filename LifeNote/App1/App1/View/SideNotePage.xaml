@@ -7,17 +7,14 @@
              mc:Ignorable="d"
              x:Class="App1.View.SideNotePage"
              xmlns:local="clr-namespace:App1.View"
-             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
-             android:TabbedPage.ToolbarPlacement="Bottom"
-             android:TabbedPage.BarSelectedItemColor="Blue"
-             android:TabbedPage.BarItemColor="Gray"
+            xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
              NavigationPage.HasBackButton="False"   
              >
     <ContentPage>
         <ContentPage.Content>
             <StackLayout>
-                <Entry Placeholder="Title" x:Name="title_editor" VerticalOptions="CenterAndExpand"></Entry>
-                <richtexteditor:SfRichTextEditor  x:Name="content_editor" PlaceHolder="Type something" VerticalOptions="CenterAndExpand" PropertyChanged="content_editor_PropertyChanged"/>
+                <Entry Placeholder="Title" x:Name="title_editor" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50"></Entry>
+                <richtexteditor:SfRichTextEditor  x:Name="content_editor" PlaceHolder="Type something" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="400" HeightRequest="700" PropertyChanged="content_editor_PropertyChanged"/>
             </StackLayout>
         </ContentPage.Content>
         <ContentPage.IconImageSource>

@@ -14,19 +14,26 @@ namespace App1.View
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SideNotePage
     {
-        SideNote sn;
+        SideNote sidenote;
         public SideNotePage(SideNote Sn)
         {
-            InitializeComponent();
-            sn = Sn;
-            title_editor.Text = sn.Title;
-            content_editor.Text = sn.Content;
+            sidenote = Sn;
+            InitializeComponent();        
+            title_editor.Text = Sn.Title;
+            content_editor.Text = Sn.Content;
         }
 
         private async void content_editor_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
         {
-            await App.Database.SaveSideNoteAsync(sn);
-            Toast.MakeText(Android.App.Application.Context, "Side note"+ sn.Title + " has been succefuly saved.", ToastLength.Long).Show();
+            sidenote.Title = title_editor.Text;
+            sidenote.Content = content_editor.Text;
+            await App.Database.SaveSideNoteAsync(sidenote);
+        }
+
+        private async void delsidenote_Clicked(object sender, EventArgs e)
+        {
+            await App.Database.DeleteSideNoteAsync(sidenote);
+            await Navigation.PushAsync(new CalendarPage());
         }
     }
 }

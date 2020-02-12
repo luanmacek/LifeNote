@@ -13,14 +13,14 @@
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\View\MainPage.xaml</FilePath>
-      <Hash>FE-A6-94-7A-5D-45-01-3E-D7-AC-2D-96-FB-F1-06-43</Hash>
+      <Hash>8E-28-09-CF-03-A1-57-DF-B9-F6-7B-89-A7-62-28-D5</Hash>
       <Properties>
         <string>Title</string>
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\View\NotePage.xaml</FilePath>
-      <Hash>89-18-E4-16-E7-88-D5-37-24-91-68-19-19-42-1E-5B</Hash>
+      <Hash>C0-AA-F1-EB-45-30-E5-6E-61-BB-0E-98-EB-FF-0A-0D</Hash>
       <Properties>
         <string>NavigationPage.HasBackButton</string>
         <string>Title</string>
@@ -33,12 +33,12 @@
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\View\SideNoteMenuPage.xaml</FilePath>
-      <Hash>8C-CA-3F-FA-84-90-73-09-E8-A9-90-A6-15-73-14-63</Hash>
+      <Hash>76-C8-9F-4B-90-94-AA-63-88-66-FA-DD-2D-C5-92-0A</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\View\SideNotePage.xaml</FilePath>
-      <Hash>8B-0D-26-E3-06-29-21-18-43-58-C6-9A-FB-5F-2A-C9</Hash>
+      <Hash>4E-7E-35-77-1C-16-A6-8B-D8-EF-4A-17-35-FF-C0-1C</Hash>
       <Properties>
         <string>NavigationPage.HasBackButton</string>
       </Properties>

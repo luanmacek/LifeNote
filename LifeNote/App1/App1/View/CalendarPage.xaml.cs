@@ -21,6 +21,7 @@ namespace App1.View
             calendar.ViewMode = ViewMode.MonthView;
             calendar.OnCalendarTapped += Calendar_OnCalendarTapped;
             calendar.ClearSelection();
+            
         }
 
         [Obsolete]

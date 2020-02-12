@@ -17,12 +17,8 @@ namespace App1.View {
     public partial class SideNoteMenuPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::AiForms.Layouts.WrapLayout layout;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(SideNoteMenuPage));
-            layout = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::AiForms.Layouts.WrapLayout>(this, "layout");
         }
     }
 }

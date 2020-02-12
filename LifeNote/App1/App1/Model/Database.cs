@@ -50,5 +50,10 @@ namespace App1.Model
         {
             return _database.Table<SideNote>().ToListAsync();
         }
+
+        public Task<int> DeleteSideNoteAsync(SideNote sidenote)
+        {
+            return _database.DeleteAsync(sidenote);
+        }
     }
 }

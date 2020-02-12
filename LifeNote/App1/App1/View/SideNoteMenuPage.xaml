@@ -4,13 +4,27 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:l="clr-namespace:AiForms.Layouts;assembly=AiForms.Layouts"
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
              mc:Ignorable="d"
              x:Class="App1.View.SideNoteMenuPage">
     <ContentPage.Content>
         <ScrollView>
-            <l:WrapLayout Spacing="4" Margin="10"  HorizontalOptions="CenterAndExpand" UniformColumns="2" x:Name="layout" >
-
-            </l:WrapLayout>
+            <StackLayout>
+                <ListView ItemsSource="{Binding sidenotes_list}" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="430">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <ViewCell.View>
+                                    <l:WrapLayout  Margin="10"  HorizontalOptions="CenterAndExpand" UniformColumns="2">
+                                        <Button Text="{Binding Title}" HeightRequest="50" WidthRequest="100" HorizontalOptions="Center" VerticalOptions="Center"></Button>
+                                    </l:WrapLayout>
+                                </ViewCell.View>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <buttons:SfButton WidthRequest="60" HeightRequest="60" HorizontalOptions="Center" VerticalOptions="End" Text="+" Clicked="sidenoteadd_Clicked" CornerRadius="40"></buttons:SfButton>
+            </StackLayout>
         </ScrollView>
     </ContentPage.Content>
 </ContentPage>

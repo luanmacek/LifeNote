@@ -3,10 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:local="clr-namespace:App1.View"
             x:Class="App1.View.MainPage"
-             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
-             android:TabbedPage.ToolbarPlacement="Bottom"
-             android:TabbedPage.BarSelectedItemColor="Blue"
-             android:TabbedPage.BarItemColor="Gray"
              Title="LifeNote">
 
     <local:CalendarPage Title="Calendar">

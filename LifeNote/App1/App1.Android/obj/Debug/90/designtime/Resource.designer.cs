@@ -9584,7 +9584,10 @@ namespace App1.Droid
 			public const int tooltip_frame_light = 2131165555;
 			
 			// aapt resource value: 0x7F070174
-			public const int x_icon = 2131165556;
+			public const int trash = 2131165556;
+			
+			// aapt resource value: 0x7F070175
+			public const int x_icon = 2131165557;
 			
 			static Drawable()
 			{

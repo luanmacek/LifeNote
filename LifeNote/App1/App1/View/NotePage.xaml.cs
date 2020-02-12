@@ -30,7 +30,6 @@ namespace App1
             note.Content = content_editor.GetHtmlString();
             note.Points = points_slider.Value;
             await App.Database.SaveNoteAsync(note);
-            Toast.MakeText(Android.App.Application.Context, "Note has been succefuly saved.", ToastLength.Long).Show();
         }
         void OnSliderValueChanged(object sender, ValueChangedEventArgs e)
         {
