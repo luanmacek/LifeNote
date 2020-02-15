@@ -1,6 +1,7 @@
 ﻿using SQLite;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,6 +13,8 @@ namespace App1.Model
         public Database(string dbPath)
         {
             _database = new SQLiteAsyncConnection(dbPath);
+            //_database.DropTableAsync<Note>().Wait();
+            //_database.DropTableAsync<SideNote>().Wait();
             _database.CreateTableAsync<Note>().Wait();
             _database.CreateTableAsync<SideNote>().Wait();
         }
@@ -54,6 +57,11 @@ namespace App1.Model
         public Task<int> DeleteSideNoteAsync(SideNote sidenote)
         {
             return _database.DeleteAsync(sidenote);
+        }
+
+        public Task<SideNote> GetSideNoteById(int id)
+        {
+            return _database.GetAsync<SideNote>(id);
         }
     }
 }

@@ -14,7 +14,7 @@ namespace App1 {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\NotePage.xaml")]
-    public partial class NotePage : global::Xamarin.Forms.TabbedPage {
+    public partial class NotePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.Label date_label;

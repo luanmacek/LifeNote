@@ -10,8 +10,10 @@
       "App1/1.0.0": {
         "dependencies": {
           "AiForms.Layouts": "1.1.0",
+          "Fody": "6.1.0",
           "LiveXAML": "2.1.73",
           "NETStandard.Library": "2.0.3",
+          "PropertyChanged.Fody": "3.2.6",
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
           "Syncfusion.Xamarin.SfListView": "17.4.0.47",
@@ -36,11 +38,24 @@
           }
         }
       },
+      "Fody/6.1.0": {},
       "LiveXAML/2.1.73": {},
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "PropertyChanged.Fody/3.2.6": {
+        "dependencies": {
+          "Fody": "6.1.0",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/PropertyChanged.dll": {
+            "assemblyVersion": "3.2.6.0",
+            "fileVersion": "3.2.6.0"
+          }
         }
       },
       "sqlite-net-pcl/1.6.292": {
@@ -266,6 +281,13 @@
       "path": "aiforms.layouts/1.1.0",
       "hashPath": "aiforms.layouts.1.1.0.nupkg.sha512"
     },
+    "Fody/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-64W16axa5vtBF3J5UqR5cNNGcJ+tRKa7owYNbzIWWx2mjXbmCqfpjWLEGTAL0YEe8YE4QMde+WN7w6IY3tspYQ==",
+      "path": "fody/6.1.0",
+      "hashPath": "fody.6.1.0.nupkg.sha512"
+    },
     "LiveXAML/2.1.73": {
       "type": "package",
       "serviceable": true,
@@ -286,6 +308,13 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "PropertyChanged.Fody/3.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LpeV66T+AcWB9NTuGjGE7dm4ykudqZEByQdYvzK0PS0uwKUgU/vOqUSaTueSq6ZY0Mbg0mDdoQbKUDZKwpuj0g==",
+      "path": "propertychanged.fody/3.2.6",
+      "hashPath": "propertychanged.fody.3.2.6.nupkg.sha512"
     },
     "sqlite-net-pcl/1.6.292": {
       "type": "package",

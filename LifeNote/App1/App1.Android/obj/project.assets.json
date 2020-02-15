@@ -20,6 +20,22 @@
           "build/netstandard2.0/_._": {}
         }
       },
+      "PropertyChanged.Fody/3.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.1.0",
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.0/PropertyChanged.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/PropertyChanged.dll": {}
+        },
+        "build": {
+          "build/_._": {}
+        }
+      },
       "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
@@ -1077,6 +1093,7 @@
         "dependencies": {
           "AiForms.Layouts": "1.1.0",
           "LiveXAML": "2.1.73",
+          "PropertyChanged.Fody": "3.2.6",
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
           "Syncfusion.Xamarin.SfListView": "17.4.0.47",
@@ -1127,6 +1144,24 @@
         "build/portable-win+net45+wp80+win81+wpa81/minified.tpl.cs",
         "livexaml.2.1.73.nupkg.sha512",
         "livexaml.nuspec"
+      ]
+    },
+    "PropertyChanged.Fody/3.2.6": {
+      "sha512": "LpeV66T+AcWB9NTuGjGE7dm4ykudqZEByQdYvzK0PS0uwKUgU/vOqUSaTueSq6ZY0Mbg0mDdoQbKUDZKwpuj0g==",
+      "type": "package",
+      "path": "propertychanged.fody/3.2.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/PropertyChanged.Fody.props",
+        "lib/net40/PropertyChanged.dll",
+        "lib/net40/PropertyChanged.xml",
+        "lib/netstandard1.0/PropertyChanged.dll",
+        "lib/netstandard1.0/PropertyChanged.xml",
+        "propertychanged.fody.3.2.6.nupkg.sha512",
+        "propertychanged.fody.nuspec",
+        "weaver/PropertyChanged.Fody.dll",
+        "weaver/PropertyChanged.Fody.xcf"
       ]
     },
     "sqlite-net-pcl/1.6.292": {

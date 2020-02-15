@@ -3,28 +3,35 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:l="clr-namespace:AiForms.Layouts;assembly=AiForms.Layouts"
              xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
              mc:Ignorable="d"
              x:Class="App1.View.SideNoteMenuPage">
     <ContentPage.Content>
-        <ScrollView>
-            <StackLayout>
-                <ListView ItemsSource="{Binding sidenotes_list}" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="430">
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <ViewCell>
-                                <ViewCell.View>
-                                    <l:WrapLayout  Margin="10"  HorizontalOptions="CenterAndExpand" UniformColumns="2">
-                                        <Button Text="{Binding Title}" HeightRequest="50" WidthRequest="100" HorizontalOptions="Center" VerticalOptions="Center"></Button>
-                                    </l:WrapLayout>
-                                </ViewCell.View>
-                            </ViewCell>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <ScrollView>
+                <CollectionView ItemsSource="{Binding sidenotes}" VerticalOptions="Center" HorizontalOptions="Center">
+                    <CollectionView.ItemsLayout>
+                        <GridItemsLayout Span="2" Orientation="Vertical"/>
+                    </CollectionView.ItemsLayout>
+                    <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                            <Grid Padding="20">
+                                <ImageButton ClassId="{Binding Id}" Source="sidenotemenu.png"  VerticalOptions="Center" HorizontalOptions="Center" Clicked="sidenote_Clicked" BackgroundColor="Transparent"></ImageButton>
+                                <Label ClassId="{Binding Id}" Text="{Binding Title}" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" FontFamily="Bold"  VerticalTextAlignment="Center" HorizontalTextAlignment="Start">
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer Tapped="label_tap" NumberOfTapsRequired="1" />
+                                    </Label.GestureRecognizers>
+                                </Label>
+                            </Grid>
                         </DataTemplate>
-                    </ListView.ItemTemplate>
-                </ListView>
-                <buttons:SfButton WidthRequest="60" HeightRequest="60" HorizontalOptions="Center" VerticalOptions="End" Text="+" Clicked="sidenoteadd_Clicked" CornerRadius="40"></buttons:SfButton>
-            </StackLayout>
-        </ScrollView>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </ScrollView>
+            <buttons:SfButton Text="+" Clicked="sidenoteadd_Clicked"  Grid.Row="1" FontSize="30"></buttons:SfButton>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

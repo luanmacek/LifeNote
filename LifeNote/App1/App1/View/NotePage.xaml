@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<TabbedPage  xmlns="http://xamarin.com/schemas/2014/forms"
+<ContentPage  xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:App1.View"
              x:Class="App1.NotePage"
@@ -7,42 +7,15 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              xmlns:richtexteditor="clr-namespace:Syncfusion.XForms.RichTextEditor;assembly=Syncfusion.SfRichTextEditor.XForms"
-             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
-             NavigationPage.HasBackButton="False"          
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"    
              Title="LifeNote">
-    <ContentPage 
-             BackgroundColor="LightYellow" Title="Note">
-        <ContentPage.Content>
-            <StackLayout>
-                <Label x:Name="date_label" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center"></Label>
-                <Image x:Name="rateimage" Source="rate1.png"  HorizontalOptions="Center" WidthRequest="300" ></Image>
-                <Slider Maximum="5" Minimum="1"  x:Name="points_slider" ValueChanged="OnSliderValueChanged" WidthRequest="280" HorizontalOptions="Center" Margin="10"></Slider>
-                <buttons:SfButton Clicked="save_clicked" Text="Save" ShowIcon="True" ImageSource="savenote_icon.png" CornerRadius="20" WidthRequest="100" HeightRequest="35" Margin="10" HorizontalOptions="Center"/>
-                <richtexteditor:SfRichTextEditor VerticalOptions="FillAndExpand" x:Name="content_editor" PlaceHolder="Type something"/>
-            </StackLayout>
-        </ContentPage.Content>
-        <ContentPage.IconImageSource>
-            <FileImageSource File="openednote_icon.png"></FileImageSource>
-        </ContentPage.IconImageSource>
-    </ContentPage>
-    <local:CalendarPage Title="Calendar">
-        <local:CalendarPage.IconImageSource>
-            <FileImageSource File="calendar_icon.png"></FileImageSource>
-        </local:CalendarPage.IconImageSource>
-    </local:CalendarPage>
-    <local:SideNoteMenuPage Title="Side note">
-        <local:SideNoteMenuPage.IconImageSource>
-            <FileImageSource File="sidenote_icon.png"></FileImageSource>
-        </local:SideNoteMenuPage.IconImageSource>
-    </local:SideNoteMenuPage>
-    <local:StatisticsPage Title="Statistics">
-        <local:StatisticsPage.IconImageSource>
-            <FileImageSource File="graph_icon.png"></FileImageSource>
-        </local:StatisticsPage.IconImageSource>
-    </local:StatisticsPage>
-    <local:SettingsPage Title="Settings">
-        <local:SettingsPage.IconImageSource>
-            <FileImageSource File="settings_icon.png"></FileImageSource>
-        </local:SettingsPage.IconImageSource>
-    </local:SettingsPage>
-</TabbedPage>   
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="date_label" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center"></Label>
+            <Image x:Name="rateimage" Source="rate1.png"  HorizontalOptions="Center" WidthRequest="300" ></Image>
+            <Slider Maximum="5" Minimum="1"  x:Name="points_slider" ValueChanged="OnSliderValueChanged" WidthRequest="280" HorizontalOptions="Center" Margin="10"></Slider>
+            <buttons:SfButton Clicked="save_clicked" Text="Save" ShowIcon="True" ImageSource="savenote_icon.png" CornerRadius="20" WidthRequest="100" HeightRequest="35" Margin="10" HorizontalOptions="Center"/>
+            <richtexteditor:SfRichTextEditor VerticalOptions="FillAndExpand" x:Name="content_editor" PlaceHolder="Type something"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>   

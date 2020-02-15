@@ -1,10 +1,12 @@
-﻿using SQLite;
+﻿using PropertyChanged;
+using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace App1.Model
 {
+    [AddINotifyPropertyChangedInterface]
     public class SideNote
     {
         [PrimaryKey, AutoIncrement]

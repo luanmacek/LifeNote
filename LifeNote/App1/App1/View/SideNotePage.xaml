@@ -1,44 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:richtexteditor="clr-namespace:Syncfusion.XForms.RichTextEditor;assembly=Syncfusion.SfRichTextEditor.XForms"
              mc:Ignorable="d"
-             x:Class="App1.View.SideNotePage"
-             xmlns:local="clr-namespace:App1.View"
-            xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
-             NavigationPage.HasBackButton="False"   
-             >
-    <ContentPage>
-        <ContentPage.Content>
-            <StackLayout>
-                <Entry Placeholder="Title" x:Name="title_editor" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="50" HeightRequest="50"></Entry>
-                <richtexteditor:SfRichTextEditor  x:Name="content_editor" PlaceHolder="Type something" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="400" HeightRequest="700" PropertyChanged="content_editor_PropertyChanged"/>
-            </StackLayout>
-        </ContentPage.Content>
-        <ContentPage.IconImageSource>
-            <FileImageSource File="openednote_icon.png"></FileImageSource>
-        </ContentPage.IconImageSource>
-    </ContentPage>
-    <local:CalendarPage Title="Calendar">
-        <local:CalendarPage.IconImageSource>
-            <FileImageSource File="calendar_icon.png"></FileImageSource>
-        </local:CalendarPage.IconImageSource>
-    </local:CalendarPage>
-    <local:SideNoteMenuPage Title="Side note">
-        <local:SideNoteMenuPage.IconImageSource>
-            <FileImageSource File="sidenote_icon.png"></FileImageSource>
-        </local:SideNoteMenuPage.IconImageSource>
-    </local:SideNoteMenuPage>
-    <local:StatisticsPage Title="Statistics">
-        <local:StatisticsPage.IconImageSource>
-            <FileImageSource File="graph_icon.png"></FileImageSource>
-        </local:StatisticsPage.IconImageSource>
-    </local:StatisticsPage>
-        <local:SettingsPage Title="Settings">
-            <local:SettingsPage.IconImageSource>
-                <FileImageSource File="settings_icon.png"></FileImageSource>
-            </local:SettingsPage.IconImageSource>
-        </local:SettingsPage>
-</TabbedPage>
+             x:Class="App1.View.SideNotePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Title" x:Name="title_editor" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="50"  PropertyChanged="save_sidenote"></Entry>
+            <Button Text="Delete" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="200" HeightRequest="50" Clicked="delete_sidenote"></Button>
+            <richtexteditor:SfRichTextEditor  x:Name="content_editor" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="400" HeightRequest="700" PropertyChanged="save_sidenote"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

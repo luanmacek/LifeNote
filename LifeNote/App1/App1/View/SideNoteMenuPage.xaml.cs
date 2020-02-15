@@ -14,33 +14,27 @@ namespace App1.View
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SideNoteMenuPage : ContentPage
     {
-        List<SideNote> sidenotes_list;
+        public static SideNoteViewModel viewmodel;
         public SideNoteMenuPage()
         {
             InitializeComponent();
-            start();     
+            viewmodel = new SideNoteViewModel();
+            BindingContext = viewmodel;
         }
-
-        async void start()
-        {
-            sidenotes_list = await App.Database.GetSideNotesAsync();
-            foreach(SideNote s in sidenotes_list)
-            {
-            }
-        }
-
         private async void sidenote_Clicked(object sender, EventArgs e)
         {
-            Button button = (Button)sender;
-            string classid = button.ClassId;
-            foreach (SideNote sn in sidenotes_list)
-            {
-                if(sn.Id == int.Parse(classid))
-                {
-                    await Navigation.PushAsync(new SideNotePage(sn));
-                }
-            }
+            ImageButton button = (ImageButton)sender;
+            var classid = button.ClassId;
+            SideNote sn = await App.Database.GetSideNoteById(int.Parse(classid));
+            await Navigation.PushAsync(new SideNotePage(sn));
             
+        }
+        async void label_tap(object sender, EventArgs args)
+        {
+            Label label = (Label)sender;
+            var classid = label.ClassId;
+            SideNote sn = await App.Database.GetSideNoteById(int.Parse(classid));
+            await Navigation.PushAsync(new SideNotePage(sn));
         }
 
         private async void sidenoteadd_Clicked(object sender, EventArgs e)
@@ -48,7 +42,9 @@ namespace App1.View
             SideNote sn = new SideNote();
             sn.Title = "";
             sn.Content = "";
-            await Navigation.PushAsync(new SideNotePage(sn));
+            viewmodel.sidenotes.Add(sn);
+            await Navigation.PushAsync(new SideNotePage(sn));          
         }
+
     }
 }

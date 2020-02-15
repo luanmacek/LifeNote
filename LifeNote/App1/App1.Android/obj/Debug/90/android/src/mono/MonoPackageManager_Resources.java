@@ -6,6 +6,7 @@ public class MonoPackageManager_Resources {
 		"AiForms.Layouts.dll",
 		"App1.dll",
 		"FormsViewGroup.dll",
+		"PropertyChanged.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_green.dll",
 		"SQLitePCLRaw.batteries_v2.dll",

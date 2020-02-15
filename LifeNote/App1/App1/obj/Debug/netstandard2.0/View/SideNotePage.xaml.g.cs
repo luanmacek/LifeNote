@@ -14,7 +14,7 @@ namespace App1.View {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\SideNotePage.xaml")]
-    public partial class SideNotePage : global::Xamarin.Forms.TabbedPage {
+    public partial class SideNotePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.Entry title_editor;
