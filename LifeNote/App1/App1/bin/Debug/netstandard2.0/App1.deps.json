@@ -17,6 +17,7 @@
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
           "Syncfusion.Xamarin.SfListView": "17.4.0.47",
+          "Syncfusion.Xamarin.SfRating": "17.4.0.49",
           "Syncfusion.Xamarin.SfRichTextEditor": "17.4.0.47",
           "Xamarin.Essentials": "1.3.1",
           "Xamarin.Forms": "4.4.0.991640",
@@ -97,17 +98,17 @@
           }
         }
       },
-      "Syncfusion.Licensing/17.4.0.47": {
+      "Syncfusion.Licensing/17.4.0.49": {
         "runtime": {
           "lib/netstandard2.0/Syncfusion.Licensing.dll": {
-            "assemblyVersion": "17.4.0.47",
-            "fileVersion": "17.4.0.47"
+            "assemblyVersion": "17.4.0.49",
+            "fileVersion": "17.4.0.49"
           }
         }
       },
       "Syncfusion.Xamarin.Buttons/17.4.0.47": {
         "dependencies": {
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
           "Xamarin.Forms": "4.4.0.991640"
         },
         "runtime": {
@@ -117,15 +118,15 @@
           }
         }
       },
-      "Syncfusion.Xamarin.Core/17.4.0.47": {
+      "Syncfusion.Xamarin.Core/17.4.0.49": {
         "dependencies": {
-          "Syncfusion.Licensing": "17.4.0.47",
+          "Syncfusion.Licensing": "17.4.0.49",
           "Xamarin.Forms": "4.4.0.991640"
         },
         "runtime": {
           "lib/netstandard2.0/Syncfusion.Core.XForms.dll": {
-            "assemblyVersion": "17.4451.0.47",
-            "fileVersion": "17.4451.0.47"
+            "assemblyVersion": "17.4451.0.49",
+            "fileVersion": "17.4451.0.49"
           }
         }
       },
@@ -147,7 +148,7 @@
       },
       "Syncfusion.Xamarin.SfCalendar/17.4.0.47": {
         "dependencies": {
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
           "Xamarin.Forms": "4.4.0.991640"
         },
         "runtime": {
@@ -159,7 +160,7 @@
       },
       "Syncfusion.Xamarin.SfComboBox/17.4.0.47": {
         "dependencies": {
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
           "Xamarin.Forms": "4.4.0.991640"
         },
         "runtime": {
@@ -171,7 +172,7 @@
       },
       "Syncfusion.Xamarin.SfListView/17.4.0.47": {
         "dependencies": {
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
           "Syncfusion.Xamarin.DataSource": "17.4.0.47",
           "Syncfusion.Xamarin.GridCommon": "17.4.0.47",
           "Xamarin.Forms": "4.4.0.991640"
@@ -185,7 +186,7 @@
       },
       "Syncfusion.Xamarin.SfPicker/17.4.0.47": {
         "dependencies": {
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
           "Xamarin.Forms": "4.4.0.991640"
         },
         "runtime": {
@@ -197,7 +198,7 @@
       },
       "Syncfusion.Xamarin.SfPopupLayout/17.4.0.47": {
         "dependencies": {
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
           "Xamarin.Forms": "4.4.0.991640"
         },
         "runtime": {
@@ -207,10 +208,22 @@
           }
         }
       },
+      "Syncfusion.Xamarin.SfRating/17.4.0.49": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
+          "Xamarin.Forms": "4.4.0.991640"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SfRating.XForms.dll": {
+            "assemblyVersion": "17.4451.0.49",
+            "fileVersion": "17.4451.0.49"
+          }
+        }
+      },
       "Syncfusion.Xamarin.SfRichTextEditor/17.4.0.47": {
         "dependencies": {
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
           "Syncfusion.Xamarin.SfComboBox": "17.4.0.47",
           "Syncfusion.Xamarin.SfPicker": "17.4.0.47",
           "Syncfusion.Xamarin.SfPopupLayout": "17.4.0.47",
@@ -337,12 +350,12 @@
       "path": "sqlitepclraw.core/1.1.13",
       "hashPath": "sqlitepclraw.core.1.1.13.nupkg.sha512"
     },
-    "Syncfusion.Licensing/17.4.0.47": {
+    "Syncfusion.Licensing/17.4.0.49": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-g7hG+OLlwM4lWyWZaEfzjZAUz69zsN0+bM9wg7nKW6dMEBVl953qGQCd6TI4TFND9FhV0/tvaW7y9KyTzPSvqw==",
-      "path": "syncfusion.licensing/17.4.0.47",
-      "hashPath": "syncfusion.licensing.17.4.0.47.nupkg.sha512"
+      "sha512": "sha512-kme48p4xd7fE8038RsLqBTHLr9MvyOWVGO87kFUFs8FBJheBdhfS/ee/jks3u7rmKZB7UqE37PmS5fggKQTL5A==",
+      "path": "syncfusion.licensing/17.4.0.49",
+      "hashPath": "syncfusion.licensing.17.4.0.49.nupkg.sha512"
     },
     "Syncfusion.Xamarin.Buttons/17.4.0.47": {
       "type": "package",
@@ -351,12 +364,12 @@
       "path": "syncfusion.xamarin.buttons/17.4.0.47",
       "hashPath": "syncfusion.xamarin.buttons.17.4.0.47.nupkg.sha512"
     },
-    "Syncfusion.Xamarin.Core/17.4.0.47": {
+    "Syncfusion.Xamarin.Core/17.4.0.49": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ijkFaAi/hRaPHFXLdzprMoWYK/VLqIo9uNoW/PNwweiA3zRfULau7aNdNMKsdUjcTSvuvrodc8w4OSxUqTpfzQ==",
-      "path": "syncfusion.xamarin.core/17.4.0.47",
-      "hashPath": "syncfusion.xamarin.core.17.4.0.47.nupkg.sha512"
+      "sha512": "sha512-5IPmQ6ffvuimZz0g9SFyhactZjhW5Rw8ZYtBkO23vdE4ClxTHWeeBqfbbOdckauNLDn3rbHXtPa4YSad+aPtrw==",
+      "path": "syncfusion.xamarin.core/17.4.0.49",
+      "hashPath": "syncfusion.xamarin.core.17.4.0.49.nupkg.sha512"
     },
     "Syncfusion.Xamarin.DataSource/17.4.0.47": {
       "type": "package",
@@ -406,6 +419,13 @@
       "sha512": "sha512-MmetZ1jWSwGZhyYQj3rUOt3qUTul2qiC10u0koHOHwDvYUQaGfb/WMtiXJMdNYQrWKJ2jc9U3MGkvTTFUol+wQ==",
       "path": "syncfusion.xamarin.sfpopuplayout/17.4.0.47",
       "hashPath": "syncfusion.xamarin.sfpopuplayout.17.4.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.SfRating/17.4.0.49": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zfLF3eqjNPd+2RadXTWIbXPs+LxoniHzUq4p362uvFOd15CRzebSKJP8ADFBxH+erR0TkO66MXDvow5Y9vCLxg==",
+      "path": "syncfusion.xamarin.sfrating/17.4.0.49",
+      "hashPath": "syncfusion.xamarin.sfrating.17.4.0.49.nupkg.sha512"
     },
     "Syncfusion.Xamarin.SfRichTextEditor/17.4.0.47": {
       "type": "package",

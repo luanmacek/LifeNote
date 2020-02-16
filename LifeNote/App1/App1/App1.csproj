@@ -17,6 +17,7 @@
     <PackageReference Include="Syncfusion.Xamarin.Buttons" Version="17.4.0.47" />
     <PackageReference Include="Syncfusion.Xamarin.SfCalendar" Version="17.4.0.47" />
     <PackageReference Include="Syncfusion.Xamarin.SfListView" Version="17.4.0.47" />
+    <PackageReference Include="Syncfusion.Xamarin.SfRating" Version="17.4.0.49" />
     <PackageReference Include="Syncfusion.Xamarin.SfRichTextEditor" Version="17.4.0.47" />
     <PackageReference Include="Xamarin.Forms" Version="4.4.0.991640" />
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />

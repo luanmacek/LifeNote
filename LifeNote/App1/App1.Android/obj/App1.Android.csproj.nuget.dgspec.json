@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[17.4.0.47, )"
             },
+            "Syncfusion.Xamarin.SfRating": {
+              "target": "Package",
+              "version": "[17.4.0.49, )"
+            },
             "Syncfusion.Xamarin.SfRichTextEditor": {
               "target": "Package",
               "version": "[17.4.0.47, )"
@@ -147,6 +151,10 @@
             "Syncfusion.Xamarin.SfListView": {
               "target": "Package",
               "version": "[17.4.0.47, )"
+            },
+            "Syncfusion.Xamarin.SfRating": {
+              "target": "Package",
+              "version": "[17.4.0.49, )"
             },
             "Syncfusion.Xamarin.SfRichTextEditor": {
               "target": "Package",

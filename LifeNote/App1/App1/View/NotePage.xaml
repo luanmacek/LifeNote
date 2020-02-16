@@ -7,13 +7,59 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              xmlns:richtexteditor="clr-namespace:Syncfusion.XForms.RichTextEditor;assembly=Syncfusion.SfRichTextEditor.XForms"
-             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"    
-             Title="LifeNote">
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
+              xmlns:rating="clr-namespace:Syncfusion.SfRating.XForms;assembly=Syncfusion.SfRating.XForms"
+              xmlns:collection="clr-namespace:System.Collections.ObjectModel;assembly=System"
+              Title="LifeNote">
     <ContentPage.Content>
-        <StackLayout>
-            <Label x:Name="date_label" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center"></Label>
-            <Image x:Name="rateimage" Source="rate1.png"  HorizontalOptions="Center" WidthRequest="300" ></Image>
-            <Slider Maximum="5" Minimum="1"  x:Name="points_slider" ValueChanged="OnSliderValueChanged" WidthRequest="280" HorizontalOptions="Center" Margin="10"></Slider>
+        <StackLayout x:Name="grid">
+            <Label x:Name="date_label" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+            <rating:SfRating x:Name="rating" EnableCustomView="True"  ItemCount="5" HorizontalOptions="Center" VerticalOptions="Center">
+                <rating:SfRating.Items>
+                    <collection:ObservableCollection x:TypeArguments="rating:SfRatingItem">
+                        <rating:SfRatingItem>
+                            <rating:SfRatingItem.SelectedView>
+                                <Image Source="pain_selected.png"/>
+                            </rating:SfRatingItem.SelectedView>
+                            <rating:SfRatingItem.UnSelectedView>
+                                <Image Source="pain_unselected.png"/>
+                            </rating:SfRatingItem.UnSelectedView>
+                        </rating:SfRatingItem>
+                        <rating:SfRatingItem>
+                            <rating:SfRatingItem.SelectedView>
+                                <Image Source="sad_selected.png"/>
+                            </rating:SfRatingItem.SelectedView>
+                            <rating:SfRatingItem.UnSelectedView>
+                                <Image Source="sad_unselected.png"/>
+                            </rating:SfRatingItem.UnSelectedView>
+                        </rating:SfRatingItem>
+                        <rating:SfRatingItem>
+                            <rating:SfRatingItem.SelectedView>
+                                <Image Source="meh_selected.png" />
+                            </rating:SfRatingItem.SelectedView>
+                            <rating:SfRatingItem.UnSelectedView>
+                                <Image Source="meh_unselected.png"/>
+                            </rating:SfRatingItem.UnSelectedView>
+                        </rating:SfRatingItem>
+                        <rating:SfRatingItem>
+                            <rating:SfRatingItem.SelectedView>
+                                <Image Source="smile_selected.png"/>
+                            </rating:SfRatingItem.SelectedView>
+                            <rating:SfRatingItem.UnSelectedView>
+                                <Image Source="smile_unselected.png"/>
+                            </rating:SfRatingItem.UnSelectedView>
+                        </rating:SfRatingItem>
+                        <rating:SfRatingItem>
+                            <rating:SfRatingItem.SelectedView>
+                                <Image Source="happy_selected.png"/>
+                            </rating:SfRatingItem.SelectedView>
+                            <rating:SfRatingItem.UnSelectedView>
+                                <Image Source="happy_unselected.png"/>
+                            </rating:SfRatingItem.UnSelectedView>
+                        </rating:SfRatingItem>
+                    </collection:ObservableCollection>
+                </rating:SfRating.Items>
+            </rating:SfRating>
             <buttons:SfButton Clicked="save_clicked" Text="Save" ShowIcon="True" ImageSource="savenote_icon.png" CornerRadius="20" WidthRequest="100" HeightRequest="35" Margin="10" HorizontalOptions="Center"/>
             <richtexteditor:SfRichTextEditor VerticalOptions="FillAndExpand" x:Name="content_editor" PlaceHolder="Type something"/>
         </StackLayout>

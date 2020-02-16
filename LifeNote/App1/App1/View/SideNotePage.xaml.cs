@@ -15,11 +15,9 @@ namespace App1.View
     public partial class SideNotePage
     {
         SideNote sidenote;
-        bool init;
         public SideNotePage(SideNote Sn)
         {         
             InitializeComponent();
-            init = true;
             sidenote = Sn;
             title_editor.Text = Sn.Title;
             content_editor.Text = Sn.Content;
@@ -41,10 +39,8 @@ namespace App1.View
 
         }
 
-        private async void save_sidenote(object sender, System.ComponentModel.PropertyChangedEventArgs e)
+        private async void save_sidenote(object sender, EventArgs e)
         {
-            if(init)
-            {
                 sidenote.Title = title_editor.Text;
                 sidenote.Content = content_editor.GetHtmlString();
                 foreach (SideNote sn in SideNoteMenuPage.viewmodel.sidenotes)
@@ -56,7 +52,6 @@ namespace App1.View
                     }
                 }
                 await App.Database.SaveSideNoteAsync(sidenote);
-            }
         }
     }
 }

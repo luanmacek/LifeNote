@@ -12,6 +12,8 @@ Syncfusion.SfListView.XForms.Android
 Syncfusion.SfPicker.Android
 Syncfusion.SfPicker.XForms.Android
 Syncfusion.SfPopupLayout.XForms.Android
+Syncfusion.SfRating.Android
+Syncfusion.SfRating.XForms.Android
 Syncfusion.SfRichTextEditor.XForms.Android
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Core.Runtime

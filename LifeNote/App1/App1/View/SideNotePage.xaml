@@ -8,9 +8,20 @@
              x:Class="App1.View.SideNotePage">
     <ContentPage.Content>
         <StackLayout>
-            <Entry Placeholder="Title" x:Name="title_editor" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="50"  PropertyChanged="save_sidenote"></Entry>
-            <Button Text="Delete" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="200" HeightRequest="50" Clicked="delete_sidenote"></Button>
-            <richtexteditor:SfRichTextEditor  x:Name="content_editor" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="400" HeightRequest="700" PropertyChanged="save_sidenote"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Entry Placeholder="Title" x:Name="title_editor"  HeightRequest="50"  PropertyChanged="save_sidenote" VerticalOptions="Center" HorizontalOptions="Center" Grid.RowSpan="2"></Entry>
+                <StackLayout Padding="10" VerticalOptions="Center" HorizontalOptions="Center"  Grid.Column="1">
+                    <Button Text="Save"  WidthRequest="200" HeightRequest="50" Clicked="save_sidenote"></Button>
+                    <Button Text="Delete"  WidthRequest="200" HeightRequest="50" Clicked="delete_sidenote"></Button>
+                </StackLayout>
+                <richtexteditor:SfRichTextEditor  x:Name="content_editor" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="400" HeightRequest="700"/>
+            </Grid>
+
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
