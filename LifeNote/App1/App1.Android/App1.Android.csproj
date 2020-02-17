@@ -66,6 +66,9 @@
     <PackageReference Include="Syncfusion.Xamarin.SfChart">
       <Version>17.4.0.49</Version>
     </PackageReference>
+    <PackageReference Include="Syncfusion.Xamarin.SfPopupLayout">
+      <Version>17.4.0.49</Version>
+    </PackageReference>
     <PackageReference Include="Syncfusion.Xamarin.SfRating">
       <Version>17.4.0.49</Version>
     </PackageReference>

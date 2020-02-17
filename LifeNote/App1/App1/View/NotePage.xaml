@@ -10,10 +10,29 @@
              xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
               xmlns:rating="clr-namespace:Syncfusion.SfRating.XForms;assembly=Syncfusion.SfRating.XForms"
               xmlns:collection="clr-namespace:System.Collections.ObjectModel;assembly=System"
+              xmlns:sfPopup="clr-namespace:Syncfusion.XForms.PopupLayout;assembly=Syncfusion.SfPopupLayout.XForms"
               Title="LifeNote">
     <ContentPage.Content>
-        <StackLayout x:Name="grid">
-            <Label x:Name="date_label" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        <StackLayout>
+            <sfPopup:SfPopupLayout x:Name="popupLayout">
+                <sfPopup:SfPopupLayout.PopupView>
+                    <sfPopup:PopupView HeaderTitle="Tags" ShowFooter="False">
+                        <sfPopup:PopupView.ContentTemplate>
+                            <DataTemplate>
+                                <Entry></Entry>
+                            </DataTemplate>
+                        </sfPopup:PopupView.ContentTemplate>
+                    </sfPopup:PopupView>
+                </sfPopup:SfPopupLayout.PopupView>
+            </sfPopup:SfPopupLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="date_label" Text="{Binding Date}" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Start" Grid.ColumnSpan="2"></Label>
+                <Button Text="Tags"  Clicked="ClickToShowPopup_Clicked" HorizontalOptions="End" WidthRequest="60" Grid.Column="1"></Button>
+            </Grid>
             <rating:SfRating x:Name="rating" EnableCustomView="True"  ItemCount="5" HorizontalOptions="Center" VerticalOptions="Center">
                 <rating:SfRating.Items>
                     <collection:ObservableCollection x:TypeArguments="rating:SfRatingItem">

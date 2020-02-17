@@ -1269,3 +1269,11 @@ D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc6443725871784b4041\VerticalViewPager.java
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64e18a7d9a87d4f5ff\VerticalViewPager.java
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\src\crc64e18a7d9a87d4f5ff\VerticalViewPager_VerticalPageTransformer.java
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\SQLiteNetExtensions.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\SQLiteNetExtensions.pdb
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.IO.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.Primitives.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Text.Encoding.Extensions.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.ReaderWriter.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.XDocument.dll

@@ -33,9 +33,10 @@ namespace App1.View
             if (oldnote == null)
             {
                 Note newnote = new Note();
-                newnote.Date = date.ToString("MM/dd/yyyy");
+                newnote.Date = date.ToString("dd/MM/yyyy");
                 newnote.Day = date.ToString("dddd");
                 newnote.Content = "";
+                newnote.Tags = new List<string>();
                 await Navigation.PushAsync(new NotePage(newnote));
             }
             else

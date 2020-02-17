@@ -17,7 +17,7 @@ namespace App1 {
     public partial class NotePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.StackLayout grid;
+        private global::Syncfusion.XForms.PopupLayout.SfPopupLayout popupLayout;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.Label date_label;
@@ -31,7 +31,7 @@ namespace App1 {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(NotePage));
-            grid = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.StackLayout>(this, "grid");
+            popupLayout = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Syncfusion.XForms.PopupLayout.SfPopupLayout>(this, "popupLayout");
             date_label = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "date_label");
             rating = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Syncfusion.SfRating.XForms.SfRating>(this, "rating");
             content_editor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Syncfusion.XForms.RichTextEditor.SfRichTextEditor>(this, "content_editor");

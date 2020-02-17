@@ -35,5 +35,10 @@ namespace App1
             await App.Database.SaveNoteAsync(note);
             StatisticsPage.viewmodel.load_notes();
         }
+
+        private void ClickToShowPopup_Clicked(object sender, EventArgs e)
+        {
+            popupLayout.Show();
+        }
     }
 }

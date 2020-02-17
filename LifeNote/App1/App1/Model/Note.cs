@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using PropertyChanged;
 using SQLite;
+using SQLiteNetExtensions.Attributes;
 
 namespace App1.Model
 {
@@ -15,5 +16,7 @@ namespace App1.Model
         public string Day { get; set; }
         public string Content { get; set; }
         public int Points { get; set; }
+        [TextBlob("tagsBlobbed")]
+        public List<string> Tags { get; set; }
     }
 }
