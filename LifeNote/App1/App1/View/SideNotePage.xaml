@@ -10,15 +10,19 @@
         <StackLayout>
             <Grid>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition></ColumnDefinition>
-                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
                 </Grid.ColumnDefinitions>
-                <Entry Placeholder="Title" x:Name="title_editor"  HeightRequest="50"  PropertyChanged="save_sidenote" VerticalOptions="Center" HorizontalOptions="Center" Grid.RowSpan="2"></Entry>
-                <StackLayout Padding="10" VerticalOptions="Center" HorizontalOptions="Center"  Grid.Column="1">
-                    <Button Text="Save"  WidthRequest="200" HeightRequest="50" Clicked="save_sidenote"></Button>
-                    <Button Text="Delete"  WidthRequest="200" HeightRequest="50" Clicked="delete_sidenote"></Button>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Entry Placeholder="Title" x:Name="title_editor"  HeightRequest="50" VerticalOptions="Center" HorizontalOptions="Center" Grid.ColumnSpan="2"></Entry>
+                <StackLayout Padding="10" Orientation="Horizontal" VerticalOptions="Center" HorizontalOptions="End"  Grid.Column="1">
+                    <Button Text="Save"  WidthRequest="50" HeightRequest="50" Clicked="save_sidenote"></Button>
+                    <Button Text="Delete"  WidthRequest="50" HeightRequest="50" Clicked="delete_sidenote"></Button>
                 </StackLayout>
-                <richtexteditor:SfRichTextEditor  x:Name="content_editor" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="400" HeightRequest="700"/>
+                <richtexteditor:SfRichTextEditor  x:Name="content_editor" Grid.ColumnSpan="2" Grid.Row="1" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="400" HeightRequest="700"/>
             </Grid>
 
 

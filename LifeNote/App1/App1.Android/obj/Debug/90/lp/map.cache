@@ -1,3 +1,6 @@
+CarouselView.FormsPlugin.Android
+Com.Android.DeskClock
+Com.ViewPagerIndicator
 FormsViewGroup
 SQLitePCLRaw.batteries_green
 SQLitePCLRaw.batteries_v2
@@ -7,6 +10,7 @@ SQLitePCLRaw.provider.e_sqlite3
 Syncfusion.Buttons.XForms.Android
 Syncfusion.Core.XForms.Android
 Syncfusion.SfCalendar.XForms.Android
+Syncfusion.SfChart.XForms.Android
 Syncfusion.SfComboBox.XForms.Android
 Syncfusion.SfListView.XForms.Android
 Syncfusion.SfPicker.Android

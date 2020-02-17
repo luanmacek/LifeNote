@@ -1,15 +1,89 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
+             xmlns:chart="clr-namespace:Syncfusion.SfChart.XForms;assembly=Syncfusion.SfChart.XForms"
              x:Class="App1.View.StatisticsPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Statistics"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
-</ContentPage>
+    <ContentPage>
+        <chart:SfChart HeightRequest="300" WidthRequest="350" VerticalOptions="Center">
+            <chart:SfChart.Title>
+
+                <chart:ChartTitle Text="Best dates" TextColor="Blue"/>
+
+            </chart:SfChart.Title>
+            <chart:SfChart.PrimaryAxis>
+
+                <chart:CategoryAxis>
+
+                    <chart:CategoryAxis.Title>
+
+                        <chart:ChartAxisTitle Text="Date"></chart:ChartAxisTitle>
+
+                    </chart:CategoryAxis.Title>
+
+                </chart:CategoryAxis>
+
+            </chart:SfChart.PrimaryAxis>
+
+            <chart:SfChart.SecondaryAxis>
+
+                <chart:NumericalAxis>
+
+                    <chart:NumericalAxis.Title>
+
+                        <chart:ChartAxisTitle Text="Points"></chart:ChartAxisTitle>
+
+                    </chart:NumericalAxis.Title>
+
+                </chart:NumericalAxis>
+
+            </chart:SfChart.SecondaryAxis>
+            <chart:SfChart.Series>
+                <chart:ColumnSeries ItemsSource="{Binding Notes}" XBindingPath="Date" YBindingPath="Points">
+                </chart:ColumnSeries>
+            </chart:SfChart.Series>
+        </chart:SfChart>
+    </ContentPage>
+    <ContentPage>
+        <chart:SfChart HeightRequest="300" WidthRequest="350" VerticalOptions="Center">
+            <chart:SfChart.Title>
+
+                <chart:ChartTitle Text="The most succeful weekday" TextColor="Blue"/>
+
+            </chart:SfChart.Title>
+            <chart:SfChart.PrimaryAxis>
+
+                <chart:CategoryAxis>
+
+                    <chart:CategoryAxis.Title>
+
+                        <chart:ChartAxisTitle Text="Day"></chart:ChartAxisTitle>
+
+                    </chart:CategoryAxis.Title>
+
+                </chart:CategoryAxis>
+
+            </chart:SfChart.PrimaryAxis>
+
+            <chart:SfChart.SecondaryAxis>
+
+                <chart:NumericalAxis>
+
+                    <chart:NumericalAxis.Title>
+
+                        <chart:ChartAxisTitle Text="Points"></chart:ChartAxisTitle>
+
+                    </chart:NumericalAxis.Title>
+
+                </chart:NumericalAxis>
+
+            </chart:SfChart.SecondaryAxis>
+            <chart:SfChart.Series>
+                <chart:ColumnSeries ItemsSource="{Binding Days}" XBindingPath="Name" YBindingPath="Points">
+                </chart:ColumnSeries>
+            </chart:SfChart.Series>
+        </chart:SfChart>
+    </ContentPage>
+</CarouselPage>

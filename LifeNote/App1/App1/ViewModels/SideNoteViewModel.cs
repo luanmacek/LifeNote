@@ -12,14 +12,15 @@ namespace App1.ViewModels
     public class SideNoteViewModel
     {
         public ObservableCollection<SideNote> sidenotes { get; set; }
-
+        public ObservableCollection<Day> days { get; set; }
         public SideNoteViewModel()
         {
-            load_sidenotes();
+            load();
         }
 
-        async void load_sidenotes()
+        async void load()
         {
+            //load sidenotes
             List<SideNote> results = await App.Database.GetSideNotesAsync();
             sidenotes = new ObservableCollection<SideNote>();
             foreach (SideNote sn in results)

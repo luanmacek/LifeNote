@@ -1,6 +1,7 @@
 ﻿using Android.Widget;
 using App1.Model;
 using App1.View;
+using App1.ViewModels;
 using Syncfusion.SfRating.XForms;
 using System;
 using System.Collections.Generic;
@@ -30,8 +31,9 @@ namespace App1
         {
             note.Date = date_label.Text;
             note.Content = content_editor.GetHtmlString();
-            note.Points = rating.Value;
+            note.Points = int.Parse(rating.Value.ToString());
             await App.Database.SaveNoteAsync(note);
+            StatisticsPage.viewmodel.load_notes();
         }
     }
 }

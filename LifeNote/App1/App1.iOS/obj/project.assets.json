@@ -14,6 +14,20 @@
           "lib/netstandard2.0/AiForms.Layouts.dll": {}
         }
       },
+      "CarouselView.FormsPlugin/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.121934"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        }
+      },
       "LiveXAML/2.1.73": {
         "type": "package",
         "build": {
@@ -154,6 +168,21 @@
         "runtime": {
           "lib/Xamarin.iOS10/Syncfusion.SfCalendar.XForms.dll": {},
           "lib/Xamarin.iOS10/Syncfusion.SfCalendar.XForms.iOS.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.SfChart/17.4.0.49": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
+          "Xamarin.Forms": "3.6.0.344457"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.dll": {},
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.dll": {},
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.iOS.dll": {}
         }
       },
       "Syncfusion.Xamarin.SfComboBox/17.4.0.47": {
@@ -408,10 +437,12 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "AiForms.Layouts": "1.1.0",
+          "CarouselView.FormsPlugin": "5.2.0",
           "LiveXAML": "2.1.73",
           "PropertyChanged.Fody": "3.2.6",
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
+          "Syncfusion.Xamarin.SfChart": "17.4.0.49",
           "Syncfusion.Xamarin.SfListView": "17.4.0.47",
           "Syncfusion.Xamarin.SfRating": "17.4.0.49",
           "Syncfusion.Xamarin.SfRichTextEditor": "17.4.0.47",
@@ -440,6 +471,20 @@
           "lib/netstandard2.0/AiForms.Layouts.dll": {}
         }
       },
+      "CarouselView.FormsPlugin/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.121934"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        }
+      },
       "LiveXAML/2.1.73": {
         "type": "package",
         "build": {
@@ -580,6 +625,21 @@
         "runtime": {
           "lib/Xamarin.iOS10/Syncfusion.SfCalendar.XForms.dll": {},
           "lib/Xamarin.iOS10/Syncfusion.SfCalendar.XForms.iOS.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.SfChart/17.4.0.49": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
+          "Xamarin.Forms": "3.6.0.344457"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.dll": {},
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.dll": {},
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.iOS.dll": {}
         }
       },
       "Syncfusion.Xamarin.SfComboBox/17.4.0.47": {
@@ -834,10 +894,12 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "AiForms.Layouts": "1.1.0",
+          "CarouselView.FormsPlugin": "5.2.0",
           "LiveXAML": "2.1.73",
           "PropertyChanged.Fody": "3.2.6",
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
+          "Syncfusion.Xamarin.SfChart": "17.4.0.49",
           "Syncfusion.Xamarin.SfListView": "17.4.0.47",
           "Syncfusion.Xamarin.SfRating": "17.4.0.49",
           "Syncfusion.Xamarin.SfRichTextEditor": "17.4.0.47",
@@ -866,6 +928,20 @@
           "lib/netstandard2.0/AiForms.Layouts.dll": {}
         }
       },
+      "CarouselView.FormsPlugin/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.121934"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        }
+      },
       "LiveXAML/2.1.73": {
         "type": "package",
         "build": {
@@ -1006,6 +1082,21 @@
         "runtime": {
           "lib/Xamarin.iOS10/Syncfusion.SfCalendar.XForms.dll": {},
           "lib/Xamarin.iOS10/Syncfusion.SfCalendar.XForms.iOS.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.SfChart/17.4.0.49": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
+          "Xamarin.Forms": "3.6.0.344457"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.dll": {},
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.dll": {},
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.iOS.dll": {}
         }
       },
       "Syncfusion.Xamarin.SfComboBox/17.4.0.47": {
@@ -1260,10 +1351,12 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "AiForms.Layouts": "1.1.0",
+          "CarouselView.FormsPlugin": "5.2.0",
           "LiveXAML": "2.1.73",
           "PropertyChanged.Fody": "3.2.6",
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
+          "Syncfusion.Xamarin.SfChart": "17.4.0.49",
           "Syncfusion.Xamarin.SfListView": "17.4.0.47",
           "Syncfusion.Xamarin.SfRating": "17.4.0.49",
           "Syncfusion.Xamarin.SfRichTextEditor": "17.4.0.47",
@@ -1292,6 +1385,20 @@
           "lib/netstandard2.0/AiForms.Layouts.dll": {}
         }
       },
+      "CarouselView.FormsPlugin/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.121934"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
+        }
+      },
       "LiveXAML/2.1.73": {
         "type": "package",
         "build": {
@@ -1432,6 +1539,21 @@
         "runtime": {
           "lib/Xamarin.iOS10/Syncfusion.SfCalendar.XForms.dll": {},
           "lib/Xamarin.iOS10/Syncfusion.SfCalendar.XForms.iOS.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.SfChart/17.4.0.49": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.4.0.49",
+          "Xamarin.Forms": "3.6.0.344457"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.dll": {},
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.dll": {},
+          "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.iOS.dll": {}
         }
       },
       "Syncfusion.Xamarin.SfComboBox/17.4.0.47": {
@@ -1686,10 +1808,12 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "AiForms.Layouts": "1.1.0",
+          "CarouselView.FormsPlugin": "5.2.0",
           "LiveXAML": "2.1.73",
           "PropertyChanged.Fody": "3.2.6",
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
+          "Syncfusion.Xamarin.SfChart": "17.4.0.49",
           "Syncfusion.Xamarin.SfListView": "17.4.0.47",
           "Syncfusion.Xamarin.SfRating": "17.4.0.49",
           "Syncfusion.Xamarin.SfRichTextEditor": "17.4.0.47",
@@ -1718,6 +1842,28 @@
         "aiforms.layouts.nuspec",
         "lib/netstandard2.0/AiForms.Layouts.dll",
         "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/AiForms.Layouts.dll"
+      ]
+    },
+    "CarouselView.FormsPlugin/5.2.0": {
+      "sha512": "h849lqz0wvmpyiXqCrN7EW+cCGqK5chcefCfS55CkoGMMQx238QWNknUTOl/CvIdZ4bgs0Oztb7kamYXDlQ5mQ==",
+      "type": "package",
+      "path": "carouselview.formsplugin/5.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "carouselview.formsplugin.5.2.0.nupkg.sha512",
+        "carouselview.formsplugin.nuspec",
+        "lib/MonoAndroid/CarouselView.FormsPlugin.Abstractions.dll",
+        "lib/MonoAndroid/CarouselView.FormsPlugin.Android.dll",
+        "lib/UAP10/CarouselView.FormsPlugin.Abstractions.dll",
+        "lib/UAP10/CarouselView.FormsPlugin.UWP.dll",
+        "lib/UAP10/CarouselView.FormsPlugin.UWP.pri",
+        "lib/UAP10/CarouselView.FormsPlugin.UWP/CarouselView.FormsPlugin.UWP.xr.xml",
+        "lib/UAP10/FlipViewControl.xbf",
+        "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll",
+        "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll",
+        "lib/netstandard2.0/CarouselView.FormsPlugin.Abstractions.dll",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll"
       ]
     },
     "LiveXAML/2.1.73": {
@@ -2016,6 +2162,33 @@
         "lib/uap10.0/Syncfusion.SfCalendar.XForms.xml",
         "syncfusion.xamarin.sfcalendar.17.4.0.47.nupkg.sha512",
         "syncfusion.xamarin.sfcalendar.nuspec"
+      ]
+    },
+    "Syncfusion.Xamarin.SfChart/17.4.0.49": {
+      "sha512": "HO4uyE9abrDKrQ74R239DJGfH0k8VHdNl6/nShB+RcLZ3KF2flHgE8Vu41Wt9u1EhIOn4HPP5zaq00PAcTMipQ==",
+      "type": "package",
+      "path": "syncfusion.xamarin.sfchart/17.4.0.49",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Syncfusion.SfChart.XForms.Android.dll",
+        "lib/MonoAndroid10/Syncfusion.SfChart.XForms.dll",
+        "lib/MonoAndroid10/Syncfusion.SfChart.XForms.xml",
+        "lib/Xamarin.Mac/Syncfusion.SfChart.XForms.dll",
+        "lib/Xamarin.Mac/Syncfusion.SfChart.XForms.macOS.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.iOS.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.xml",
+        "lib/netstandard2.0/Syncfusion.SfChart.XForms.dll",
+        "lib/netstandard2.0/Syncfusion.SfChart.XForms.xml",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.SfChart.XForms.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.SfChart.XForms.xml",
+        "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.XML",
+        "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll",
+        "lib/uap10.0/Syncfusion.SfChart.XForms.dll",
+        "lib/uap10.0/Syncfusion.SfChart.XForms.xml",
+        "syncfusion.xamarin.sfchart.17.4.0.49.nupkg.sha512",
+        "syncfusion.xamarin.sfchart.nuspec"
       ]
     },
     "Syncfusion.Xamarin.SfComboBox/17.4.0.47": {
@@ -2553,7 +2726,9 @@
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
       "App1 >= 1.0.0",
+      "CarouselView.FormsPlugin >= 5.2.0",
       "Syncfusion.Xamarin.SfCalendar >= 17.4.0.47",
+      "Syncfusion.Xamarin.SfChart >= 17.4.0.49",
       "Syncfusion.Xamarin.SfRating >= 17.4.0.49",
       "Syncfusion.Xamarin.SfRichTextEditor >= 17.4.0.47",
       "Xamarin.Essentials >= 1.3.1",
@@ -2587,7 +2762,8 @@
       ],
       "sources": {
         "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/nuget": {}
       },
       "frameworks": {
         "xamarinios10": {
@@ -2602,9 +2778,17 @@
     "frameworks": {
       "xamarinios10": {
         "dependencies": {
+          "CarouselView.FormsPlugin": {
+            "target": "Package",
+            "version": "[5.2.0, )"
+          },
           "Syncfusion.Xamarin.SfCalendar": {
             "target": "Package",
             "version": "[17.4.0.47, )"
+          },
+          "Syncfusion.Xamarin.SfChart": {
+            "target": "Package",
+            "version": "[17.4.0.49, )"
           },
           "Syncfusion.Xamarin.SfRating": {
             "target": "Package",

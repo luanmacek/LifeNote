@@ -14,7 +14,7 @@ namespace App1.View {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\StatisticsPage.xaml")]
-    public partial class StatisticsPage : global::Xamarin.Forms.ContentPage {
+    public partial class StatisticsPage : global::Xamarin.Forms.CarouselPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {

@@ -34,6 +34,7 @@ namespace App1.View
             {
                 Note newnote = new Note();
                 newnote.Date = date.ToString("MM/dd/yyyy");
+                newnote.Day = date.ToString("dddd");
                 newnote.Content = "";
                 await Navigation.PushAsync(new NotePage(newnote));
             }
