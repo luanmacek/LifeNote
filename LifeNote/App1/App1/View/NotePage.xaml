@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage  xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:App1.View"
+             xmlns:local="clr-namespace:App1.ViewModels"
              x:Class="App1.NotePage"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
@@ -19,7 +19,15 @@
                     <sfPopup:PopupView HeaderTitle="Tags" ShowFooter="False">
                         <sfPopup:PopupView.ContentTemplate>
                             <DataTemplate>
-                                <Entry></Entry>
+                                <ListView ItemsSource="{Binding Activities}">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <FlexLayout HorizontalOptions="Start" VerticalOptions="Center" Direction="Row" Wrap="Wrap" JustifyContent="Start" AlignContent="Start" AlignItems="Start">
+                                                <buttons:SfButton Text="{Binding Name}"  Clicked="activity_select" CornerRadius="40" Margin="10"></buttons:SfButton>
+                                            </FlexLayout>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
                             </DataTemplate>
                         </sfPopup:PopupView.ContentTemplate>
                     </sfPopup:PopupView>
@@ -30,7 +38,7 @@
                     <ColumnDefinition></ColumnDefinition>
                     <ColumnDefinition></ColumnDefinition>
                 </Grid.ColumnDefinitions>
-                <Label x:Name="date_label" Text="{Binding Date}" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Start" Grid.ColumnSpan="2"></Label>
+                <Label x:Name="date_label" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Start" Grid.ColumnSpan="2"></Label>
                 <Button Text="Tags"  Clicked="ClickToShowPopup_Clicked" HorizontalOptions="End" WidthRequest="60" Grid.Column="1"></Button>
             </Grid>
             <rating:SfRating x:Name="rating" EnableCustomView="True"  ItemCount="5" HorizontalOptions="Center" VerticalOptions="Center">

@@ -17,6 +17,6 @@ namespace App1.Model
         public string Content { get; set; }
         public int Points { get; set; }
         [TextBlob("tagsBlobbed")]
-        public List<string> Tags { get; set; }
+        public List<string> Activities { get; set; }
     }
 }

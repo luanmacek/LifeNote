@@ -15,6 +15,7 @@ namespace App1.View
         public SettingsPage()
         {
             InitializeComponent();
+            BindingContext = new SettingsViewModel();
         }
     }
 }
