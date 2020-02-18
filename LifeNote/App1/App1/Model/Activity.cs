@@ -8,5 +8,11 @@ namespace App1.Model
     {
         public string Name { get; set; }
         public bool Selected { get; set; }
+
+        public Activity(string name)
+        {
+            Name = name;
+            Selected = false;
+        }
     }
 }

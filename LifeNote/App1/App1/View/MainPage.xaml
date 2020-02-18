@@ -20,9 +20,4 @@
             <FileImageSource File="graph_icon.png"></FileImageSource>
         </local:StatisticsPage.IconImageSource>
     </local:StatisticsPage>
-    <local:SettingsPage Title="Settings">
-        <local:SettingsPage.IconImageSource>
-            <FileImageSource File="settings_icon.png"></FileImageSource>
-        </local:SettingsPage.IconImageSource>
-    </local:SettingsPage>
 </TabbedPage>

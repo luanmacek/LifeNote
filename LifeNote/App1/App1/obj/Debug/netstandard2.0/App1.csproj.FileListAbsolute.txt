@@ -32,7 +32,6 @@ D:\fmace\Desktop\LifeNote\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.pdb
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\CalendarPage.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\NotePage.xaml.g.cs
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\SettingsPage.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\SideNotePage.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\StatisticsPage.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
@@ -53,5 +52,3 @@ D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\Vie
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.csproj.Fody.CopyLocal.cache
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\bin\Debug\netstandard2.0\System.Drawing.Common.dll
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\bin\Debug\netstandard2.0\System.Drawing.Common.pdb

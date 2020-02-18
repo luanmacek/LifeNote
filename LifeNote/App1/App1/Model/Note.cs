@@ -16,7 +16,7 @@ namespace App1.Model
         public string Day { get; set; }
         public string Content { get; set; }
         public int Points { get; set; }
-        [TextBlob("tagsBlobbed")]
+        [TextBlob("activitiesBlobbed")]
         public List<string> Activities { get; set; }
     }
 }

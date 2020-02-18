@@ -939,13 +939,26 @@
           "build/monoandroid90/Xamarin.Android.Support.Transition.targets": {}
         }
       },
-      "Xamarin.Android.Support.v4/21.0.3": {
+      "Xamarin.Android.Support.v4/28.0.0.3": {
         "type": "package",
+        "dependencies": {
+          "Xamarin.Android.Support.Compat": "[28.0.0.3]",
+          "Xamarin.Android.Support.Core.UI": "[28.0.0.3]",
+          "Xamarin.Android.Support.Core.Utils": "[28.0.0.3]",
+          "Xamarin.Android.Support.Fragment": "[28.0.0.3]",
+          "Xamarin.Android.Support.Media.Compat": "[28.0.0.3]"
+        },
+        "frameworkAssemblies": [
+          "Java.Interop"
+        ],
         "compile": {
-          "lib/MonoAndroid10/Xamarin.Android.Support.v4.dll": {}
+          "lib/monoandroid90/Xamarin.Android.Support.v4.dll": {}
         },
         "runtime": {
-          "lib/MonoAndroid10/Xamarin.Android.Support.v4.dll": {}
+          "lib/monoandroid90/Xamarin.Android.Support.v4.dll": {}
+        },
+        "build": {
+          "build/monoandroid90/Xamarin.Android.Support.v4.targets": {}
         }
       },
       "Xamarin.Android.Support.v7.AppCompat/28.0.0.3": {
@@ -2462,15 +2475,24 @@
         "xamarin.android.support.transition.nuspec"
       ]
     },
-    "Xamarin.Android.Support.v4/21.0.3": {
-      "sha512": "XJgRS5qok02+l0LjwQj8VZeb7v2z9YEAwHJLBCmfzmooH5oe6L9OxN8mHQGLu0Rf8j++I4Ki/pL5BXJgOB5/mg==",
+    "Xamarin.Android.Support.v4/28.0.0.3": {
+      "sha512": "eDp/4Twt+FwJlthOxDiZTWhFdQwIjlOLww63JW9MmDpW3WKW5Pd2H17x7V8H/A/B6mmp1mqxBR2TmZj+zzaeyQ==",
       "type": "package",
-      "path": "xamarin.android.support.v4/21.0.3",
+      "path": "xamarin.android.support.v4/28.0.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "lib/MonoAndroid10/Xamarin.Android.Support.v4.dll",
-        "xamarin.android.support.v4.21.0.3.nupkg.sha512",
+        "build/monoandroid71/Xamarin.Android.Support.v4.targets",
+        "build/monoandroid80/Xamarin.Android.Support.v4.targets",
+        "build/monoandroid81/Xamarin.Android.Support.v4.targets",
+        "build/monoandroid90/Xamarin.Android.Support.v4.targets",
+        "lib/monoandroid60/Xamarin.Android.Support.v4.dll",
+        "lib/monoandroid70/Xamarin.Android.Support.v4.dll",
+        "lib/monoandroid71/Xamarin.Android.Support.v4.dll",
+        "lib/monoandroid80/Xamarin.Android.Support.v4.dll",
+        "lib/monoandroid81/Xamarin.Android.Support.v4.dll",
+        "lib/monoandroid90/Xamarin.Android.Support.v4.dll",
+        "xamarin.android.support.v4.28.0.0.3.nupkg.sha512",
         "xamarin.android.support.v4.nuspec"
       ]
     },
@@ -2981,7 +3003,6 @@
       "Syncfusion.Xamarin.SfRating >= 17.4.0.49",
       "Syncfusion.Xamarin.SfRichTextEditor >= 17.4.0.47",
       "Xamarin.Android.Support.Core.Utils >= 28.0.0.3",
-      "Xamarin.Android.Support.v4 >= 21.0.3",
       "Xamarin.Android.Support.v7.MediaRouter >= 28.0.0.3",
       "Xamarin.Essentials >= 1.3.1",
       "Xamarin.Forms >= 4.4.0.991640"
@@ -3062,10 +3083,6 @@
             "target": "Package",
             "version": "[28.0.0.3, )"
           },
-          "Xamarin.Android.Support.v4": {
-            "target": "Package",
-            "version": "[21.0.3, )"
-          },
           "Xamarin.Android.Support.v7.MediaRouter": {
             "target": "Package",
             "version": "[28.0.0.3, )"
@@ -3081,27 +3098,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Android.Support.v4 from 25.4.0.2 to 21.0.3.0. Reference the package directly from the project to select a different version. \r\n App1.Android -> CarouselView.FormsPlugin 5.2.0 -> Xamarin.Android.Support.v4 (>= 25.4.0.2) \r\n App1.Android -> Xamarin.Android.Support.v4 (>= 21.0.3)",
-      "libraryId": "Xamarin.Android.Support.v4",
-      "targetGraphs": [
-        "MonoAndroid,Version=v9.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Android.Support.v4 from 28.0.0.3 to 21.0.3.0. Reference the package directly from the project to select a different version. \r\n App1.Android -> Xamarin.Forms 4.4.0.991640 -> Xamarin.Android.Support.v4 (>= 28.0.0.3) \r\n App1.Android -> Xamarin.Android.Support.v4 (>= 21.0.3)",
-      "libraryId": "Xamarin.Android.Support.v4",
-      "targetGraphs": [
-        "MonoAndroid,Version=v9.0"
-      ]
-    }
-  ]
+  }
 }

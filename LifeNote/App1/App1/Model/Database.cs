@@ -92,5 +92,21 @@ namespace App1.Model
 
             return days;
         }
+
+        public async Task<List<Activity>> GetActivities()
+        {
+
+
+            Activity activity = new Activity("Family");
+            Activity activity2 = new Activity("Sport");
+            Activity activity3 = new Activity("Relax");
+            Activity activity4 = new Activity("Gaming");
+            Activity activity5 = new Activity("Food");
+            Activity activity6 = new Activity("Job");
+
+            List<Activity> activities = new List<Activity> { activity, activity2, activity3, activity4, activity5, activity6};
+
+            return activities;
+        }
     }
 }

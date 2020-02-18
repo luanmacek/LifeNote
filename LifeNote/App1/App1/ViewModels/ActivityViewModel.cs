@@ -1,24 +1,28 @@
 ﻿using App1.Model;
+using PropertyChanged;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Text;
 
 namespace App1.ViewModels
 {
+    [AddINotifyPropertyChangedInterface]
     public class ActivityViewModel
     {
-        public List<Activity> Activities { get; set; }
+        public ObservableCollection<Activity> Activities { get; set; }
 
         public ActivityViewModel()
         {
-            Activities = new List<Activity>();
-            Activities.Add(new Activity() { Name = "Family", Selected = false });
-            //Activities.Add(new Activity() { Name = "Sport", Selected = false });
-            //Activities.Add(new Activity() { Name = "Gaming", Selected = false });
-            //Activities.Add(new Activity() { Name = "Relax", Selected = false });
-            //Activities.Add(new Activity() { Name = "Food", Selected = false });
-            //Activities.Add(new Activity() { Name = "Job", Selected = false });
-            //Activities.Add(new Activity() { Name = "Study", Selected = false });
+            load();
+        }
+
+        async void load()
+        {
+            List<Activity> activityresults = await App.Database.GetActivities();
+            Activities = new ObservableCollection<Activity>();
+            foreach (Activity a in activityresults)
+                Activities.Add(a);
         }
     }
 }
