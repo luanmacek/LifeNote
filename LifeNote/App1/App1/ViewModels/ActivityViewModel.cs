@@ -11,18 +11,33 @@ namespace App1.ViewModels
     public class ActivityViewModel
     {
         public ObservableCollection<Activity> Activities { get; set; }
-
-        public ActivityViewModel()
+        public ObservableCollection<Activity> SelectedItems { get; set; }
+        public ActivityViewModel(bool Newnote, Note note)
         {
-            load();
-        }
-
-        async void load()
-        {
-            List<Activity> activityresults = await App.Database.GetActivities();
             Activities = new ObservableCollection<Activity>();
-            foreach (Activity a in activityresults)
-                Activities.Add(a);
+            Activities.Add(new Activity("Family"));
+            Activities.Add(new Activity("Job"));
+            Activities.Add(new Activity("Study"));
+            Activities.Add(new Activity("Friends"));
+            Activities.Add(new Activity("Relax"));
+            Activities.Add(new Activity("Gaming"));
+            SelectedItems = new ObservableCollection<Activity>();
+            if (!Newnote)
+            {
+                load(note.Id);
+            }
+
         }
+        public async void load(int noteId)
+        {
+            Note note = await App.Database.GetNoteWithChildren(noteId);
+            if(note.Activities != null)
+            {
+                foreach (Activity a in note.Activities)
+                    SelectedItems.Add(a);
+            }
+
+        }
+
     }
 }

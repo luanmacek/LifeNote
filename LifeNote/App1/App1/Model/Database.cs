@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Text;
 using System.Threading.Tasks;
+using SQLiteNetExtensions;
+using SQLiteNetExtensionsAsync.Extensions;
 
 namespace App1.Model
 {
@@ -22,19 +24,19 @@ namespace App1.Model
         {
             return _database.Table<Note>().ToListAsync();
         }
-        public Task<int> SaveNoteAsync(Note note)
+        public async void SaveNoteAsync(Note note)
         {
             if (note.Id != 0)
             {
-                return _database.UpdateAsync(note);
+                await _database.UpdateWithChildrenAsync(note);
             }
             else
             {
-                return _database.InsertAsync(note);
+                await _database.InsertWithChildrenAsync(note, true);
             }
         }
 
-        public Task<Note> GetNoteAsync(string date)
+        public Task<Note> GetNoteByDateAsync(string date)
         {
             return _database.Table<Note>()
                             .Where(i => i.Date == date)
@@ -93,20 +95,9 @@ namespace App1.Model
             return days;
         }
 
-        public async Task<List<Activity>> GetActivities()
+        public Task<Note> GetNoteWithChildren(int id)
         {
-
-
-            Activity activity = new Activity("Family");
-            Activity activity2 = new Activity("Sport");
-            Activity activity3 = new Activity("Relax");
-            Activity activity4 = new Activity("Gaming");
-            Activity activity5 = new Activity("Food");
-            Activity activity6 = new Activity("Job");
-
-            List<Activity> activities = new List<Activity> { activity, activity2, activity3, activity4, activity5, activity6};
-
-            return activities;
+            return _database.GetWithChildrenAsync<Note>(id);
         }
     }
 }

@@ -16,18 +16,14 @@
         <StackLayout>
             <sfPopup:SfPopupLayout x:Name="popupLayout">
                 <sfPopup:SfPopupLayout.PopupView>
-                    <sfPopup:PopupView HeaderTitle="Tags" ShowFooter="False">
+                    <sfPopup:PopupView HeaderTitle="Activities" ShowFooter="False">
                         <sfPopup:PopupView.ContentTemplate>
                             <DataTemplate>
-                                <ListView ItemsSource="{Binding Activities}">
-                                    <ListView.ItemTemplate>
-                                        <DataTemplate>
-                                            <FlexLayout HorizontalOptions="Start" VerticalOptions="Center" Direction="Row" Wrap="Wrap" JustifyContent="Start" AlignContent="Start" AlignItems="Start">
-                                                <buttons:SfButton Text="{Binding Name}"  Clicked="activity_select" CornerRadius="40" Margin="10"></buttons:SfButton>
-                                            </FlexLayout>
-                                        </DataTemplate>
-                                    </ListView.ItemTemplate>
-                                </ListView>
+                                <buttons:SfChipGroup SelectionChanged="SfChipGroup_SelectionChanged" ItemsSource="{Binding Activities}" ChipPadding="8,8,0,0" DisplayMemberPath="Name" Type="Filter" SelectedItems="{Binding SelectedItems}">
+                                    <buttons:SfChipGroup.ChipLayout>
+                                        <FlexLayout HorizontalOptions="Start" VerticalOptions="Center" Direction="Row" Wrap="Wrap" JustifyContent="Start" AlignContent="Start" AlignItems="Start"/>
+                                    </buttons:SfChipGroup.ChipLayout>
+                                </buttons:SfChipGroup>
                             </DataTemplate>
                         </sfPopup:PopupView.ContentTemplate>
                     </sfPopup:PopupView>

@@ -1277,3 +1277,5 @@ D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Text.Encoding.Extensions.dll
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.ReaderWriter.dll
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.XDocument.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\SQLiteNetExtensionsAsync.dll
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1.Android\obj\Debug\90\android\assets\SQLiteNetExtensionsAsync.pdb

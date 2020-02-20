@@ -19,28 +19,36 @@ namespace App1
     public partial class NotePage 
     {
         Note note;
-        List<string> selectedActivities;
         ActivityViewModel viewmodel;
-        public NotePage(Note Note)
+        bool newnote;
+        public NotePage(Note Note, bool Newnote)
         {           
             InitializeComponent();
+            newnote = Newnote;
             note = Note;
             date_label.Text = note.Date;
             content_editor.Text = note.Content;
             rating.Value = note.Points;
-            selectedActivities = new List<string>();
-            viewmodel = new ActivityViewModel();
+            viewmodel = new ActivityViewModel(newnote, note);
             BindingContext = viewmodel;
         }
 
-        private async void save_clicked(object sender, EventArgs e)
+        private void save_clicked(object sender, EventArgs e)
         {
             note.Date = date_label.Text;
             note.Content = content_editor.GetHtmlString();
             note.Points = int.Parse(rating.Value.ToString());
-            note.Activities = selectedActivities;
-            await App.Database.SaveNoteAsync(note);
+            foreach (Activity a in viewmodel.SelectedItems)
+            {
+                if (!note.Activities.Contains(a))
+                    note.Activities.Add(a);
+            }
+            App.Database.SaveNoteAsync(note);
             StatisticsPage.viewmodel.load_notes();
+            if (!newnote)
+            {
+                viewmodel.load(note.Id);
+            }
         }
 
         private void ClickToShowPopup_Clicked(object sender, EventArgs e)
@@ -48,33 +56,12 @@ namespace App1
             popupLayout.Show();
         }
 
-
-        private void activity_select(object sender, EventArgs e)
+        private void SfChipGroup_SelectionChanged(object sender, Syncfusion.Buttons.XForms.SfChip.SelectionChangedEventArgs e)
         {
-            SfButton btn = sender as SfButton;
-            foreach(Activity a in viewmodel.Activities)
+            if (!viewmodel.SelectedItems.Contains(e.AddedItem as Activity) && e.AddedItem != null && e.RemovedItem != null)
             {
-                if (btn.Text == a.Name)
-                {
-                    if (a.Selected)
-                    {
-                        btn.BackgroundColor = Color.LightSeaGreen;
-                        a.Selected = false;
-                        if (!selectedActivities.Contains(a.Name))
-                        {
-                            selectedActivities.Add(a.Name);
-                        }
-                    }
-                    else
-                    {
-                        btn.BackgroundColor = Color.HotPink;
-                        a.Selected = true;
-                    }
-                }
-                
+                viewmodel.SelectedItems.Add(e.AddedItem as Activity);
             }
-
-
         }
     }
 }

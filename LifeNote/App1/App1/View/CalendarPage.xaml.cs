@@ -29,19 +29,20 @@ namespace App1.View
         {
             SfCalendar calendar = (sender as SfCalendar);
             DateTime date = e.datetime;
-            Note oldnote = await App.Database.GetNoteAsync(date.ToString("MM/dd/yyyy"));
-            if (oldnote == null)
+            Note result = await App.Database.GetNoteByDateAsync(date.ToString("MM/dd/yyyy"));
+            if (result == null)
             {
                 Note newnote = new Note();
                 newnote.Date = date.ToString("dd/MM/yyyy");
                 newnote.Day = date.ToString("dddd");
                 newnote.Content = "";
-                newnote.Activities = new List<string>();
-                await Navigation.PushAsync(new NotePage(newnote));
+                newnote.Activities = new List<Activity>();
+                await Navigation.PushAsync(new NotePage(newnote, true));
             }
             else
             {
-                await Navigation.PushAsync(new NotePage(oldnote));
+                Note oldnote = await App.Database.GetNoteWithChildren(result.Id);
+                await Navigation.PushAsync(new NotePage(oldnote, false));
             }
         }
     }

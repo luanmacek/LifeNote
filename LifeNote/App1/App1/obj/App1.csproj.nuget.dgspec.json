@@ -75,6 +75,10 @@
               "target": "Package",
               "version": "[2.1.0, )"
             },
+            "SQLiteNetExtensions.Async": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "Syncfusion.Xamarin.Buttons": {
               "target": "Package",
               "version": "[17.4.0.47, )"
