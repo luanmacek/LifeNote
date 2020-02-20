@@ -4,16 +4,40 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:syncfusion="clr-namespace:Syncfusion.SfCalendar.XForms;assembly=Syncfusion.SfCalendar.XForms"
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
              mc:Ignorable="d"
+             BackgroundColor="{DynamicResource PageBackgroundColor}"
              x:Class="App1.View.CalendarPage">
     <ContentPage.Content>
-        <StackLayout>
-            <!-- Place new controls here -->
-            <syncfusion:SfCalendar x:Name="calendar" ToggleDaySelection="False">
+        <StackLayout VerticalOptions="Center">
+            <syncfusion:SfCalendar x:Name="calendar" ToggleDaySelection="False" HeightRequest="400" VerticalOptions="Center" ShowLeadingAndTrailingDays="False">
                 <syncfusion:SfCalendar.MonthViewSettings>
-                    <syncfusion:MonthViewSettings CellGridOptions="Both" />
+                    <syncfusion:MonthViewSettings CellGridOptions="Both" 
+                                                  HeaderBackgroundColor="{DynamicResource CalendarBlock}"
+                                                  HeaderTextColor="{DynamicResource PrimaryTextColor}"
+                                                  DayHeaderBackgroundColor="{DynamicResource PrimaryTextColor}"            
+                                                  DayHeaderTextColor="{DynamicResource CalendarBlock}"
+                                                  DateSelectionColor="{DynamicResource PrimaryColor}" 
+                                                  TodaySelectionBackgroundColor="{DynamicResource PrimaryColor}"
+                                                  TodayBorderColor="{DynamicResource TodayBorder}"
+                                                  TodayTextColor="{DynamicResource PrimaryTextColor}"
+                                                  PreviousMonthBackgroundColor="{DynamicResource CalendarBlock}"
+		                                          PreviousMonthTextColor="{DynamicResource PrimaryTextColor}"
+                                                  CurrentMonthBackgroundColor="{DynamicResource CalendarBlock}"
+		                                          CurrentMonthTextColor="{DynamicResource PrimaryTextColor}"/>
                 </syncfusion:SfCalendar.MonthViewSettings>
+                <syncfusion:SfCalendar.YearViewSettings>
+                    <syncfusion:YearViewSettings HeaderBackground="{DynamicResource CalendarBlock}"
+                                                 YearHeaderTextColor="{DynamicResource PrimaryTextColor}"
+                                                 DateTextColor="{DynamicResource PrimaryTextColor}"
+                                                 MonthHeaderBackground="{DynamicResource CalendarBlock}"
+                                                 MonthHeaderTextColor="{DynamicResource PrimaryTextColor}"
+                                                 MonthLayoutBackground="{DynamicResource CalendarBlock}"
+                                                 
+                        ></syncfusion:YearViewSettings>
+                </syncfusion:SfCalendar.YearViewSettings>
             </syncfusion:SfCalendar>
+            <buttons:SfButton Text="Go to today" BackgroundColor="{DynamicResource PrimaryColor}" Clicked="gototoday_button" CornerRadius="40" HorizontalOptions="Center" WidthRequest="100" HeightRequest="50" Margin="20"></buttons:SfButton>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

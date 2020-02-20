@@ -50,7 +50,7 @@ D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\View\SideNoteMenuPage.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\Styles\DarkTheme.xaml.g.cs
-D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\Styles\LightTheme.xaml.g.cs
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\App1.csproj.Fody.CopyLocal.cache
 D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\Themes\DarkTheme.xaml.g.cs
+D:\fmace\Desktop\LifeNote-master\LifeNote\App1\App1\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs

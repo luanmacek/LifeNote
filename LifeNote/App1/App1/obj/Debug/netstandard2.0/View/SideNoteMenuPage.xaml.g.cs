@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App1.View.SideNoteMenuPage.xaml", "View/SideNoteMenuPage.xaml", typeof(global::App1.View.SideNoteMenuPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("LifeNote.View.SideNoteMenuPage.xaml", "View/SideNoteMenuPage.xaml", typeof(global::App1.View.SideNoteMenuPage))]
 
 namespace App1.View {
     

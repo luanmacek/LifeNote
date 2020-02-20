@@ -3,8 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:local="clr-namespace:App1.View"
             x:Class="App1.View.MainPage"
+            BackgroundColor="{DynamicResource PageBackgroundColor}"
+            BarBackgroundColor="{DynamicResource NavigationBarColor}"
+            BarTextColor="{DynamicResource MediumLabelStyle}"
              Title="LifeNote">
-
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem x:Name="ModeMenuItem"  IconImageSource="moon" Clicked="Handle_ModeChange"/>
+    </TabbedPage.ToolbarItems>
     <local:CalendarPage Title="Calendar">
         <local:CalendarPage.IconImageSource>
             <FileImageSource File="calendar_icon.png"></FileImageSource>
@@ -20,4 +25,5 @@
             <FileImageSource File="graph_icon.png"></FileImageSource>
         </local:StatisticsPage.IconImageSource>
     </local:StatisticsPage>
+
 </TabbedPage>

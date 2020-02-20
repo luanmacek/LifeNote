@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App1.View.SideNotePage.xaml", "View/SideNotePage.xaml", typeof(global::App1.View.SideNotePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("LifeNote.View.SideNotePage.xaml", "View/SideNotePage.xaml", typeof(global::App1.View.SideNotePage))]
 
 namespace App1.View {
     
@@ -17,16 +17,16 @@ namespace App1.View {
     public partial class SideNotePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Entry title_editor;
+        private global::Xamarin.Forms.Editor title_editor;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Syncfusion.XForms.RichTextEditor.SfRichTextEditor content_editor;
+        private global::Xamarin.Forms.Editor content_editor;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(SideNotePage));
-            title_editor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "title_editor");
-            content_editor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Syncfusion.XForms.RichTextEditor.SfRichTextEditor>(this, "content_editor");
+            title_editor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Editor>(this, "title_editor");
+            content_editor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Editor>(this, "content_editor");
         }
     }
 }

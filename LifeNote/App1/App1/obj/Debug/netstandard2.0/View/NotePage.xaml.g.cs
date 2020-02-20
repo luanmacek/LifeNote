@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App1.View.NotePage.xaml", "View/NotePage.xaml", typeof(global::App1.NotePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("LifeNote.View.NotePage.xaml", "View/NotePage.xaml", typeof(global::App1.NotePage))]
 
 namespace App1 {
     

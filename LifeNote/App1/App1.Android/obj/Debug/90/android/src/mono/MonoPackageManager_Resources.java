@@ -4,12 +4,12 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "App1.Android.dll" comes first in this list. */
 		"App1.Android.dll",
 		"AiForms.Layouts.dll",
-		"App1.dll",
 		"CarouselView.FormsPlugin.Abstractions.dll",
 		"CarouselView.FormsPlugin.Android.dll",
 		"Com.Android.DeskClock.dll",
 		"Com.ViewPagerIndicator.dll",
 		"FormsViewGroup.dll",
+		"LifeNote.dll",
 		"Newtonsoft.Json.dll",
 		"PropertyChanged.dll",
 		"SQLite-net.dll",

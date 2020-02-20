@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App1.View.CalendarPage.xaml", "View/CalendarPage.xaml", typeof(global::App1.View.CalendarPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("LifeNote.View.CalendarPage.xaml", "View/CalendarPage.xaml", typeof(global::App1.View.CalendarPage))]
 
 namespace App1.View {
     

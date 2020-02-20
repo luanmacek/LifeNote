@@ -24,12 +24,16 @@ namespace App1.View
             
         }
 
+        bool tapped = false;
         [Obsolete]
         async void Calendar_OnCalendarTapped(object sender, CalendarTappedEventArgs e)
         {
+            if (tapped)
+                return;
+            tapped = true;
             SfCalendar calendar = (sender as SfCalendar);
             DateTime date = e.datetime;
-            Note result = await App.Database.GetNoteByDateAsync(date.ToString("MM/dd/yyyy"));
+            Note result = await App.Database.GetNoteByDateAsync(date.ToString("dd/MM/yyyy"));
             if (result == null)
             {
                 Note newnote = new Note();
@@ -44,6 +48,14 @@ namespace App1.View
                 Note oldnote = await App.Database.GetNoteWithChildren(result.Id);
                 await Navigation.PushAsync(new NotePage(oldnote, false));
             }
+            tapped = false;
+
+        }
+
+        private void gototoday_button(object sender, EventArgs e)
+        {
+            calendar.MoveToDate = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day);
+            calendar.ViewMode = ViewMode.MonthView;
         }
     }
 }

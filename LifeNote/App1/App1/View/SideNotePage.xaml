@@ -3,29 +3,26 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:richtexteditor="clr-namespace:Syncfusion.XForms.RichTextEditor;assembly=Syncfusion.SfRichTextEditor.XForms"
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
              mc:Ignorable="d"
-             x:Class="App1.View.SideNotePage">
+             x:Class="App1.View.SideNotePage"          
+             BackgroundColor="{DynamicResource PageBackgroundColor}"
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="LifeNote" ></ToolbarItem>
+    </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <StackLayout>
-            <Grid>
+            <Grid Padding="10" VerticalOptions="Center" HorizontalOptions="CenterAndExpand">
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*"></ColumnDefinition>
-                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
                 </Grid.ColumnDefinitions>
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="auto"></RowDefinition>
-                    <RowDefinition Height="*"></RowDefinition>
-                </Grid.RowDefinitions>
-                <Entry Placeholder="Title" x:Name="title_editor"  HeightRequest="50" VerticalOptions="Center" HorizontalOptions="Center" Grid.ColumnSpan="2"></Entry>
-                <StackLayout Padding="10" Orientation="Horizontal" VerticalOptions="Center" HorizontalOptions="End"  Grid.Column="1">
-                    <Button Text="Save"  WidthRequest="50" HeightRequest="50" Clicked="save_sidenote"></Button>
-                    <Button Text="Delete"  WidthRequest="50" HeightRequest="50" Clicked="delete_sidenote"></Button>
-                </StackLayout>
-                <richtexteditor:SfRichTextEditor  x:Name="content_editor" Grid.ColumnSpan="2" Grid.Row="1" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="400" HeightRequest="700"/>
+                <Editor Placeholder="Title holder" MaxLength="14" x:Name="title_editor" AutoSize="TextChanges" HeightRequest="50" VerticalOptions="Center" Grid.ColumnSpan="2" HorizontalOptions="Center" TextColor="{DynamicResource PrimaryTextColor}" PlaceholderColor="{DynamicResource PrimaryTextColor}" Completed="editor_Completed"/>
+                <buttons:SfButton Text="Delete"  Clicked="delete_sidenote" CornerRadius="40"  WidthRequest="80"  HeightRequest="40" BackgroundColor="{DynamicResource PrimaryColor}" Grid.Column="1"  HorizontalOptions="End"></buttons:SfButton>
+
             </Grid>
-
-
+            <Editor Margin="10" VerticalOptions="FillAndExpand" x:Name="content_editor" Placeholder="Type something" BackgroundColor="{DynamicResource PageBackgroundColor}" TextColor="{DynamicResource PrimaryTextColor}" PlaceholderColor="{DynamicResource PrimaryTextColor}"  HorizontalOptions="Center" WidthRequest="400" Completed="editor_Completed"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

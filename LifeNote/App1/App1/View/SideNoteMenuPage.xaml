@@ -12,16 +12,16 @@
                     <RowDefinition Height="*"></RowDefinition>
                     <RowDefinition Height="auto"></RowDefinition>
                 </Grid.RowDefinitions>
-                <ScrollView>
+            <ScrollView>
                 <CollectionView ItemsSource="{Binding sidenotes}" VerticalOptions="Center" HorizontalOptions="Center">
                     <CollectionView.ItemsLayout>
                         <GridItemsLayout Span="2" Orientation="Vertical"/>
                     </CollectionView.ItemsLayout>
                     <CollectionView.ItemTemplate>
-                            <DataTemplate>
+                        <DataTemplate>
                             <Grid Padding="20">
                                 <ImageButton ClassId="{Binding Id}" Source="sidenotemenu.png"  VerticalOptions="Center" HorizontalOptions="Center" Clicked="sidenote_Clicked" BackgroundColor="Transparent"></ImageButton>
-                                <Label ClassId="{Binding Id}" Text="{Binding Title}" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" FontFamily="Bold"  VerticalTextAlignment="Center" HorizontalTextAlignment="Start">
+                                <Label ClassId="{Binding Id}" Text="{Binding Title}" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" FontFamily="Bold"  VerticalTextAlignment="Center" LineBreakMode="TailTruncation">
                                     <Label.GestureRecognizers>
                                         <TapGestureRecognizer Tapped="label_tap" NumberOfTapsRequired="1" />
                                     </Label.GestureRecognizers>
@@ -31,7 +31,7 @@
                     </CollectionView.ItemTemplate>
                 </CollectionView>
             </ScrollView>
-            <buttons:SfButton Text="+" Clicked="sidenoteadd_Clicked"  Grid.Row="1" FontSize="30"></buttons:SfButton>
+            <buttons:SfButton BackgroundColor="{DynamicResource PrimaryColor}" Text="+" Clicked="sidenoteadd_Clicked"  Grid.Row="1" CornerRadius="40" FontSize="30" WidthRequest="100" HorizontalOptions="Center" Margin="25"></buttons:SfButton>
         </Grid>
     </ContentPage.Content>
 </ContentPage>

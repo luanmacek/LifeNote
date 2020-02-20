@@ -133,7 +133,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
         }
       },
-      "Syncfusion.Licensing/17.4.0.49": {
+      "Syncfusion.Licensing/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
@@ -157,10 +157,10 @@
           "lib/Xamarin.iOS10/Syncfusion.Buttons.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.Core/17.4.0.49": {
+      "Syncfusion.Xamarin.Core/17.4.0.50": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "17.4.0.49",
+          "Syncfusion.Licensing": "17.4.0.50",
           "Xamarin.Forms": "3.6.0.344457"
         },
         "compile": {
@@ -172,7 +172,7 @@
           "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.DataSource/17.4.0.47": {
+      "Syncfusion.Xamarin.DataSource/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.DataSource.Portable.dll": {}
@@ -181,7 +181,7 @@
           "lib/Xamarin.iOS10/Syncfusion.DataSource.Portable.dll": {}
         }
       },
-      "Syncfusion.Xamarin.GridCommon/17.4.0.47": {
+      "Syncfusion.Xamarin.GridCommon/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.GridCommon.Portable.dll": {}
@@ -235,12 +235,12 @@
           "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.SfListView/17.4.0.47": {
+      "Syncfusion.Xamarin.SfListView/17.4.0.50": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
-          "Syncfusion.Xamarin.DataSource": "17.4.0.47",
-          "Syncfusion.Xamarin.GridCommon": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.50",
+          "Syncfusion.Xamarin.DataSource": "17.4.0.50",
+          "Syncfusion.Xamarin.GridCommon": "17.4.0.50",
           "Xamarin.Forms": "3.6.0.344457"
         },
         "compile": {
@@ -467,7 +467,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "App1/1.0.0": {
+      "LifeNote/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -480,7 +480,7 @@
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
           "Syncfusion.Xamarin.SfChart": "17.4.0.49",
-          "Syncfusion.Xamarin.SfListView": "17.4.0.47",
+          "Syncfusion.Xamarin.SfListView": "17.4.0.50",
           "Syncfusion.Xamarin.SfPopupLayout": "17.4.0.49",
           "Syncfusion.Xamarin.SfRating": "17.4.0.49",
           "Syncfusion.Xamarin.SfRichTextEditor": "17.4.0.47",
@@ -489,10 +489,10 @@
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/LifeNote.dll": {}
         },
         "runtime": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/LifeNote.dll": {}
         }
       }
     },
@@ -628,7 +628,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
         }
       },
-      "Syncfusion.Licensing/17.4.0.49": {
+      "Syncfusion.Licensing/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
@@ -652,10 +652,10 @@
           "lib/Xamarin.iOS10/Syncfusion.Buttons.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.Core/17.4.0.49": {
+      "Syncfusion.Xamarin.Core/17.4.0.50": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "17.4.0.49",
+          "Syncfusion.Licensing": "17.4.0.50",
           "Xamarin.Forms": "3.6.0.344457"
         },
         "compile": {
@@ -667,7 +667,7 @@
           "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.DataSource/17.4.0.47": {
+      "Syncfusion.Xamarin.DataSource/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.DataSource.Portable.dll": {}
@@ -676,7 +676,7 @@
           "lib/Xamarin.iOS10/Syncfusion.DataSource.Portable.dll": {}
         }
       },
-      "Syncfusion.Xamarin.GridCommon/17.4.0.47": {
+      "Syncfusion.Xamarin.GridCommon/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.GridCommon.Portable.dll": {}
@@ -730,12 +730,12 @@
           "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.SfListView/17.4.0.47": {
+      "Syncfusion.Xamarin.SfListView/17.4.0.50": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
-          "Syncfusion.Xamarin.DataSource": "17.4.0.47",
-          "Syncfusion.Xamarin.GridCommon": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.50",
+          "Syncfusion.Xamarin.DataSource": "17.4.0.50",
+          "Syncfusion.Xamarin.GridCommon": "17.4.0.50",
           "Xamarin.Forms": "3.6.0.344457"
         },
         "compile": {
@@ -962,7 +962,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "App1/1.0.0": {
+      "LifeNote/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -975,7 +975,7 @@
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
           "Syncfusion.Xamarin.SfChart": "17.4.0.49",
-          "Syncfusion.Xamarin.SfListView": "17.4.0.47",
+          "Syncfusion.Xamarin.SfListView": "17.4.0.50",
           "Syncfusion.Xamarin.SfPopupLayout": "17.4.0.49",
           "Syncfusion.Xamarin.SfRating": "17.4.0.49",
           "Syncfusion.Xamarin.SfRichTextEditor": "17.4.0.47",
@@ -984,10 +984,10 @@
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/LifeNote.dll": {}
         },
         "runtime": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/LifeNote.dll": {}
         }
       }
     },
@@ -1123,7 +1123,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
         }
       },
-      "Syncfusion.Licensing/17.4.0.49": {
+      "Syncfusion.Licensing/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
@@ -1147,10 +1147,10 @@
           "lib/Xamarin.iOS10/Syncfusion.Buttons.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.Core/17.4.0.49": {
+      "Syncfusion.Xamarin.Core/17.4.0.50": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "17.4.0.49",
+          "Syncfusion.Licensing": "17.4.0.50",
           "Xamarin.Forms": "3.6.0.344457"
         },
         "compile": {
@@ -1162,7 +1162,7 @@
           "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.DataSource/17.4.0.47": {
+      "Syncfusion.Xamarin.DataSource/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.DataSource.Portable.dll": {}
@@ -1171,7 +1171,7 @@
           "lib/Xamarin.iOS10/Syncfusion.DataSource.Portable.dll": {}
         }
       },
-      "Syncfusion.Xamarin.GridCommon/17.4.0.47": {
+      "Syncfusion.Xamarin.GridCommon/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.GridCommon.Portable.dll": {}
@@ -1225,12 +1225,12 @@
           "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.SfListView/17.4.0.47": {
+      "Syncfusion.Xamarin.SfListView/17.4.0.50": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
-          "Syncfusion.Xamarin.DataSource": "17.4.0.47",
-          "Syncfusion.Xamarin.GridCommon": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.50",
+          "Syncfusion.Xamarin.DataSource": "17.4.0.50",
+          "Syncfusion.Xamarin.GridCommon": "17.4.0.50",
           "Xamarin.Forms": "3.6.0.344457"
         },
         "compile": {
@@ -1457,7 +1457,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "App1/1.0.0": {
+      "LifeNote/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1470,7 +1470,7 @@
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
           "Syncfusion.Xamarin.SfChart": "17.4.0.49",
-          "Syncfusion.Xamarin.SfListView": "17.4.0.47",
+          "Syncfusion.Xamarin.SfListView": "17.4.0.50",
           "Syncfusion.Xamarin.SfPopupLayout": "17.4.0.49",
           "Syncfusion.Xamarin.SfRating": "17.4.0.49",
           "Syncfusion.Xamarin.SfRichTextEditor": "17.4.0.47",
@@ -1479,10 +1479,10 @@
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/LifeNote.dll": {}
         },
         "runtime": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/LifeNote.dll": {}
         }
       }
     },
@@ -1618,7 +1618,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
         }
       },
-      "Syncfusion.Licensing/17.4.0.49": {
+      "Syncfusion.Licensing/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
@@ -1642,10 +1642,10 @@
           "lib/Xamarin.iOS10/Syncfusion.Buttons.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.Core/17.4.0.49": {
+      "Syncfusion.Xamarin.Core/17.4.0.50": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "17.4.0.49",
+          "Syncfusion.Licensing": "17.4.0.50",
           "Xamarin.Forms": "3.6.0.344457"
         },
         "compile": {
@@ -1657,7 +1657,7 @@
           "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.DataSource/17.4.0.47": {
+      "Syncfusion.Xamarin.DataSource/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.DataSource.Portable.dll": {}
@@ -1666,7 +1666,7 @@
           "lib/Xamarin.iOS10/Syncfusion.DataSource.Portable.dll": {}
         }
       },
-      "Syncfusion.Xamarin.GridCommon/17.4.0.47": {
+      "Syncfusion.Xamarin.GridCommon/17.4.0.50": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Syncfusion.GridCommon.Portable.dll": {}
@@ -1720,12 +1720,12 @@
           "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
         }
       },
-      "Syncfusion.Xamarin.SfListView/17.4.0.47": {
+      "Syncfusion.Xamarin.SfListView/17.4.0.50": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Xamarin.Core": "17.4.0.47",
-          "Syncfusion.Xamarin.DataSource": "17.4.0.47",
-          "Syncfusion.Xamarin.GridCommon": "17.4.0.47",
+          "Syncfusion.Xamarin.Core": "17.4.0.50",
+          "Syncfusion.Xamarin.DataSource": "17.4.0.50",
+          "Syncfusion.Xamarin.GridCommon": "17.4.0.50",
           "Xamarin.Forms": "3.6.0.344457"
         },
         "compile": {
@@ -1952,7 +1952,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "App1/1.0.0": {
+      "LifeNote/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1965,7 +1965,7 @@
           "Syncfusion.Xamarin.Buttons": "17.4.0.47",
           "Syncfusion.Xamarin.SfCalendar": "17.4.0.47",
           "Syncfusion.Xamarin.SfChart": "17.4.0.49",
-          "Syncfusion.Xamarin.SfListView": "17.4.0.47",
+          "Syncfusion.Xamarin.SfListView": "17.4.0.50",
           "Syncfusion.Xamarin.SfPopupLayout": "17.4.0.49",
           "Syncfusion.Xamarin.SfRating": "17.4.0.49",
           "Syncfusion.Xamarin.SfRichTextEditor": "17.4.0.47",
@@ -1974,10 +1974,10 @@
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/LifeNote.dll": {}
         },
         "runtime": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/LifeNote.dll": {}
         }
       }
     }
@@ -2243,10 +2243,10 @@
         "sqlitepclraw.provider.sqlite3.ios_unified.nuspec"
       ]
     },
-    "Syncfusion.Licensing/17.4.0.49": {
-      "sha512": "kme48p4xd7fE8038RsLqBTHLr9MvyOWVGO87kFUFs8FBJheBdhfS/ee/jks3u7rmKZB7UqE37PmS5fggKQTL5A==",
+    "Syncfusion.Licensing/17.4.0.50": {
+      "sha512": "CTp2CIFvY1z8tqnV/DokHwBQuluFddmyJlqoTRLzh9WEj6aVgdTxqhWGAj0jAJoGfUMP3WdhIeCm8B3+Zd52pw==",
       "type": "package",
-      "path": "syncfusion.licensing/17.4.0.49",
+      "path": "syncfusion.licensing/17.4.0.50",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2266,7 +2266,7 @@
         "lib/netstandard2.0/Syncfusion.Licensing.dll",
         "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Licensing.dll",
         "lib/uap10.0/Syncfusion.Licensing.dll",
-        "syncfusion.licensing.17.4.0.49.nupkg.sha512",
+        "syncfusion.licensing.17.4.0.50.nupkg.sha512",
         "syncfusion.licensing.nuspec"
       ]
     },
@@ -2301,10 +2301,10 @@
         "syncfusion.xamarin.buttons.nuspec"
       ]
     },
-    "Syncfusion.Xamarin.Core/17.4.0.49": {
-      "sha512": "5IPmQ6ffvuimZz0g9SFyhactZjhW5Rw8ZYtBkO23vdE4ClxTHWeeBqfbbOdckauNLDn3rbHXtPa4YSad+aPtrw==",
+    "Syncfusion.Xamarin.Core/17.4.0.50": {
+      "sha512": "ktgcmWT9MdES8lPV+dqrMaHFiThIMRt9Jtts5XgMrNms8UJUViaJI7d5WI6m1CzMx19QQfoFCzYuh9Jgg7l0Sg==",
       "type": "package",
-      "path": "syncfusion.xamarin.core/17.4.0.49",
+      "path": "syncfusion.xamarin.core/17.4.0.50",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2328,14 +2328,14 @@
         "lib/uap10.0/Syncfusion.Core.XForms.UWP/TILRenderer/ToggleIcons/ToggleVisibleIcon.xaml",
         "lib/uap10.0/Syncfusion.Core.XForms.dll",
         "lib/uap10.0/Syncfusion.Core.XForms.xml",
-        "syncfusion.xamarin.core.17.4.0.49.nupkg.sha512",
+        "syncfusion.xamarin.core.17.4.0.50.nupkg.sha512",
         "syncfusion.xamarin.core.nuspec"
       ]
     },
-    "Syncfusion.Xamarin.DataSource/17.4.0.47": {
-      "sha512": "aN4/yCy4zNIy5oj4aFrdFpz2hLFd1D9q7ZYDNAHiTiDUwxfEAgkUzRUHxnr5WOPb9vW1VWxD14yJz4BptCylDg==",
+    "Syncfusion.Xamarin.DataSource/17.4.0.50": {
+      "sha512": "5BbKH272NAPHtoXSdT/QK4BCUT+6TMoSUSpJ3xGwmmeKP93R5ceVIdGD164Rn5gtVxV/i29cZQuBN/YEhuEkAQ==",
       "type": "package",
-      "path": "syncfusion.xamarin.datasource/17.4.0.47",
+      "path": "syncfusion.xamarin.datasource/17.4.0.50",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2349,14 +2349,14 @@
         "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.DataSource.Portable.dll",
         "lib/uap10.0/Syncfusion.DataSource.Portable.XML",
         "lib/uap10.0/Syncfusion.DataSource.Portable.dll",
-        "syncfusion.xamarin.datasource.17.4.0.47.nupkg.sha512",
+        "syncfusion.xamarin.datasource.17.4.0.50.nupkg.sha512",
         "syncfusion.xamarin.datasource.nuspec"
       ]
     },
-    "Syncfusion.Xamarin.GridCommon/17.4.0.47": {
-      "sha512": "IL/TYANREVfQ6JYsSRArPzGfVFhdXC8ZQDBj9+/gsgh40w8zLgSLoepPEA774jAaJlcpbaG+tAI1lEWJjIfOeA==",
+    "Syncfusion.Xamarin.GridCommon/17.4.0.50": {
+      "sha512": "wiTpEI+d4sfzsoQw4gsetc0nfnv4KqJXUJtXrhs4PUHznA2Xv7swnHtJznjAhOr9GTosMx/5YV6gLIX+C9Arqw==",
       "type": "package",
-      "path": "syncfusion.xamarin.gridcommon/17.4.0.47",
+      "path": "syncfusion.xamarin.gridcommon/17.4.0.50",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2372,7 +2372,7 @@
         "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.GridCommon.Portable.dll",
         "lib/uap10.0/Syncfusion.GridCommon.Portable.XML",
         "lib/uap10.0/Syncfusion.GridCommon.Portable.dll",
-        "syncfusion.xamarin.gridcommon.17.4.0.47.nupkg.sha512",
+        "syncfusion.xamarin.gridcommon.17.4.0.50.nupkg.sha512",
         "syncfusion.xamarin.gridcommon.nuspec"
       ]
     },
@@ -2459,10 +2459,10 @@
         "syncfusion.xamarin.sfcombobox.nuspec"
       ]
     },
-    "Syncfusion.Xamarin.SfListView/17.4.0.47": {
-      "sha512": "SuWqYzaOMVt4iAiJmUGK/Tc/J2C6791dtPWxds9wNETL8OGv/9xSI0b/aVdKJmf4Oz2gktobA0rQ2ZrRjGY6Qg==",
+    "Syncfusion.Xamarin.SfListView/17.4.0.50": {
+      "sha512": "1IEVzYat9Hp/+l4rDWcF8H88Y/G+r8m/ZJOxp57BC8Fkt2XrRCf14X6rd3Dx8K2FaBIFvG3aoIorhSPhMYyLfA==",
       "type": "package",
-      "path": "syncfusion.xamarin.sflistview/17.4.0.47",
+      "path": "syncfusion.xamarin.sflistview/17.4.0.50",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2482,7 +2482,7 @@
         "lib/uap10.0/Syncfusion.SfListView.XForms.UWP.dll",
         "lib/uap10.0/Syncfusion.SfListView.XForms.dll",
         "lib/uap10.0/Syncfusion.SfListView.XForms.xml",
-        "syncfusion.xamarin.sflistview.17.4.0.47.nupkg.sha512",
+        "syncfusion.xamarin.sflistview.17.4.0.50.nupkg.sha512",
         "syncfusion.xamarin.sflistview.nuspec"
       ]
     },
@@ -2954,18 +2954,19 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "App1/1.0.0": {
+    "LifeNote/1.0.0": {
       "type": "project",
-      "path": "../App1/App1.csproj",
-      "msbuildProject": "../App1/App1.csproj"
+      "path": "../App1/LifeNote.csproj",
+      "msbuildProject": "../App1/LifeNote.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "App1 >= 1.0.0",
       "CarouselView.FormsPlugin >= 5.2.0",
+      "LifeNote >= 1.0.0",
       "Syncfusion.Xamarin.SfCalendar >= 17.4.0.47",
       "Syncfusion.Xamarin.SfChart >= 17.4.0.49",
+      "Syncfusion.Xamarin.SfListView >= 17.4.0.50",
       "Syncfusion.Xamarin.SfPopupLayout >= 17.4.0.49",
       "Syncfusion.Xamarin.SfRating >= 17.4.0.49",
       "Syncfusion.Xamarin.SfRichTextEditor >= 17.4.0.47",
@@ -2980,9 +2981,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1.iOS\\App1.iOS.csproj",
-      "projectName": "App1.iOS",
-      "projectPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1.iOS\\App1.iOS.csproj",
+      "projectUniqueName": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1.iOS\\LifeNote.iOS.csproj",
+      "projectName": "LifeNote.iOS",
+      "projectPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1.iOS\\LifeNote.iOS.csproj",
       "packagesPath": "C:\\Users\\fmace\\.nuget\\packages\\",
       "outputPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1.iOS\\obj\\",
       "projectStyle": "PackageReference",
@@ -3006,8 +3007,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\App1.csproj": {
-              "projectPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\App1.csproj"
+            "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\LifeNote.csproj": {
+              "projectPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\LifeNote.csproj"
             }
           }
         }
@@ -3027,6 +3028,10 @@
           "Syncfusion.Xamarin.SfChart": {
             "target": "Package",
             "version": "[17.4.0.49, )"
+          },
+          "Syncfusion.Xamarin.SfListView": {
+            "target": "Package",
+            "version": "[17.4.0.50, )"
           },
           "Syncfusion.Xamarin.SfPopupLayout": {
             "target": "Package",

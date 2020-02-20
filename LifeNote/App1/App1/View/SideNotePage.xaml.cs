@@ -1,5 +1,6 @@
 ﻿using Android.Widget;
 using App1.Model;
+using App1.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -39,19 +40,19 @@ namespace App1.View
 
         }
 
-        private async void save_sidenote(object sender, EventArgs e)
+        private async void editor_Completed(object sender, EventArgs e)
         {
-                sidenote.Title = title_editor.Text;
-                sidenote.Content = content_editor.GetHtmlString();
-                foreach (SideNote sn in SideNoteMenuPage.viewmodel.sidenotes)
+            sidenote.Title = title_editor.Text;
+            sidenote.Content = content_editor.Text;
+            foreach (SideNote sn in SideNoteMenuPage.viewmodel.sidenotes)
+            {
+                if (sn.Id == sidenote.Id)
                 {
-                    if (sn.Id == sidenote.Id)
-                    {
-                        sn.Title = title_editor.Text;
-                        sn.Content = content_editor.Text;
-                    }
+                    sn.Title = title_editor.Text;
+                    sn.Content = content_editor.Text;
                 }
-                await App.Database.SaveSideNoteAsync(sidenote);
+            }
+            await App.Database.SaveSideNoteAsync(sidenote);
         }
     }
 }

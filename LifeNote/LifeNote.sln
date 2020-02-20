@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.Android", "App1\App1.Android\App1.Android.csproj", "{04E5CDFC-A959-48CC-8695-62196C6ACBF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeNote.Android", "App1\App1.Android\LifeNote.Android.csproj", "{04E5CDFC-A959-48CC-8695-62196C6ACBF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.iOS", "App1\App1.iOS\App1.iOS.csproj", "{E0052527-7368-44EB-B69D-E6180974FD5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeNote.iOS", "App1\App1.iOS\LifeNote.iOS.csproj", "{E0052527-7368-44EB-B69D-E6180974FD5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1\App1\App1.csproj", "{CAF47F01-F1E3-4E2F-B9D3-609D98A893E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LifeNote", "App1\App1\LifeNote.csproj", "{CAF47F01-F1E3-4E2F-B9D3-609D98A893E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
