@@ -20,12 +20,20 @@ namespace App1.ViewModels
                 Activity activity = new Activity() { Name = "Family",NoteId =note.Id, Selected = false };
                 Activity activity2 = new Activity() { Name = "Study", NoteId = note.Id, Selected = false };
                 Activity activity3 = new Activity() { Name = "Job", NoteId = note.Id, Selected = false };
+                Activity activity4 = new Activity() { Name = "Friends", NoteId = note.Id, Selected = false };
+                Activity activity6 = new Activity() { Name = "Food", NoteId = note.Id, Selected = false };
+                Activity activity7 = new Activity() { Name = "Sport", NoteId = note.Id, Selected = false };
+                Activity activity10 = new Activity() { Name = "Traveling", NoteId = note.Id, Selected = false };
                 Activities.Add(activity);
                 Activities.Add(activity2);
                 Activities.Add(activity3);
+                Activities.Add(activity4);
+                Activities.Add(activity6);
+                Activities.Add(activity7);
+                Activities.Add(activity10);
             }
-            load(note.Id);
             saveActivities();
+            load(note.Id);
         }
         public async void saveActivities()
         {
@@ -34,9 +42,17 @@ namespace App1.ViewModels
         }
         public async void load(int noteId)
         {
-            List<Activity> result = await App.Database.GetActivitiesByNoteId(noteId);
-            foreach (Activity a in result)
-                Activities.Add(a);
+            try
+            {
+                Activities.Clear();
+                List<Activity> result = await App.Database.GetActivitiesByNoteId(noteId);
+                foreach (Activity a in result)
+                    Activities.Add(a);
+            }
+            catch
+            {
+
+            }
         }
        
 

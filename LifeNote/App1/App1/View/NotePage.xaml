@@ -27,7 +27,7 @@
                                 <syncfusion:SfListView x:Name="listView" Grid.Row="1" ItemsSource="{Binding Activities}">
                                     <syncfusion:SfListView.ItemTemplate>
                                         <DataTemplate>
-                                            <buttons:SfCheckBox x:Name="checkBox" IsChecked="{Binding Selected}" Text="{Binding Name}"/>
+                                            <buttons:SfCheckBox x:Name="checkBox" IsChecked="{Binding Selected}" Text="{Binding Name}" StateChanged="CheckBox_StateChanged"/>
                                         </DataTemplate>
                                     </syncfusion:SfListView.ItemTemplate>
                                 </syncfusion:SfListView>

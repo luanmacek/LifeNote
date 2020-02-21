@@ -31,19 +31,24 @@ namespace App1
             BindingContext = viewmodel;
         }
 
-        private void save_clicked(object sender, EventArgs e)
+        private async void save_clicked(object sender, EventArgs e)
         {
             note.Date = date_label.Text;
             note.Content = content_editor.GetHtmlString();
             note.Points = int.Parse(rating.Value.ToString());          
-            App.Database.SaveNoteAsync(note);
+            await App.Database.SaveNoteAsync(note);
             viewmodel.saveActivities();
+            //viewmodel.load(note.Id);
             StatisticsPage.viewmodel.load();
         }
 
         private void ClickToShowPopup_Clicked(object sender, EventArgs e)
         {
             popupLayout.Show();
+        }
+
+        private void CheckBox_StateChanged(object sender, StateChangedEventArgs e) {
+            StatisticsPage.viewmodel.load();
         }
     }
 }

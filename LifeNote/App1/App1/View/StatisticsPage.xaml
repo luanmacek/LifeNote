@@ -5,17 +5,40 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              xmlns:chart="clr-namespace:Syncfusion.SfChart.XForms;assembly=Syncfusion.SfChart.XForms"
-             x:Class="App1.View.StatisticsPage">
+             x:Class="App1.View.StatisticsPage"
+             BackgroundColor="{DynamicResource PageBackgroundColor}"
+              >
     <ContentPage>
-        <chart:SfChart HeightRequest="300" WidthRequest="350" VerticalOptions="Center">
-            <chart:PieSeries ItemsSource ="{Binding ActivityCounters}" XBindingPath="Name" YBindingPath="Counter"/>
-        </chart:SfChart>
+        <chart:SfChart HeightRequest="400" WidthRequest="350" VerticalOptions="Center" BackgroundColor="{DynamicResource  CalendarBlock}">
+                <chart:SfChart.Title>
+                    <chart:ChartTitle Text="Top activities" TextAlignment="Center" TextColor="Black"/>
+                </chart:SfChart.Title>
+                <chart:SfChart.Legend>
+                    <chart:ChartLegend>
+                        <chart:ChartLegend.LabelStyle>
+                            <chart:ChartLegendLabelStyle Font="10"/>
+                        </chart:ChartLegend.LabelStyle>
+                    </chart:ChartLegend>
+                </chart:SfChart.Legend>
+                <chart:SfChart.Series>
+                    <chart:PieSeries ItemsSource ="{Binding ActivityCounters}" LegendIcon="Circle" XBindingPath="Name" YBindingPath="Counter">
+                        <chart:PieSeries.DataMarker>
+                            <chart:ChartDataMarker LabelContent="DataMarkerLabel">
+                                <chart:ChartDataMarker.LabelStyle>
+                                    <chart:DataMarkerLabelStyle Font="Bold,14" LabelPosition="Auto"></chart:DataMarkerLabelStyle>
+                                </chart:ChartDataMarker.LabelStyle>
+                            </chart:ChartDataMarker>
+                        </chart:PieSeries.DataMarker>
+
+                    </chart:PieSeries>
+                </chart:SfChart.Series>
+            </chart:SfChart>
     </ContentPage>
     <ContentPage>
-        <chart:SfChart HeightRequest="300" WidthRequest="350" VerticalOptions="Center">
+        <chart:SfChart HeightRequest="400" WidthRequest="350" VerticalOptions="Center" BackgroundColor="{DynamicResource CalendarBlock}" >
             <chart:SfChart.Title>
 
-                <chart:ChartTitle Text="The most succeful weekday" TextColor="Blue"/>
+                <chart:ChartTitle Text="Top days" TextColor="Black" TextAlignment="Center"/>
 
             </chart:SfChart.Title>
             <chart:SfChart.PrimaryAxis>

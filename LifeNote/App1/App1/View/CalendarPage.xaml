@@ -37,7 +37,7 @@
                         ></syncfusion:YearViewSettings>
                 </syncfusion:SfCalendar.YearViewSettings>
             </syncfusion:SfCalendar>
-            <buttons:SfButton Text="Go to today" BackgroundColor="{DynamicResource PrimaryColor}" Clicked="gototoday_button" CornerRadius="40" HorizontalOptions="Center" WidthRequest="100" HeightRequest="50" Margin="20"></buttons:SfButton>
+            <buttons:SfButton Text="Go to today" BackgroundColor="{DynamicResource PrimaryColor}" Clicked="gototoday_button" CornerRadius="40" HorizontalOptions="Center" WidthRequest="100" HeightRequest="55" Margin="60"></buttons:SfButton>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -15,9 +15,9 @@ namespace App1.Model
         public Database(string dbPath)
         {
             _database = new SQLiteAsyncConnection(dbPath);
-            _database.DropTableAsync<Note>().Wait();
-            _database.DropTableAsync<SideNote>().Wait();
-            _database.DropTableAsync<Activity>().Wait();
+            //_database.DropTableAsync<Note>().Wait();
+            //_database.DropTableAsync<SideNote>().Wait();
+            //_database.DropTableAsync<Activity>().Wait();
             _database.CreateTableAsync<Note>().Wait();
             _database.CreateTableAsync<SideNote>().Wait();
             _database.CreateTableAsync<Activity>().Wait();

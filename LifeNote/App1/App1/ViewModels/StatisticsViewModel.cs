@@ -15,7 +15,7 @@ namespace App1.ViewModels
     public class StatisticsViewModel
     {
         public List<Day> Days { get; set; }
-        public ObservableCollection<ActivityCounter> ActivityCounters {get;set;}
+        public ObservableCollection<ActivityCounter> ActivityCounters { get;set; }
 
         public StatisticsViewModel()
         {
@@ -35,10 +35,9 @@ namespace App1.ViewModels
 
             Days = new List<Day> { monday, tuesday, wednesday, thursday, friday, saturday, sunday };
 
+
+
             List<Activity> result = await App.Database.GetActivities();
-
-
-
             foreach(Activity a in result)
             {
                 if (!ActivityCounters.Any(i => i.Name == a.Name))
