@@ -19,17 +19,15 @@ namespace App1
     public partial class NotePage 
     {
         Note note;
-        ActivityViewModel viewmodel;
-        bool newnote;
-        public NotePage(Note Note, bool Newnote)
+        public ActivityViewModel viewmodel;
+        public NotePage(Note Note, bool newnote)
         {           
             InitializeComponent();
-            newnote = Newnote;
             note = Note;
             date_label.Text = note.Date;
             content_editor.Text = note.Content;
             rating.Value = note.Points;
-            viewmodel = new ActivityViewModel(newnote, note);
+            viewmodel = new ActivityViewModel(note,newnote);
             BindingContext = viewmodel;
         }
 
@@ -37,31 +35,15 @@ namespace App1
         {
             note.Date = date_label.Text;
             note.Content = content_editor.GetHtmlString();
-            note.Points = int.Parse(rating.Value.ToString());
-            foreach (Activity a in viewmodel.SelectedItems)
-            {
-                if (!note.Activities.Contains(a))
-                    note.Activities.Add(a);
-            }
+            note.Points = int.Parse(rating.Value.ToString());          
             App.Database.SaveNoteAsync(note);
-            StatisticsPage.viewmodel.load_notes();
-            if (!newnote)
-            {
-                viewmodel.load(note.Id);
-            }
+            viewmodel.saveActivities();
+            StatisticsPage.viewmodel.load();
         }
 
         private void ClickToShowPopup_Clicked(object sender, EventArgs e)
         {
             popupLayout.Show();
-        }
-
-        private void SfChipGroup_SelectionChanged(object sender, Syncfusion.Buttons.XForms.SfChip.SelectionChangedEventArgs e)
-        {
-            if (!viewmodel.SelectedItems.Contains(e.AddedItem as Activity) && e.AddedItem != null && e.RemovedItem != null)
-            {
-                viewmodel.SelectedItems.Add(e.AddedItem as Activity);
-            }
         }
     }
 }

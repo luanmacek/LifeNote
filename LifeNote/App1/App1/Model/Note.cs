@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Text;
 using PropertyChanged;
 using SQLite;
@@ -16,8 +17,5 @@ namespace App1.Model
         public string Day { get; set; }
         public string Content { get; set; }
         public int Points { get; set; }
-        [TextBlob("activitiesBlobbed")]
-        public List<Activity> Activities { get; set; }
-        public string activitiesBlobbed { get; set; }
     }
 }

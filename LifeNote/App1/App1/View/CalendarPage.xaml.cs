@@ -39,8 +39,9 @@ namespace App1.View
                 Note newnote = new Note();
                 newnote.Date = date.ToString("dd/MM/yyyy");
                 newnote.Day = date.ToString("dddd");
-                newnote.Content = "";
-                newnote.Activities = new List<Activity>();
+                newnote.Content = "";               
+                newnote.Id = await App.Database.SaveNoteAsync(newnote);
+                await App.Database.SaveNoteAsync(newnote);
                 await Navigation.PushAsync(new NotePage(newnote, true));
             }
             else

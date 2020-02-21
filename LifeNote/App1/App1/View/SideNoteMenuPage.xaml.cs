@@ -62,6 +62,7 @@ namespace App1.View
             sn.Title = "";
             sn.Content = "";         
             await Navigation.PushAsync(new SideNotePage(sn));
+            await App.Database.SaveSideNoteAsync(sn);
             viewmodel.sidenotes.Add(sn);
         }
 

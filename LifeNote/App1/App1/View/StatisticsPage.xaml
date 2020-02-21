@@ -8,42 +8,7 @@
              x:Class="App1.View.StatisticsPage">
     <ContentPage>
         <chart:SfChart HeightRequest="300" WidthRequest="350" VerticalOptions="Center">
-            <chart:SfChart.Title>
-
-                <chart:ChartTitle Text="Best dates" TextColor="Blue"/>
-
-            </chart:SfChart.Title>
-            <chart:SfChart.PrimaryAxis>
-
-                <chart:CategoryAxis>
-
-                    <chart:CategoryAxis.Title>
-
-                        <chart:ChartAxisTitle Text="Date"></chart:ChartAxisTitle>
-
-                    </chart:CategoryAxis.Title>
-
-                </chart:CategoryAxis>
-
-            </chart:SfChart.PrimaryAxis>
-
-            <chart:SfChart.SecondaryAxis>
-
-                <chart:NumericalAxis>
-
-                    <chart:NumericalAxis.Title>
-
-                        <chart:ChartAxisTitle Text="Points"></chart:ChartAxisTitle>
-
-                    </chart:NumericalAxis.Title>
-
-                </chart:NumericalAxis>
-
-            </chart:SfChart.SecondaryAxis>
-            <chart:SfChart.Series>
-                <chart:ColumnSeries ItemsSource="{Binding Notes}" XBindingPath="Date" YBindingPath="Points">
-                </chart:ColumnSeries>
-            </chart:SfChart.Series>
+            <chart:PieSeries ItemsSource ="{Binding ActivityCounters}" XBindingPath="Name" YBindingPath="Counter"/>
         </chart:SfChart>
     </ContentPage>
     <ContentPage>

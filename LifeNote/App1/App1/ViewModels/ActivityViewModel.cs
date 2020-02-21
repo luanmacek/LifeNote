@@ -1,4 +1,5 @@
-﻿using App1.Model;
+﻿using Android.OS;
+using App1.Model;
 using PropertyChanged;
 using System;
 using System.Collections.Generic;
@@ -11,33 +12,33 @@ namespace App1.ViewModels
     public class ActivityViewModel
     {
         public ObservableCollection<Activity> Activities { get; set; }
-        public ObservableCollection<Activity> SelectedItems { get; set; }
-        public ActivityViewModel(bool Newnote, Note note)
+        public ActivityViewModel(Note note, bool newnote)
         {
             Activities = new ObservableCollection<Activity>();
-            Activities.Add(new Activity("Family"));
-            Activities.Add(new Activity("Job"));
-            Activities.Add(new Activity("Study"));
-            Activities.Add(new Activity("Friends"));
-            Activities.Add(new Activity("Relax"));
-            Activities.Add(new Activity("Gaming"));
-            SelectedItems = new ObservableCollection<Activity>();
-            if (!Newnote)
+            if (newnote)
             {
-                load(note.Id);
+                Activity activity = new Activity() { Name = "Family",NoteId =note.Id, Selected = false };
+                Activity activity2 = new Activity() { Name = "Study", NoteId = note.Id, Selected = false };
+                Activity activity3 = new Activity() { Name = "Job", NoteId = note.Id, Selected = false };
+                Activities.Add(activity);
+                Activities.Add(activity2);
+                Activities.Add(activity3);
             }
-
+            load(note.Id);
+            saveActivities();
+        }
+        public async void saveActivities()
+        {
+            foreach (Activity a in Activities)
+                await App.Database.SaveActivity(a);
         }
         public async void load(int noteId)
         {
-            Note note = await App.Database.GetNoteWithChildren(noteId);
-            if(note.Activities != null)
-            {
-                foreach (Activity a in note.Activities)
-                    SelectedItems.Add(a);
-            }
-
+            List<Activity> result = await App.Database.GetActivitiesByNoteId(noteId);
+            foreach (Activity a in result)
+                Activities.Add(a);
         }
+       
 
     }
 }

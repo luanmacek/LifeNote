@@ -15,16 +15,18 @@ namespace App1.Model
         public Database(string dbPath)
         {
             _database = new SQLiteAsyncConnection(dbPath);
-            //_database.DropTableAsync<Note>().Wait();
-            //_database.DropTableAsync<SideNote>().Wait();
+            _database.DropTableAsync<Note>().Wait();
+            _database.DropTableAsync<SideNote>().Wait();
+            _database.DropTableAsync<Activity>().Wait();
             _database.CreateTableAsync<Note>().Wait();
             _database.CreateTableAsync<SideNote>().Wait();
+            _database.CreateTableAsync<Activity>().Wait();
         }
         public Task<List<Note>> GetNotesAsync()
         {
             return _database.Table<Note>().ToListAsync();
         }
-        public async void SaveNoteAsync(Note note)
+        public async Task<int> SaveNoteAsync(Note note)
         {
             if (note.Id != 0)
             {
@@ -34,6 +36,7 @@ namespace App1.Model
             {
                 await _database.InsertWithChildrenAsync(note, true);
             }
+            return note.Id;
         }
 
         public Task<Note> GetNoteByDateAsync(string date)
@@ -80,24 +83,33 @@ namespace App1.Model
             return points;
         }
 
-        public async Task<List<Day>> GetDays()
-        {
-            Day monday = new Day("Monday", await GetDayPoints("Monday"));
-            Day tuesday = new Day("Tuesday", await GetDayPoints("Tuesday"));
-            Day wednesday = new Day("Wednesday", await GetDayPoints("Wednesday"));
-            Day thursday = new Day("Thursday", await GetDayPoints("Thursday"));
-            Day friday = new Day("Friday", await GetDayPoints("Friday"));
-            Day saturday = new Day("Saturday", await GetDayPoints("Saturday"));
-            Day sunday = new Day("Sunday", await GetDayPoints("Sunday"));
-
-            List<Day> days = new List<Day> { monday, tuesday, wednesday, thursday, friday, saturday, sunday };
-
-            return days;
-        }
-
         public Task<Note> GetNoteWithChildren(int id)
         {
             return _database.GetWithChildrenAsync<Note>(id);
+        }
+
+        public Task<int> SaveActivity(Activity a)
+        {
+            if (a.Id != 0)
+            {
+                return _database.UpdateAsync(a);
+            }
+            else
+            {
+                return _database.InsertAsync(a);
+            }
+        }
+
+        public async Task<List<Activity>> GetActivitiesByNoteId(int noteId)
+        {
+            List<Activity> activities = await _database.Table<Activity>().Where(i => i.NoteId == noteId).ToListAsync();   
+            return activities;
+        }
+
+        public async Task<List<Activity>> GetActivities()
+        {
+            List<Activity> activities = await _database.Table<Activity>().ToListAsync();
+            return activities;
         }
     }
 }

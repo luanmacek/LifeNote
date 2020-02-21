@@ -11,6 +11,7 @@
               xmlns:rating="clr-namespace:Syncfusion.SfRating.XForms;assembly=Syncfusion.SfRating.XForms"
               xmlns:collection="clr-namespace:System.Collections.ObjectModel;assembly=System"
               xmlns:sfPopup="clr-namespace:Syncfusion.XForms.PopupLayout;assembly=Syncfusion.SfPopupLayout.XForms"
+              xmlns:syncfusion="clr-namespace:Syncfusion.ListView.XForms;assembly=Syncfusion.SfListView.XForms"
               BackgroundColor="{DynamicResource PageBackgroundColor}"
               >
     <ContentPage.ToolbarItems>
@@ -23,11 +24,13 @@
                     <sfPopup:PopupView HeaderTitle="Activities" ShowFooter="False">
                         <sfPopup:PopupView.ContentTemplate>
                             <DataTemplate>
-                                <buttons:SfChipGroup SelectionChanged="SfChipGroup_SelectionChanged" ItemsSource="{Binding Activities}" ChipPadding="8,8,0,0" DisplayMemberPath="Name" Type="Filter" SelectedItems="{Binding SelectedItems}">
-                                    <buttons:SfChipGroup.ChipLayout>
-                                        <FlexLayout HorizontalOptions="Start" VerticalOptions="Center" Direction="Row" Wrap="Wrap" JustifyContent="Start" AlignContent="Start" AlignItems="Start"/>
-                                    </buttons:SfChipGroup.ChipLayout>
-                                </buttons:SfChipGroup>
+                                <syncfusion:SfListView x:Name="listView" Grid.Row="1" ItemsSource="{Binding Activities}">
+                                    <syncfusion:SfListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <buttons:SfCheckBox x:Name="checkBox" IsChecked="{Binding Selected}" Text="{Binding Name}"/>
+                                        </DataTemplate>
+                                    </syncfusion:SfListView.ItemTemplate>
+                                </syncfusion:SfListView>
                             </DataTemplate>
                         </sfPopup:PopupView.ContentTemplate>
                     </sfPopup:PopupView>
@@ -85,7 +88,7 @@
                 <buttons:SfButton BackgroundColor="{DynamicResource PrimaryColor}" Clicked="save_clicked" Text="Save" CornerRadius="20"  Margin="10" WidthRequest="80" HorizontalTextAlignment="Center" HeightRequest="50" HorizontalOptions="Center" VerticalOptions="Center"/>
                 <buttons:SfButton BackgroundColor="{DynamicResource PrimaryColor}" Text="Activities"  Clicked="ClickToShowPopup_Clicked" Margin="10" CornerRadius="40" WidthRequest="80" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="50"></buttons:SfButton>
             </StackLayout>
-            <richtexteditor:SfRichTextEditor VerticalOptions="FillAndExpand" x:Name="content_editor" PlaceHolder="Type something" BackgroundColor="{DynamicResource PageBackgroundColor}" HorizontalOptions="Center" WidthRequest="400" Margin="10">
+            <richtexteditor:SfRichTextEditor VerticalOptions="FillAndExpand" x:Name="content_editor" PlaceHolder="Type something" BackgroundColor="{DynamicResource PageBackgroundColor}" HorizontalOptions="FillAndExpand"  Margin="10">
                 <richtexteditor:SfRichTextEditor.ToolbarSettings>
                     <richtexteditor:ToolbarSettings/>
                 </richtexteditor:SfRichTextEditor.ToolbarSettings>
