@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\Life Note\LifeNote\App1\App1\App.xaml</FilePath>
+      <Hash>E7-84-B9-BF-9C-96-58-6C-AB-DD-9C-2A-43-DE-98-B5</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\Life Note\LifeNote\App1\App1\Themes\DarkTheme.xaml</FilePath>
+      <Hash>1D-C6-87-84-C0-50-36-65-CD-C8-96-B1-57-AB-00-60</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\Life Note\LifeNote\App1\App1\Themes\LightTheme.xaml</FilePath>
+      <Hash>34-EA-AD-09-33-A0-74-B3-06-5C-27-E4-BD-F9-09-7F</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\Life Note\LifeNote\App1\App1\View\CalendarPage.xaml</FilePath>
+      <Hash>84-EA-CE-37-E8-0C-B3-53-61-63-98-7D-CD-5F-7C-07</Hash>
+      <Properties>
+        <string>BackgroundColor</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\Life Note\LifeNote\App1\App1\View\MainPage.xaml</FilePath>
+      <Hash>2D-F2-07-FA-47-8F-3A-74-7D-BF-54-D2-E3-AA-C8-B4</Hash>
+      <Properties>
+        <string>BackgroundColor</string>
+        <string>BarBackgroundColor</string>
+        <string>BarTextColor</string>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\Life Note\LifeNote\App1\App1\View\NotePage.xaml</FilePath>
+      <Hash>03-22-38-13-2E-EB-2B-64-40-BA-FD-2B-7E-F2-CC-C6</Hash>
+      <Properties>
+        <string>BackgroundColor</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\Life Note\LifeNote\App1\App1\View\SideNoteMenuPage.xaml</FilePath>
+      <Hash>D0-9C-C5-58-2E-E3-77-9B-F7-6C-B9-30-62-69-A2-84</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\Life Note\LifeNote\App1\App1\View\SideNotePage.xaml</FilePath>
+      <Hash>84-55-4B-25-E3-CC-B4-F2-49-B7-DF-E6-E4-64-B6-9B</Hash>
+      <Properties>
+        <string>BackgroundColor</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\fmace\Desktop\Life Note\LifeNote\App1\App1\View\StatisticsPage.xaml</FilePath>
+      <Hash>16-E7-67-BA-02-26-BF-7C-AE-93-72-FD-6F-75-31-51</Hash>
+      <Properties>
+        <string>BackgroundColor</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

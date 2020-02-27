@@ -4126,11 +4126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\LifeNote.csproj",
+      "projectUniqueName": "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1\\LifeNote.csproj",
       "projectName": "LifeNote",
-      "projectPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\LifeNote.csproj",
+      "projectPath": "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1\\LifeNote.csproj",
       "packagesPath": "C:\\Users\\fmace\\.nuget\\packages\\",
-      "outputPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\obj\\",
+      "outputPath": "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

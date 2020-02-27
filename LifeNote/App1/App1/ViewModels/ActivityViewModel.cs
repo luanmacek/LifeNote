@@ -17,7 +17,7 @@ namespace App1.ViewModels
             Activities = new ObservableCollection<Activity>();
             if (newnote)
             {
-                Activity activity = new Activity() { Name = "Family",NoteId =note.Id, Selected = false };
+                Activity activity = new Activity() { Name = "Family", NoteId = note.Id, Selected = false };
                 Activity activity2 = new Activity() { Name = "Study", NoteId = note.Id, Selected = false };
                 Activity activity3 = new Activity() { Name = "Job", NoteId = note.Id, Selected = false };
                 Activity activity4 = new Activity() { Name = "Friends", NoteId = note.Id, Selected = false };
@@ -31,14 +31,16 @@ namespace App1.ViewModels
                 Activities.Add(activity6);
                 Activities.Add(activity7);
                 Activities.Add(activity10);
+                saveActivities();
             }
-            saveActivities();
             load(note.Id);
         }
-        public async void saveActivities()
+        public void saveActivities()
         {
             foreach (Activity a in Activities)
-                await App.Database.SaveActivity(a);
+            {
+                App.Database.SaveActivity(a);
+            }
         }
         public async void load(int noteId)
         {
@@ -54,7 +56,7 @@ namespace App1.ViewModels
 
             }
         }
-       
+
 
     }
 }

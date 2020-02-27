@@ -15,12 +15,16 @@ namespace App1.Model
         public Database(string dbPath)
         {
             _database = new SQLiteAsyncConnection(dbPath);
-            //_database.DropTableAsync<Note>().Wait();
-            //_database.DropTableAsync<SideNote>().Wait();
-            //_database.DropTableAsync<Activity>().Wait();
+            dropDb();
             _database.CreateTableAsync<Note>().Wait();
             _database.CreateTableAsync<SideNote>().Wait();
             _database.CreateTableAsync<Activity>().Wait();
+        }
+        void dropDb()
+        {
+            _database.DropTableAsync<Note>().Wait();
+            _database.DropTableAsync<SideNote>().Wait();
+            _database.DropTableAsync<Activity>().Wait();
         }
         public Task<List<Note>> GetNotesAsync()
         {
@@ -102,7 +106,7 @@ namespace App1.Model
 
         public async Task<List<Activity>> GetActivitiesByNoteId(int noteId)
         {
-            List<Activity> activities = await _database.Table<Activity>().Where(i => i.NoteId == noteId).ToListAsync();   
+            List<Activity> activities = await _database.Table<Activity>().Where(i => i.NoteId == noteId).ToListAsync();
             return activities;
         }
 

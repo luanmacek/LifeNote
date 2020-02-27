@@ -1,50 +1,219 @@
+@string/appbar_scrolling_view_behavior;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
 @string/appbar_scrolling_view_behavior;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\flyoutcontent.xml
 @string/appbar_scrolling_view_behavior;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
 adaptive-icon;obj\Release\90\res\mipmap-anydpi-v26\icon.xml
 adaptive-icon;obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\anim\sfchart_fade_in.xml
+alpha;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\anim\sfchart_fade_out.xml
 alpha;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\anim\enterfromleft.xml
 alpha;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\shellcontent.xml
 android.support.design.widget.AppBarLayout;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\flyoutcontent.xml
 android.support.design.widget.AppBarLayout;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
 android.support.design.widget.AppBarLayout;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\shellcontent.xml
 android.support.design.widget.BottomNavigationView;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\shellcontent.xml
 android.support.design.widget.CoordinatorLayout;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\flyoutcontent.xml
 android.support.design.widget.CoordinatorLayout;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
 android.support.design.widget.CoordinatorLayout;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
 android.support.design.widget.TabLayout;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
 android.support.design.widget.TabLayout;obj\Release\90\res\layout\tabbar.xml
+android.support.v7.widget.RecyclerView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\flyoutcontent.xml
 android.support.v7.widget.RecyclerView;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\shellcontent.xml
 android.support.v7.widget.Toolbar;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
 android.support.v7.widget.Toolbar;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\shellcontent.xml
 android.support.v7.widget.Toolbar;obj\Release\90\res\layout\toolbar.xml
+animated-selector;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox.xml
+animated-vector;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_checked_to_indeterminate_animation.xml
+animated-vector;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_checked_to_unchecked_animation.xml
+animated-vector;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_indeterminate_to_checked_animation.xml
+animated-vector;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_indeterminate_to_unchecked_animation.xml
+animated-vector;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_unchecked_to_checked_animation.xml
+animated-vector;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_unchecked_to_indeterminate_animation.xml
+attr;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__attrs.xml
+attr;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\values\attrs.xml
+attr;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\55\jl\res\values\attrs.xml
+attr;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\58\jl\res\values\attrs.xml
 background;obj\Release\90\res\mipmap-anydpi-v26\icon.xml
 background;obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+bool;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__defaults.xml
 cache-path;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+CarouselView.FormsPlugin.Android.HorizontalViewPager;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\43\jl\res\layout\horizontal_viewpager.xml
+CarouselView.FormsPlugin.Android.VerticalViewPager;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\43\jl\res\layout\vertical_viewpager.xml
+color;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__colors.xml
+color;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__defaults.xml
 color;obj\Release\90\res\values\colors.xml
+Com.Syncfusion.Charts.GridLinesRenderer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartAnnotationRenderer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartAxisRenderer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartBehaviorRenderer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+com.syncfusion.charts.ChartLegendIconView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_legend_item.xml
+com.syncfusion.charts.ChartLegendItemsLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_legend.xml
+Com.Syncfusion.Charts.ChartLegendLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+com.syncfusion.charts.ChartLegendScrollView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_legend.xml
+com.syncfusion.charts.ChartLegendTitleView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_legend.xml
+Com.Syncfusion.Charts.ChartRootLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartStripLinesRenderer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartTitle;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.SeriesRenderer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.TechnicalIndicatorRenderer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Rangenavigator.GridLinesRenderer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\range_navigator_layout.xml
+Com.Syncfusion.Rangenavigator.LabelsRenderer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\range_navigator_layout.xml
+Com.Syncfusion.Rangenavigator.ThumbRenderer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\range_navigator_layout.xml
+Com.ViewPagerIndicator.CirclePageIndicator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\43\jl\res\layout\horizontal_viewpager.xml
+Com.ViewPagerIndicator.CirclePageIndicator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\43\jl\res\layout\vertical_viewpager.xml
+declare-styleable;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__attrs.xml
+declare-styleable;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\values\attrs.xml
+declare-styleable;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\55\jl\res\values\attrs.xml
+declare-styleable;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\58\jl\res\values\attrs.xml
+dimen;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__defaults.xml
 dimen;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\2\jl\res\values\dimen.xml
+enum;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__attrs.xml
+enum;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\values\attrs.xml
+enum;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\55\jl\res\values\attrs.xml
+enum;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\58\jl\res\values\attrs.xml
 external-cache-path;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Release\90\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_layout.xml
+FrameLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\range_navigator_layout.xml
 FrameLayout;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\bottomtablayout.xml
+group;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_checked.xml
+group;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_indeterminate.xml
+group;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_unchecked.xml
+HorizontalScrollView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_legend.xml
+ImageView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\43\jl\res\layout\horizontal_viewpager.xml
+ImageView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\43\jl\res\layout\vertical_viewpager.xml
+ImageView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\53\jl\res\layout\customizedimageview.xml
+integer;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__defaults.xml
+item;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\values\styles.xml
+item;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__styles.xml
+item;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox.xml
+item;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\values\values.xml
+item;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\57\jl\res\drawable\popup_forms_android_shadow.xml
 item;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\values\styles.xml
 item;obj\Release\90\res\values\styles.xml
+layer-list;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\57\jl\res\drawable\popup_forms_android_shadow.xml
+LinearLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\43\jl\res\layout\horizontal_viewpager.xml
+LinearLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\43\jl\res\layout\vertical_viewpager.xml
+LinearLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_legend.xml
+LinearLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_legend_item.xml
+LinearLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\53\jl\res\layout\customizedimageview.xml
 LinearLayout;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\bottomtablayout.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_indeterminate_to_checked_box_inner_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_indeterminate_to_checked_box_outer_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_indeterminate_to_checked_icon_null_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_checked_box_inner_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_checked_box_outer_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_checked_icon_null_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_indeterminate_from_checked_box_inner_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_indeterminate_from_checked_icon_null_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_indeterminate_from_unchecked_box_inner_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_indeterminate_from_unchecked_box_outer_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_indeterminate_from_unchecked_icon_null_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_box_inner_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_from_indeterminate_box_inner_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_from_indeterminate_check_path_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_from_indeterminate_icon_null_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_check_path_merged_animation.xml
+objectAnimator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_icon_null_animation.xml
+path;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_checked.xml
+path;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_indeterminate.xml
+path;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_unchecked.xml
+pathInterpolator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\interpolator\btn_checkbox_checked_animation_interpolator_0.xml
+pathInterpolator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\interpolator\btn_checkbox_checked_animation_interpolator_1.xml
+pathInterpolator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\interpolator\btn_checkbox_indeterminate_animation_interpolator_1.xml
+pathInterpolator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\interpolator\btn_checkbox_unchecked_animation_interpolator_0.xml
+pathInterpolator;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\interpolator\btn_checkbox_unchecked_animation_interpolator_1.xml
 paths;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\43\jl\res\layout\horizontal_viewpager.xml
+RelativeLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\43\jl\res\layout\vertical_viewpager.xml
+RelativeLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\range_navigator_layout.xml
+RelativeLayout;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\53\jl\res\layout\sfcombobox_layout.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\values\styles.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\44\jl\res\values\strings.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\strings.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__attrs.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__colors.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__defaults.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__styles.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\values\attrs.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\values\values.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\values\strings.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\54\jl\res\values\strings.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\55\jl\res\values\attrs.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\57\jl\res\values\strings.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\58\jl\res\values\attrs.xml
+resources;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\58\jl\res\values\strings.xml
 resources;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\2\jl\res\values\dimen.xml
 resources;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\2\jl\res\values\strings.xml
 resources;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\values\styles.xml
 resources;obj\Release\90\res\values\colors.xml
 resources;obj\Release\90\res\values\styles.xml
+scale;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\anim\sfchart_scale_in.xml
+scale;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\anim\sfchart_scale_out.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_indeterminate_to_checked_box_inner_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_indeterminate_to_checked_box_outer_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_indeterminate_to_checked_icon_null_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_checked_box_inner_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_checked_box_outer_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_checked_icon_null_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_indeterminate_from_checked_box_inner_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_indeterminate_from_checked_icon_null_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_indeterminate_from_unchecked_box_inner_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_indeterminate_from_unchecked_box_outer_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_indeterminate_from_unchecked_icon_null_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_box_inner_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_from_indeterminate_box_inner_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_from_indeterminate_check_path_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_from_indeterminate_icon_null_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_check_path_merged_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\anim\btn_checkbox_to_unchecked_icon_null_animation.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\anim\sfchart_fade_in.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\anim\sfchart_fade_out.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\anim\sfchart_scale_in.xml
+set;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\anim\sfchart_scale_out.xml
 set;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\anim\enterfromleft.xml
 set;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\anim\enterfromright.xml
 set;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\anim\exittoleft.xml
 set;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\anim\exittoright.xml
+shape;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\57\jl\res\drawable\popup_forms_android_shadow.xml
+string;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\44\jl\res\values\strings.xml
+string;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\strings.xml
+string;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\values\strings.xml
+string;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\54\jl\res\values\strings.xml
+string;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\57\jl\res\values\strings.xml
+string;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\58\jl\res\values\strings.xml
 string;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\2\jl\res\values\strings.xml
+style;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\values\styles.xml
+style;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\45\jl\res\values\vpi__styles.xml
 style;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\values\styles.xml
 style;obj\Release\90\res\values\styles.xml
+target;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_checked_to_indeterminate_animation.xml
+target;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_checked_to_unchecked_animation.xml
+target;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_indeterminate_to_checked_animation.xml
+target;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_indeterminate_to_unchecked_animation.xml
+target;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_unchecked_to_checked_animation.xml
+target;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_unchecked_to_indeterminate_animation.xml
+TextView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\52\jl\res\layout\chart_legend_item.xml
+TextView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\53\jl\res\layout\customizedimageview.xml
+TextView;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\53\jl\res\layout\customizedview.xml
+transition;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox.xml
 translate;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\anim\enterfromleft.xml
 translate;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\anim\enterfromright.xml
 translate;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\anim\exittoleft.xml
 translate;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\anim\exittoright.xml
+vector;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_checked.xml
+vector;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_indeterminate.xml
+vector;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\51\jl\res\drawable\btn_checkbox_unchecked.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\fmace\Desktop\Life Note\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml
 xamarin.forms.platform.android.appcompat.FormsViewPager;D:\fmace\Desktop\LifeNote\LifeNote\App1\App1.Android\obj\Release\90\lp\41\jl\res\layout\rootlayout.xml

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1.iOS\\LifeNote.iOS.csproj": {}
+    "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1.iOS\\LifeNote.iOS.csproj": {}
   },
   "projects": {
-    "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1.iOS\\LifeNote.iOS.csproj": {
+    "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1.iOS\\LifeNote.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1.iOS\\LifeNote.iOS.csproj",
+        "projectUniqueName": "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1.iOS\\LifeNote.iOS.csproj",
         "projectName": "LifeNote.iOS",
-        "projectPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1.iOS\\LifeNote.iOS.csproj",
+        "projectPath": "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1.iOS\\LifeNote.iOS.csproj",
         "packagesPath": "C:\\Users\\fmace\\.nuget\\packages\\",
-        "outputPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1.iOS\\obj\\",
+        "outputPath": "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\LifeNote.csproj": {
-                "projectPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\LifeNote.csproj"
+              "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1\\LifeNote.csproj": {
+                "projectPath": "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1\\LifeNote.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\LifeNote.csproj": {
+    "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1\\LifeNote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\LifeNote.csproj",
+        "projectUniqueName": "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1\\LifeNote.csproj",
         "projectName": "LifeNote",
-        "projectPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\LifeNote.csproj",
+        "projectPath": "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1\\LifeNote.csproj",
         "packagesPath": "C:\\Users\\fmace\\.nuget\\packages\\",
-        "outputPath": "D:\\fmace\\Desktop\\LifeNote-master\\LifeNote\\App1\\App1\\obj\\",
+        "outputPath": "D:\\fmace\\Desktop\\dlouhodobá maturitní práce\\LifeNote\\App1\\App1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
