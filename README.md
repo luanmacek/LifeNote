@@ -1,1 +1,2 @@
 # LifeNote
+maturitní projekt
