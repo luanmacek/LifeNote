@@ -1,2 +1,2 @@
 # LifeNote
-maturitní projekt
+graduation project
